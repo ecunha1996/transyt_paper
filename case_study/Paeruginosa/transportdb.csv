@@ -1,0 +1,704 @@
+PA3250,2-aminoethylphosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3770,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0030,choline,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0073,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0136,sugar,ABC,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0137,sugar,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0138,sugar,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0146,sugar,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0184,nitrate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0185,nitrate/sulfonate/taurine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0186,nitrate/sulfonate/taurine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0203,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0204,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0205,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0206,polyamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0222,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0280,sulfate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0281,sulfate,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0282,sulfate,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0283,sulfate/thiosulfate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0295,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0300,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0301,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0302,polyamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0303,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0304,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0313,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0314,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0323,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0324,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0325,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0326,polyamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0374,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0375,cell division,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0600,Unclassified,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0602,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0603,polyamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0604,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0605,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0606,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0716,phosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0777,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0860,lipid A,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0888,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0889,amino acid (lysine/arginine/ornithine/histidine/octopine),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0890,amino acid (lysine/arginine/ornithine/histidine/octopine),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA0892,phosphate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1070,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1071,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1072,branched-chain amino acid,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1073,branched-chain amino acid,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1074,leucine/valine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1113,multidrug,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1246,protease secretion,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1256,phosphate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1257,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1258,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1260,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1339,phosphate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1340,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1341,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1342,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1386,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1410,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1425,cobalt,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1475,heme,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1476,heme export,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1493,sulfate/thiosulfate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1531,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1807,D-methionine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1808,dipeptide/oligopeptide,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1809,dipeptide/oligopeptide,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1810,oligopeptide,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1811,oligopeptide,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1861,molybdate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1862,molybdate,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1863,mobybdenate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1876,toxin secretion,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1946,rhamnose,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1947,sugar (ribose?),ABC,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1948,sugar (ribose?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1964,heme,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2058,oligopeptide,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2059,dipeptide/oligopeptide,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2060,dipeptide/oligopeptide,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2061,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2202,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2203,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2204,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2294,nitrate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2295,nitrate/sulfonate/taurine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2307,nitrate/sulfonate/taurine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2308,nitrate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2309,methionine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2327,nitrate/sulfonate/taurine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2329,nitrate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2338,sugar,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2339,sugar,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2340,sugar,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2341,polyamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2349,methionine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2350,D-methionine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2351,D-methionine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2377,iron(III),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2390,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2397,pyoverdin (siderophore) exporter PvdE,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2407,manganese/zinc ion,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2408,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2409,manganese/zinc ion,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2410,manganese/zinc ion,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2548,phosphate,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2592,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2594,nitrate/sulfonate/taurine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2595,nitrate/sulfonate/taurine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2596,nitrate/sulfonate/taurine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2599,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2678,polysaccharide export,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2711,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2811,polysaccharide export,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2812,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2857,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2858,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2865,amino acid,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2902,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2912,phosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2913,cobalamin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2914,cobalamin/Fe3+-siderophores,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2923,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2924,amino acid (lysine/arginine/ornithine/histidine/octopine),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2925,amino acid (lysine/arginine/ornithine/histidine/octopine),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2926,phosphate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2986,lipoprotein releasing,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2987,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2988,lipoprotein releasing,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3019,heme,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3187,polyamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3188,sugar,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3189,sugar,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3190,sugar,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3211,toluene tolerance,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3212,D-methionine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3213,toluene tolerance,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3228,multidrug,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3236,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3252,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3253,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3254,polyamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3261,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3313,phosphonates,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3314,phosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3315,phosphonate,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3316,phosphonate,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3364,urea,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3375,phosphonate,ABC,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3376,phosphonate,ABC,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3382,phosphonate,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3383,phosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3384,phosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3394,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3395,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3401,multidrug,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3406,protease secretion,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3442,nitrate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3443,nitrate/sulfonate/taurine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3445,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3447,nitrate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3448,nitrate/sulfonate/taurine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3449,phosphonates,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3475,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3512,nitrate/sulfonate/taurine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3514,nitrate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3538,polyamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3607,polyamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3608,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3609,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3610,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3670,Unclassified,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3671,multidrug,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3672,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3764,amino acid,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3837,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3838,phosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3858,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3865,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3888,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3889,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3890,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3891,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3931,methionine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3936,nitrate/sulfonate/taurine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3937,nitrate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3938,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4027,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4037,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4038,multidrug,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4039,Unclassified,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4045,iron-hydroxamate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4049,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4064,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4065,lipoprotein releasing,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4143,toxin secretion,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4158,phosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4159,iron-hydroxamate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4160,cobalamin/Fe3+-siderophores,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4161,ferric enterobactin,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4192,phosphate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4193,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4194,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4195,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4222,lipid A,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4223,lipid A,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4454,toluene tolerance,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4455,toluene tolerance,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4456,sulfate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4461,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4496,dipeptide/oligopeptide,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4497,dipeptide/oligopeptide,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4500,dipeptide/oligopeptide,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4502,dipeptide/oligopeptide,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4503,dipeptide/oligopeptide,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4504,dipeptide/oligopeptide,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4505,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4506,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4593,efflux (antimicrobial peptide?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4594,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4595,phosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4687,iron(III),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4688,iron(III),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4706,cobalt,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4707,cobalamin/Fe3+-siderophores,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4708,iron-hydroxamate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4858,urea,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4859,branched-chain amino acid,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4860,branched-chain amino acid,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4861,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4862,molybdate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4909,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4910,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4911,branched-chain amino acid,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4912,branched-chain amino acid,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4913,leucine/valine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4985,spermidine/putrescine,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4997,lipid A,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5074,phosphate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5075,amino aicd (glutamine/glutamate/aspartate?),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5076,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5082,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5094,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5095,glycine betaine/L-proline,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5096,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5101,phosphonates,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5103,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5137,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5138,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5139,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5152,phosphate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5153,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5154,amino acid (lysine/arginine/ornithine/histidine/octopine),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5155,amino acid (lysine/arginine/ornithine/histidine/octopine),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5216,iron(III),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5217,2-aminoethylphosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5230,multidrug,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5231,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5252,daunorubicin,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5270,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5317,dipeptide/oligopeptide,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5366,phosphate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5367,phosphate,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5368,phosphate,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5369,phosphate,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5376,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5377,glycine betaine/L-proline,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5378,choline,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5388,choline,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5450,polysaccharide export,ABC,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5451,polysaccharide export,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5472,amino acid (glutamine/glutamate/aspartate?),binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5498,zinc ion,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5500,molybdate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5501,manganese/zinc ion,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5503,D-methionine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5504,D-methionine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5505,methionine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA5545,phosphonates,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA4302,thiamine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1854,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA1477,heme export,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA3400,multidrug,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+PA2984,Unclassified,,DNA-T,The Bacterial Competence-related DNA Transformation Transporter (DNA-T) Family,ATP-Dependent,3.A.11
+PA3140,Unclassified,,DNA-T,The Bacterial Competence-related DNA Transformation Transporter (DNA-T) Family,ATP-Dependent,3.A.11
+PA5553,protons,,F-ATPase,The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily ATP-Dependent,3.A.2
+PA5554,protons,,F-ATPase,The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily ATP-Dependent,3.A.2
+PA5555,protons,,F-ATPase,The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily ATP-Dependent,3.A.2
+PA5556,protons,,F-ATPase,The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily ATP-Dependent,3.A.2
+PA5557,protons,,F-ATPase,The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily ATP-Dependent,3.A.2
+PA5558,protons,,F-ATPase,The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily ATP-Dependent,3.A.2
+PA5559,protons,,F-ATPase,The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily ATP-Dependent,3.A.2
+PA5560,protons,,F-ATPase,The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily ATP-Dependent,3.A.2
+PA5561,protons,,F-ATPase,The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily ATP-Dependent,3.A.2
+PA1101,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1446,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1447,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1448,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1449,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1452,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1690,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1691,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1692,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1693,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1703,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1717,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA1723,Unclassified,,IIISP,The Type III (Virulence-related) Secretory Pathway (IIISP) Family,ATP-Dependent,3.A.6
+PA0768,Unclassified,,IVSP,The Type IV (Conjugal DNA-Protein Transfer or VirB) Secretory Pathway (IVSP) Family,ATP-Dependent,3.A.7
+PA0681,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA0687,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA2675,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA2676,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA3097,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA3098,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA3099,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA3101,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA3102,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA4525,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA4528,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA4549,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA4550,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA4556,Unclassified,,MTB,The Outer Membrane Protein Secreting Main Terminal Branch (MTB),ATP-Dependent,3.A.15
+PA1429,calcium ion/manganese ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+PA1549,zinc/cadmium/cobalt ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+PA1633,potassium ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+PA1634,potassium ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+PA1635,potassium ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+PA2435,zinc/cadmium/cobalt ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+PA3690,zinc/cadmium/cobalt ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+PA3920,zinc/cadmium/cobalt ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+PA4825,magnesium ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+PA0188,Unclassified,,AEC,The Auxin Efflux Carrier (AEC) Family,Secondary Transporter,2.A.69
+PA1735,Unclassified,,AEC,The Auxin Efflux Carrier (AEC) Family,Secondary Transporter,2.A.69
+PA5466,Unclassified,,AEC,The Auxin Efflux Carrier (AEC) Family,Secondary Transporter,2.A.69
+PA2252,sodium ion:alanine symporter,,AGCS,The Alanine or Glycine:Cation Symporter (AGCS) Family,Secondary Transporter,2.A.25
+PA2533,sodium ion:alanine symporter,,AGCS,The Alanine or Glycine:Cation Symporter (AGCS) Family,Secondary Transporter,2.A.25
+PA3641,sodium ion:alanine symporter,,AGCS,The Alanine or Glycine:Cation Symporter (AGCS) Family,Secondary Transporter,2.A.25
+PA1007,Autoinducer-2 export,,AI-2E,The Autoinducer-2 Exporter (AI-2E) Family (Formerly the PerM Family  TC #9.B.22),Secondary Transporter,2.A.86
+PA1625,Autoinducer-2 export,,AI-2E,The Autoinducer-2 Exporter (AI-2E) Family (Formerly the PerM Family  TC #9.B.22),Secondary Transporter,2.A.86
+PA2651,Autoinducer-2 export,,AI-2E,The Autoinducer-2 Exporter (AI-2E) Family (Formerly the PerM Family  TC #9.B.22),Secondary Transporter,2.A.86
+PA0129,GABA,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA0220,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA0322,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA0789,GABA,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA0866,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA1147,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA1194,arginine:ornithine antiporter,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA1485,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA1819,arginine:ornithine antiporter,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA2041,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA2079,GABA,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA3000,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA3597,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA4023,ethanolamine,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA4072,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA4628,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA4804,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA4981,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA5097,GABA,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA5170,arginine:ornithine antiporter,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA5510,amino acid,,APC,The Amino Acid-Polyamine-Organocation (APC) Family,Secondary Transporter,2.A.3
+PA0454,fusaric acid efflux?,,ArAE,The Aromatic Acid Exporter (ArAE) Family,Secondary Transporter,2.A.85
+PA0875,fusaric acid efflux?,,ArAE,The Aromatic Acid Exporter (ArAE) Family,Secondary Transporter,2.A.85
+PA1232,fusaric acid efflux?,,ArAE,The Aromatic Acid Exporter (ArAE) Family,Secondary Transporter,2.A.85
+PA1270,fusaric acid efflux?,,ArAE,The Aromatic Acid Exporter (ArAE) Family,Secondary Transporter,2.A.85
+PA2431,fusaric acid efflux?,,ArAE,The Aromatic Acid Exporter (ArAE) Family,Secondary Transporter,2.A.85
+PA3065,fusaric acid efflux?,,ArAE,The Aromatic Acid Exporter (ArAE) Family,Secondary Transporter,2.A.85
+PA3305,fusaric acid efflux?,,ArAE,The Aromatic Acid Exporter (ArAE) Family,Secondary Transporter,2.A.85
+PA3359,fusaric acid efflux?,,ArAE,The Aromatic Acid Exporter (ArAE) Family,Secondary Transporter,2.A.85
+PA3893,fusaric acid efflux?,,ArAE,The Aromatic Acid Exporter (ArAE) Family,Secondary Transporter,2.A.85
+PA2278,arsenite (ArsB),,ArsB,The Arsenite-Antimonite (ArsB) Efflux Family,Secondary Transporter,2.A.45
+PA2002,short-chain fatty acid,,AtoE,The Short Chain Fatty Acid Uptake (AtoE) Family,Secondary Transporter,2.A.73
+PA1650,sodium ion/?,,BASS,The Bile Acid:Na+ Symporter (BASS) Family,Secondary Transporter,2.A.28
+PA3264,sodium ion/?,,BASS,The Bile Acid:Na+ Symporter (BASS) Family,Secondary Transporter,2.A.28
+PA2026,sodium ion/?,,BASS,The Bile Acid:Na+ Symporter (BASS) Family,Secondary Transporter,2.A.28
+PA3933,glycine betaine/carnitine/choline,,BCCT,The Betaine/Carnitine/Choline Transporter (BCCT) Family,Secondary Transporter,2.A.15
+PA5291,glycine betaine/carnitine/choline,,BCCT,The Betaine/Carnitine/Choline Transporter (BCCT) Family,Secondary Transporter,2.A.15
+PA5375,glycine betaine/carnitine/choline,,BCCT,The Betaine/Carnitine/Choline Transporter (BCCT) Family,Secondary Transporter,2.A.15
+PA1651,benzoate,,BenE,The Benzoate:H+ Symporter (BenE) Family,Secondary Transporter,2.A.46
+PA0397,cation efflux,,CDF,The Cation Diffusion Facilitator (CDF) Family,Secondary Transporter,2.A.4
+PA1297,cation efflux,,CDF,The Cation Diffusion Facilitator (CDF) Family,Secondary Transporter,2.A.4
+PA3963,cation efflux,,CDF,The Cation Diffusion Facilitator (CDF) Family,Secondary Transporter,2.A.4
+PA4289,chromate ion,,CHR,The Chromate Ion Transporter (CHR) Family,Secondary Transporter,2.A.51
+PA5468,proton:citrate symporter,,CitMHS,The Citrate-Mg2+:H+ (CitM) Citrate-Ca2+:H+ (CitH) Symporter (CitMHS) Family,Secondary Transporter,2.A.11
+PA2135,sodium ion:proton antiporter,,CPA1,The Monovalent Cation:Proton Antiporter-1 (CPA1) Family,Secondary Transporter,2.A.36
+PA3660,sodium ion:proton antiporter,,CPA1,The Monovalent Cation:Proton Antiporter-1 (CPA1) Family,Secondary Transporter,2.A.36
+PA3887,sodium ion:proton antiporter,,CPA1,The Monovalent Cation:Proton Antiporter-1 (CPA1) Family,Secondary Transporter,2.A.36
+PA5021,sodium ion:proton antiporter,,CPA1,The Monovalent Cation:Proton Antiporter-1 (CPA1) Family,Secondary Transporter,2.A.36
+PA3739,potassium/sodium ion:proton antiporter,,CPA2,The Monovalent Cation:Proton Antiporter-2 (CPA2) Family,Secondary Transporter,2.A.37
+PA1207,potassium/sodium ion:proton antiporter,,CPA2,The Monovalent Cation:Proton Antiporter-2 (CPA2) Family,Secondary Transporter,2.A.37
+PA5518,potassium/sodium ion:proton antiporter,,CPA2,The Monovalent Cation:Proton Antiporter-2 (CPA2) Family,Secondary Transporter,2.A.37
+PA5529,potassium/sodium ion:proton antiporter,,CPA2,The Monovalent Cation:Proton Antiporter-2 (CPA2) Family,Secondary Transporter,2.A.37
+PA1055,multicomponent sodium ion:proton antiporter,MnhC,CPA3,The Monovalent Cation (K+ or Na+):Proton Antiporter-3 (CPA3) Family,Secondary Transporter,2.A.63
+PA1057,multicomponent sodium ion:proton antiporter,MnhE,CPA3,The Monovalent Cation (K+ or Na+):Proton Antiporter-3 (CPA3) Family,Secondary Transporter,2.A.63
+PA1058,multicomponent sodium ion:proton antiporter,MnhF,CPA3,The Monovalent Cation (K+ or Na+):Proton Antiporter-3 (CPA3) Family,Secondary Transporter,2.A.63
+PA1059,multicomponent sodium ion:proton antiporter,MnhG,CPA3,The Monovalent Cation (K+ or Na+):Proton Antiporter-3 (CPA3) Family,Secondary Transporter,2.A.63
+PA1054,multicomponent sodium ion:proton antiporter,MnhA,CPA3,The Monovalent Cation (K+ or Na+):Proton Antiporter-3 (CPA3) Family,Secondary Transporter,2.A.63
+PA1056,multicomponent sodium ion:proton antiporter,MnhD,CPA3,The Monovalent Cation (K+ or Na+):Proton Antiporter-3 (CPA3) Family,Secondary Transporter,2.A.63
+PA2647,multicomponent sodium ion:proton antiporter,MnhA,CPA3,The Monovalent Cation (K+ or Na+):Proton Antiporter-3 (CPA3) Family,Secondary Transporter,2.A.63
+PA0119,proton/sodium ion:glutamate/aspartate symporter,,DAACS,The Dicarboxylate/Amino Acid:Cation (Na+ or H+) Symporter (DAACS) Family,Secondary Transporter,2.A.23
+PA1183,proton/sodium ion:glutamate/aspartate symporter,,DAACS,The Dicarboxylate/Amino Acid:Cation (Na+ or H+) Symporter (DAACS) Family,Secondary Transporter,2.A.23
+PA2042,sodium ion:serine/threonine symporter,,DAACS,The Dicarboxylate/Amino Acid:Cation (Na+ or H+) Symporter (DAACS) Family,Secondary Transporter,2.A.23
+PA5479,proton/sodium ion:glutamate/aspartate symporter,,DAACS,The Dicarboxylate/Amino Acid:Cation (Na+ or H+) Symporter (DAACS) Family,Secondary Transporter,2.A.23
+PA3839,sodium ion:dicarboxylate/sulfate,,DASS,The Divalent Anion:Na+ Symporter (DASS) Family,Secondary Transporter,2.A.47
+PA0239,drug/metabolite?,DME,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA0485,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA0539,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA0786,multidrug efflux (SMR),SMR,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA1060,drug/metabolite?,DME,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA1265,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA1360,drug/metabolite?,DME,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA1411,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA1540,multidrug efflux (SMR),SMR,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA1541,multidrug efflux (SMR),SMR,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA1882,multidrug efflux (SMR),SMR,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA1977,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA2101,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA2576,chloramphenicol (RarD homolog),RarD,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA2628,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA2712,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3222,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3265,multidrug efflux (SMR),SMR,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3320,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3358,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3473,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3474,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3557,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3558,multidrug efflux (SMR),SMR,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3605,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3897,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA4287,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA4779,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA4783,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA4815,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA4834,drug/metabolite?,DME,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA4990,multidrug efflux (SMR),SMR,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA5444,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+PA3176,sodium ion:glutamate symporter,,ESS,The Glutamate:Na+ Symporter (ESS) Family,Secondary Transporter,2.A.27
+PA2777,formate/nitrite,,FNT,The Formate-Nitrite Transporter (FNT) Family,Secondary Transporter,2.A.44
+PA1051,gluconate,,GntP,The Gluconate:H+ Symporter (GntP) Family,Secondary Transporter,2.A.8
+PA2322,gluconate,,GntP,The Gluconate:H+ Symporter (GntP) Family,Secondary Transporter,2.A.8
+PA3548,glycerol:proton symporter ,,GUP,The Glycerol Uptake (GUP) Family,Secondary Transporter,2.A.50
+PA3766,tryptophan/tyrosine,,HAAAP,The Hydroxy/Aromatic Amino Acid Permease (HAAAP) Family,Secondary Transporter,2.A.42
+PA1916,tryptophan/tyrosine,,HAAAP,The Hydroxy/Aromatic Amino Acid Permease (HAAAP) Family,Secondary Transporter,2.A.42
+PA5434,aromatic amino acid,,HAAAP,The Hydroxy/Aromatic Amino Acid Permease (HAAAP) Family,Secondary Transporter,2.A.42
+PA0917,potassium ion uptake,,KUP,The K+ Uptake Permease (KUP) Family,Secondary Transporter,2.A.72
+PA4770,L-lactate,,LctP,The Lactate Permease (LctP) Family,Secondary Transporter,2.A.14
+PA2039,branched-chain amino acid efflux (AzlC),AzlC,LIV-E,The Branched Chain Amino Acid Exporter (LIV-E) Family,Secondary Transporter,2.A.78
+PA1590,branched-chain amino acid,,LIVCS,The Branched Chain Amino Acid:Cation Symporter (LIVCS) Family,Secondary Transporter,2.A.26
+PA1971,branched-chain amino acid,,LIVCS,The Branched Chain Amino Acid:Cation Symporter (LIVCS) Family,Secondary Transporter,2.A.26
+PA4365,lysine efflux,,LysE,The L-Lysine Exporter (LysE) Family,Secondary Transporter,2.A.75
+PA0229,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA0235,metabolite (benzoate?),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA0241,D-galactonate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA0246,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA0273,cyanate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA0334,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA0458,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA0703,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA0811,nitrate/nitrite,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA0920,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1019,metabolite (benzoate?),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1108,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1131,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1144,multidrug efflux?,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1212,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1236,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1262,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1282,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1286,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1313,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1316,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1352,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1412,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1569,multidrug efflux?,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1626,cyanate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1682,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1783,nitrate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1848,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1908,sugar efflux?,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1993,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2006,metabolite (benzoate?),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2055,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2068,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2091,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2092,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2114,metabolite (benzoate?),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2210,D-galactonate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2214,D-galactonate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2219,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2262,D-galactonate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2269,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2314,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2472,metabolite (benzoate?),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2500,cyanate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2589,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2701,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2835,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA2933,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3137,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3267,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3303,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3336,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3355,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3465,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3467,metabolite (benzoate?),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3532,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3536,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3573,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3595,tetracycline efflux?,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3709,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3718,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3749,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3773,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3876,nitrate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3877,nitrate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA3926,glycerol-3-phosphate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4096,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4113,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4126,4-hydroxyphenylacetate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4136,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4187,nitrate/nitrite,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4218,Acetyl-CoA:CoA antiporter,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4233,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4343,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4355,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4393,Acetyl-CoA:CoA antiporter,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4622,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4654,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4887,glycerol-3-phosphate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4900,metabolite (benzoate?),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA4903,metabolite (benzoate?),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5030,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5160,multidrug efflux (EmrB/QacA subfamily),,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5219,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5235,glycerol-3-phosphate,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5282,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5311,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5370,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5476,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5530,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA5548,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+PA1361,multidrug efflux,MATE,MOP,The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily,Secondary Transporter,2.A.66
+PA2241,virulence factor MviN,MVF,MOP,The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily,Secondary Transporter,2.A.66
+PA3058,multidrug efflux,,MOP,The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily,Secondary Transporter,2.A.66
+PA3153,polysaccharide export,PST,MOP,The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily,Secondary Transporter,2.A.66
+PA3884,multidrug efflux,,MOP,The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily,Secondary Transporter,2.A.66
+PA4562,virulence factor MviN,MVF,MOP,The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily,Secondary Transporter,2.A.66
+PA4821,multidrug efflux,MATE,MOP,The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily,Secondary Transporter,2.A.66
+PA5294,multidrug efflux,MATE,MOP,The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily,Secondary Transporter,2.A.66
+PA0215,sodium ion:malonate symporter,,MSS,The Malonate:Na+ Symporter (MSS) Family,Secondary Transporter,2.A.70
+PA0216,sodium ion:malonate symporter,,MSS,The Malonate:Na+ Symporter (MSS) Family,Secondary Transporter,2.A.70
+PA0438,cytosine/purines/uracil/thiamine/allantoin,,NCS1,The Nucleobase:Cation Symporter-1 (NCS1) Family,Secondary Transporter,2.A.39
+PA0443,cytosine/purines/uracil/thiamine/allantoin,,NCS1,The Nucleobase:Cation Symporter-1 (NCS1) Family,Secondary Transporter,2.A.39
+PA0476,cytosine/purines/uracil/thiamine/allantoin,,NCS1,The Nucleobase:Cation Symporter-1 (NCS1) Family,Secondary Transporter,2.A.39
+PA1419,cytosine/purines/uracil/thiamine/allantoin,,NCS1,The Nucleobase:Cation Symporter-1 (NCS1) Family,Secondary Transporter,2.A.39
+PA2073,cytosine/purines/uracil/thiamine/allantoin,,NCS1,The Nucleobase:Cation Symporter-1 (NCS1) Family,Secondary Transporter,2.A.39
+PA5099,cytosine/purines/uracil/thiamine/allantoin,,NCS1,The Nucleobase:Cation Symporter-1 (NCS1) Family,Secondary Transporter,2.A.39
+PA1519,xanthine/uracil,,NCS2,The Nucleobase:Cation Symporter-2 (NCS2) Family,Secondary Transporter,2.A.40
+PA4719,xanthine/uracil,,NCS2,The Nucleobase:Cation Symporter-2 (NCS2) Family,Secondary Transporter,2.A.40
+PA0166,xanthine/uracil,,NCS2,The Nucleobase:Cation Symporter-2 (NCS2) Family,Secondary Transporter,2.A.40
+PA0352,xanthine/uracil,,NCS2,The Nucleobase:Cation Symporter-2 (NCS2) Family,Secondary Transporter,2.A.40
+PA1507,xanthine/uracil,,NCS2,The Nucleobase:Cation Symporter-2 (NCS2) Family,Secondary Transporter,2.A.40
+PA2938,xanthine/uracil,,NCS2,The Nucleobase:Cation Symporter-2 (NCS2) Family,Secondary Transporter,2.A.40
+PA4647,xanthine/uracil,,NCS2,The Nucleobase:Cation Symporter-2 (NCS2) Family,Secondary Transporter,2.A.40
+PA1820,sodium ion:proton antiporter,,NhaB,The NhaB Na+:H+ Antiporter (NhaB) Family,Secondary Transporter,2.A.34
+PA2653,sodium ion:proton antiporter,,NhaC,The NhaC Na+:H+ Antiporter (NhaC) Family,Secondary Transporter,2.A.35
+PA0809,manganese/iron ion,,Nramp,The Metal Ion (Mn2+-iron) Transporter (Nramp) Family,Secondary Transporter,2.A.55
+PA4334,manganese/iron ion,,Nramp,The Metal Ion (Mn2+-iron) Transporter (Nramp) Family,Secondary Transporter,2.A.55
+PA3934,oligopeptide,,OPT,The Oligopeptide Transporter (OPT) Family,Secondary Transporter,2.A.67
+PA5568,60 KD inner membrane protein OxaA homolog,,Oxa1,The Cytochrome Oxidase Biogenesis (Oxa1) Family,Secondary Transporter,2.A.9
+PA2757,chlorhexidine,,PACE,The Chlorhexadine Exporter (CHX) family,Secondary Transporter,2.A.117
+PA2880,chlorhexidine,,PACE,The Chlorhexadine Exporter (CHX) family,Secondary Transporter,2.A.117
+PA0450,phosphate,,PiT,The Inorganic Phosphate Transporter (PiT) Family,Secondary Transporter,2.A.20
+PA4292,phosphate,,PiT,The Inorganic Phosphate Transporter (PiT) Family,Secondary Transporter,2.A.20
+PA5207,phosphate,,PiT,The Inorganic Phosphate Transporter (PiT) Family,Secondary Transporter,2.A.20
+PA4822,sodium ion:phosphate symporter,,PNaS,The Phosphate:Na+ Symporter (PNaS) Family,Secondary Transporter,2.A.58
+PA5473,sodium ion:phosphate symporter,,PNaS,The Phosphate:Na+ Symporter (PNaS) Family,Secondary Transporter,2.A.58
+PA0417,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA1620,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA2306,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA2710,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA2916,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA2929,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA3665,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA4507,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA4757,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA5249,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA5341,amino acid efflux,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA5205,neutral amino acid/multiple antibiotic resistance,,RhtB,The Resistance to Homoserine/Threonine (RhtB) Family,Secondary Transporter,2.A.76
+PA0158,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA0426,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA1436,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA2018,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA2494,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA2520,cobalt/zinc/cadmium ion efflux (HME subfamily),HME,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA2526,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA2527,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA2836,multidrug efflux,,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA3079,multidrug/solvent efflux (HAE3 subfamily),HAE3,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA3136,multidrug efflux,,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA3522,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA3676,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA3892,multidrug efflux,,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA4207,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA4375,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA4598,multidrug/solvent efflux (HAE1 subfamily),HAE1,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA4718,protein export (SecDF),SecDF,RND,The Resistance-Nodulation-Cell Division (RND) Superfamily,Secondary Transporter,2.A.6
+PA0287,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA0783,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA1336,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA1418,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA1636,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA3234,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA3271,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA4112,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA4398,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA4725,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA5165,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA5484,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+PA0029,sulfate,,SulP,The Sulfate Permease (SulP) Family,Secondary Transporter,2.A.53
+PA0103,sulfate,,SulP,The Sulfate Permease (SulP) Family,Secondary Transporter,2.A.53
+PA1647,sulfate,,SulP,The Sulfate Permease (SulP) Family,Secondary Transporter,2.A.53
+PA2563,sulfate,,SulP,The Sulfate Permease (SulP) Family,Secondary Transporter,2.A.53
+PA5068,protein export,,Tat,The Twin Arginine Targeting (Tat) Family,Secondary Transporter,2.A.64
+PA5070,protein export,,Tat,The Twin Arginine Targeting (Tat) Family,Secondary Transporter,2.A.64
+PA4479,Unclassified,,ThrE,The Threonine/Serine Exporter (ThrE) Family,Secondary Transporter,2.A.79
+PA0884,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA0885,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA0886,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA3779,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA3780,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA3781,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA4616,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA5167,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA5168,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA5169,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA5544,C4-dicarboxylate,,TRAP-T,The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family,Secondary Transporter,2.A.56
+PA3210,potassium ion uptake,,Trk,The K+ Transporter (Trk) Family,Secondary Transporter,2.A.38
+PA0752,tricarboxylate (TctA),TctA,TTT,The Tricarboxylate Transporter (TTT) Family,Secondary Transporter,2.A.80
+PA0753,tricarboxylate,,TTT,The Tricarboxylate Transporter (TTT) Family,Secondary Transporter,2.A.80
+PA0754,tricarboxylate (TctC),TctC,TTT,The Tricarboxylate Transporter (TTT) Family,Secondary Transporter,2.A.80
+PA2207,tricarboxylate (TctA),TctA,TTT,The Tricarboxylate Transporter (TTT) Family,Secondary Transporter,2.A.80
+PA3851,vacuolar iron uptake transporter homolog,,VIT,The Vacuolar Iron Transporter (VIT) Family,Secondary Transporter,2.A.89
+PA4467,zinc ion,,ZIP,The Zinc (Zn2+)-Iron (Fe2+) Permease (ZIP) Family,Secondary Transporter,2.A.5
+PA4629,zinc ion,,ZIP,The Zinc (Zn2+)-Iron (Fe2+) Permease (ZIP) Family,Secondary Transporter,2.A.5
+PA3039,ammonium,,Amt,The Ammonia Transporter Channel (Amt) Family,Ion Channels,1.A.11
+PA5287,ammonium,,Amt,The Ammonia Transporter Channel (Amt) Family,Ion Channels,1.A.11
+PA3494,ammonium,,Amt,The Ammonia Transporter Channel (Amt) Family,Ion Channels,1.A.11
+PA4404,Unclassified,,EVE1-C,The Envelope Virus E1 Channel (EVE1-C) Family,Ion Channels,1.A.34
+PA3581,glycerol uptake,,MIP,The Major Intrinsic Protein (MIP) Family,Ion Channels,1.A.8
+PA4034,glycerol uptake,,MIP,The Major Intrinsic Protein (MIP) Family,Ion Channels,1.A.8
+PA1773,magnesium/cobalt ion,,MIT,The CorA Metal Ion Transporter (MIT) Family,Ion Channels,1.A.35
+PA1873,magnesium/cobalt ion,,MIT,The CorA Metal Ion Transporter (MIT) Family,Ion Channels,1.A.35
+PA5268,magnesium/cobalt ion,,MIT,The CorA Metal Ion Transporter (MIT) Family,Ion Channels,1.A.35
+PA0198,Unclassified,,Mot/Exb,The H+- or Na+-translocating Bacterial Flagellar Motor 1ExbBD Outer Membrane Transport Energizer (Mo,Ion Channels,1.A.30
+PA0969,Unclassified,,Mot/Exb,The H+- or Na+-translocating Bacterial Flagellar Motor 1ExbBD Outer Membrane Transport Energizer (Mo,Ion Channels,1.A.30
+PA0970,Unclassified,,Mot/Exb,The H+- or Na+-translocating Bacterial Flagellar Motor 1ExbBD Outer Membrane Transport Energizer (Mo,Ion Channels,1.A.30
+PA1460,Unclassified,,Mot/Exb,The H+- or Na+-translocating Bacterial Flagellar Motor 1ExbBD Outer Membrane Transport Energizer (Mo,Ion Channels,1.A.30
+PA2983,Unclassified,,Mot/Exb,The H+- or Na+-translocating Bacterial Flagellar Motor 1ExbBD Outer Membrane Transport Energizer (Mo,Ion Channels,1.A.30
+PA4954,Unclassified,,Mot/Exb,The H+- or Na+-translocating Bacterial Flagellar Motor 1ExbBD Outer Membrane Transport Energizer (Mo,Ion Channels,1.A.30
+PA4614,large-conductance mechanosensitive ion channel,,MscL,The Large Conductance Mechanosensitive Ion Channel (MscL) Family,Ion Channels,1.A.22
+PA1408,small-conductance mechanosensitive ion channel,,MscS,The Small Conductance Mechanosensitive Ion Channel (MscS) Family,Ion Channels,1.A.23
+PA1775,small-conductance mechanosensitive ion channel,,MscS,The Small Conductance Mechanosensitive Ion Channel (MscS) Family,Ion Channels,1.A.23
+PA3468,small-conductance mechanosensitive ion channel,,MscS,The Small Conductance Mechanosensitive Ion Channel (MscS) Family,Ion Channels,1.A.23
+PA4394,small-conductance mechanosensitive ion channel,,MscS,The Small Conductance Mechanosensitive Ion Channel (MscS) Family,Ion Channels,1.A.23
+PA4925,small-conductance mechanosensitive ion channel,,MscS,The Small Conductance Mechanosensitive Ion Channel (MscS) Family,Ion Channels,1.A.23
+PA5022,small-conductance mechanosensitive ion channel,,MscS,The Small Conductance Mechanosensitive Ion Channel (MscS) Family,Ion Channels,1.A.23
+PA5121,small-conductance mechanosensitive ion channel,,MscS,The Small Conductance Mechanosensitive Ion Channel (MscS) Family,Ion Channels,1.A.23
+PA5251,small-conductance mechanosensitive ion channel,,MscS,The Small Conductance Mechanosensitive Ion Channel (MscS) Family,Ion Channels,1.A.23
+PA1037,Unclassified,,TRIC,The Homotrimeric Cation Channel (TRIC) Family,Ion Channels,1.A.62
+PA3362,amide/urea,,UAC,The Urea/Amide Channel (UAC) Family,Ion Channels,1.A.29
+PA1497,urea,,UT,The Urea Transporter (UT) Family,Ion Channels,1.A.28
+PA0742,potassium ion channel,,VIC,The Voltage-gated Ion Channel (VIC) Superfamily,Ion Channels,1.A.1
+PA1496,potassium ion channel,,VIC,The Voltage-gated Ion Channel (VIC) Superfamily,Ion Channels,1.A.1
+PA4358,ferrous ion,,FeoB,The Ferrous Iron Uptake (FeoB) Family,Unclassified,9.A.8
+PA2187,Unclassified,,FeT,The Low Affinity Fe2+ Transporter (FeT) Family,Unclassified,9.A.9
+PA3748,heavy metal ion,,HCC,The HlyC/CorC (HCC) Family,Unclassified,9.A.40
+PA5362,hemolysin C (HlyC) homolog,,HCC,The HlyC/CorC (HCC) Family,Unclassified,9.A.40
+PA5248,iron ion,,ILT,The Iron/Lead Transporter (ILT) Superfamily,Unclassified,9.A.10
+PA0913,magnesium ion,,MgtE,The Mg2+ Transporter-E (MgtE) Family,Unclassified,9.A.19
+PA1170,tellurium ion efflux,,TerC,The Tellurium Ion Resistance (TerC) Family,Unclassified,9.A.30
+PA2549,tellurium ion efflux,,TerC,The Tellurium Ion Resistance (TerC) Family,Unclassified,9.A.30
+PA5250,tellurium ion efflux,,TerC,The Tellurium Ion Resistance (TerC) Family,Unclassified,9.A.30
+PA5469,tellurium ion efflux,,TerC,The Tellurium Ion Resistance (TerC) Family,Unclassified,9.A.30
+PA1331,tellurium ion efflux,,TerC,The Tellurium Ion Resistance (TerC) Family,Unclassified,9.A.30
+PA0392,Unclassified,,YggT,The YggT or Fanciful K+ Uptake-B (FkuB; YggT) Family,Unclassified,9.A.4
+PA3760,Unclassified,EnzymeI,GPTS,General PTS,Phosphotransferase System (PTS),4.A
+PA3562,Unclassified,EnzymeI,GPTS,General PTS,Phosphotransferase System (PTS),4.A
+PA0337,Unclassified,EnzymeI,GPTS,General PTS,Phosphotransferase System (PTS),4.A
+PA4466,Unclassified,HPr,GPTS,General PTS,Phosphotransferase System (PTS),4.A
+PA3761,glucose/maltose/N-acetylglucosamine,EnzymeIIABC,SSPTS,Sugar Specific PTS,Phosphotransferase System (PTS),4.A
+PA3560,fructose,EnzymeIIBC,SSPTS,Sugar Specific PTS,Phosphotransferase System (PTS),4.A
+PA4464,fructose,EnzymeIIA,SSPTS,Sugar Specific PTS,Phosphotransferase System (PTS),4.A
+PA3894,Unclassified,,OMF,The Outer Membrane Factor (OMF) Family,Outer Membrane Porins,1.B.17
+PA5159,Unclassified,,OMF,The Outer Membrane Factor (OMF) Family,Outer Membrane Porins,1.B.17
+PA0078,Unclassified,,OOP,The OmpA-OmpF Porin (OOP) Family,Outer Membrane Porins,1.B.6
+PA1461,Unclassified,,OOP,The OmpA-OmpF Porin (OOP) Family,Outer Membrane Porins,1.B.6
+PA4953,Unclassified,,OOP,The OmpA-OmpF Porin (OOP) Family,Outer Membrane Porins,1.B.6

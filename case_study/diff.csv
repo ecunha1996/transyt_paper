@@ -1,0 +1,62 @@
+0,substrate,col1,col2,col3,col4,family
+BBMN68_1106,2-aminoethylphosphonate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1031,lipoprotein releasing,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1062,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1104,spermidine/putrescine,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1189,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1195,lipoprotein releasing,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1196,lipoprotein releasing,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1479,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1799,carbohydrate,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1800,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_261,lipoprotein,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_30,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_387,cobalt ion,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_388,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_496,lipoprotein releasing,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_611,? (Fe-S assembly/SufBCD system),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_612,? (Fe-S assembly/SufBCD system),membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_628,Unclassified,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_640,multidrug,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_641,multidrug,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_679,lipoprotein releasing,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_744,manganese/zinc ion,binding protein,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_820,cobalt ion,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_881,lipoprotein releasing,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_944,cell division,membrane,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_1755,glycine betaine,binding,ABC,The ATP-binding Cassette (ABC) Superfamily,ATP-Dependent,3.A.1
+BBMN68_356,Unclassified,,DNA-T,The Bacterial Competence-related DNA Transformation Transporter (DNA-T) Family,ATP-Dependent,3.A.11
+BBMN68_1121,protons,,F-ATPase,"The H+- or Na+-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily",ATP-Dependent,3.A.2
+BBMN68_1039,Unclassified,,IVSP,The Type IV (Conjugal DNA-Protein Transfer or VirB) Secretory Pathway (IVSP) Family,ATP-Dependent,3.A.7
+BBMN68_1691,Unclassified,,IVSP,The Type IV (Conjugal DNA-Protein Transfer or VirB) Secretory Pathway (IVSP) Family,ATP-Dependent,3.A.7
+BBMN68_513,Unclassified,,IVSP,The Type IV (Conjugal DNA-Protein Transfer or VirB) Secretory Pathway (IVSP) Family,ATP-Dependent,3.A.7
+BBMN68_943,Unclassified,,IVSP,The Type IV (Conjugal DNA-Protein Transfer or VirB) Secretory Pathway (IVSP) Family,ATP-Dependent,3.A.7
+BBMN68_1149,copper ion,,P-ATPase,The P-type ATPase (P-ATPase) Superfamily,ATP-Dependent,3.A.3
+BBMN68_1065,cation efflux,,CDF,The Cation Diffusion Facilitator (CDF) Family,Secondary Transporter,2.A.4
+BBMN68_295,drug/metabolite?,DME,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+BBMN68_349,drug/metabolite?,DME,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+BBMN68_488,drug/metabolite?,DME,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+BBMN68_501,drug/metabolite?,,DMT,The Drug/Metabolite Transporter (DMT) Superfamily,Secondary Transporter,2.A.7
+BBMN68_1095,multidrug efflux?,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_1211,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_1265,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_1301,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_1334,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_1411,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_1734,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_227,sugar efflux?,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_321,sugar efflux?,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_346,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_511,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_718,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_719,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_958,multidrug efflux,,MFS,The Major Facilitator Superfamily (MFS),Secondary Transporter,2.A.1
+BBMN68_1002,polysaccharide export,PST,MOP,The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily,Secondary Transporter,2.A.66
+BBMN68_1080,sodium ion:proline symporter,,SSS,The Solute:Sodium Symporter (SSS) Family,Secondary Transporter,2.A.21
+BBMN68_1284,protein export,,Tat,The Twin Arginine Targeting (Tat) Family,Secondary Transporter,2.A.64
+BBMN68_1286,protein export,,Tat,The Twin Arginine Targeting (Tat) Family,Secondary Transporter,2.A.64
+BBMN68_1332,Unclassified,,ThrE,The Threonine/Serine Exporter (ThrE) Family,Secondary Transporter,2.A.79
+BBMN68_375,Unclassified,,ThrE,The Threonine/Serine Exporter (ThrE) Family,Secondary Transporter,2.A.79
+BBMN68_1101,small-conductance mechanosensitive ion channel,,MscS,The Small Conductance Mechanosensitive Ion Channel (MscS) Family,Ion Channels,1.A.23
+BBMN68_1152,Unclassified,HPr,GPTS,General PTS,Phosphotransferase System (PTS),4.A
+BBMN68_1151,Unclassified,EnzymeI,GPTS,General PTS,Phosphotransferase System (PTS),4.A
