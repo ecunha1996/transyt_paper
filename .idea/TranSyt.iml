@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager">
+    <output url="file:///production/TranSyt" />
+    <output-test url="file:///test/TranSyt" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/transyt-service/src/main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/transyt-service/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/transyt-service/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/transyt_app/src/main/java" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="11 (2)" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: pt.uminho.ceb.biosystems.merlin:merlin-utilities:4.0.10-RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.32" level="project" />
+    <orderEntry type="library" name="Maven: pt.uminho.ceb.biosystems.mew:mew-utilities:1.1.0" level="project" />
   </component>
 </module>

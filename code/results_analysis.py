@@ -7,8 +7,6 @@ from matplotlib import pyplot as plt
 pd.set_option('display.max_columns', None)
 
 
-
-
 def main():
     transportdb_df, transportdb_dict = load_transportdb_results(r'load_transportdb_results.csv')
     transyt = load_transyt_results([r'results/scoresMethod1.txt', r'results/scoresMethod2.txt'])
