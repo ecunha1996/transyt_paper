@@ -62,7 +62,6 @@ def load_transportdb_results(filename):
     transportdb_results.index = transportdb_results.index.str.lower()
     transportdb_results.index = transportdb_results.index.str.replace("-", "_")
     transportdb_results_temp = transportdb_results.drop(columns=["substrate", "col1", "col2", "col3", "col4"], axis=1)
-    ## discard rows where family starts by 9
     transportdb_results_dict = transportdb_results_temp.to_dict(orient="index")
     for key, value in transportdb_results_dict.items():
         transportdb_results_dict[key] = value["family"]
@@ -169,11 +168,17 @@ def case_study_analysis(case_study_results: list):
     anaylise_substrates_missing(case_study_results[0], case_study_results[1], case_study_results[2])
 
 
-def venn_diagram(case_study_results, parameter_set):
+def venn_diagram(case_study_results, case_study):
     plt.clf()
-    venn2([set(case_study_results[1].keys()), set(case_study_results[2].keys())], set_labels=('TransportDB', 'Transyt'))
-    plt.title(case_study, fontstyle='italic') # + " - " + parameter_set
-    plt.show()
+    plt.figure(figsize=(2, 2))
+    total = len(set(case_study_results[1].keys()).union(set(case_study_results[2].keys())))
+    venn2([set(case_study_results[1].keys()), set(case_study_results[2].keys())], set_labels=('TransportDB', 'TranSyT'),
+          subset_label_formatter=lambda x: str(x) + "\n(" + f"{(x/total):1.0%}" + ")")
+    plt.title(case_study[0] + ". " + ''.join(case_study[1:]), fontstyle='italic', fontsize=10) # + " - " + parameter_set
+    # set fontsize
+    for text in plt.gca().texts:
+        text.set_fontsize(8)
+    plt.savefig(f"{case_study}/{case_study}.png")
 
 
 if __name__ == '__main__':
@@ -188,4 +193,4 @@ if __name__ == '__main__':
             transyt = load_transyt_results([rf'{case_study}/{parameter_set}/results/results/scoresMethod1.txt', rf'{case_study}/{parameter_set}/results/results/scoresMethod2.txt'])
             case_study_results_map[case_study] = [transportdb_df, transportdb_dict, transyt]
             case_study_analysis(case_study_results_map[case_study])
-            venn_diagram(case_study_results_map[case_study], name)
+            venn_diagram(case_study_results_map[case_study], case_study)
