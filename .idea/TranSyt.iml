@@ -10,7 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/transyt-service/src/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/transyt_app/src/main/java" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="11 (2)" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: pt.uminho.ceb.biosystems.merlin:merlin-utilities:4.0.10-RELEASE" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />

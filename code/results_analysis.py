@@ -2,6 +2,7 @@ import os
 
 import pandas as pd
 from matplotlib import pyplot as plt
+from matplotlib_venn import venn2
 
 ###  show all columns of a dataframe
 pd.set_option('display.max_columns', None)
@@ -141,6 +142,12 @@ def create_pie_chart(tdb_results, transyt_results, title):
 def anaylise_substrates_missing(tdb_df, tdb_dict, transyt_dict):
     diff = set(tdb_dict.keys()) - set(transyt_dict.keys())
     print(f"Number of substrates in transportdb but not in transyt: {len(diff)}")
+    families = tdb_df["family"].loc[list(diff)].tolist()
+    families_count = {}
+    for family in families:
+        families_count[family] = families.count(family)
+    families_count = {k: v for k, v in sorted(families_count.items(), key=lambda item: item[1], reverse=True)}
+    print(families_count)
     substrates = tdb_df["substrate"].loc[list(diff)].tolist()
     substrates_count = {}
     for substrate in substrates:
@@ -162,13 +169,23 @@ def case_study_analysis(case_study_results: list):
     anaylise_substrates_missing(case_study_results[0], case_study_results[1], case_study_results[2])
 
 
+def venn_diagram(case_study_results, parameter_set):
+    plt.clf()
+    venn2([set(case_study_results[1].keys()), set(case_study_results[2].keys())], set_labels=('TransportDB', 'Transyt'))
+    plt.title(case_study, fontstyle='italic') # + " - " + parameter_set
+    plt.show()
+
+
 if __name__ == '__main__':
     os.chdir("../case_study")
-    case_studies = ["Scerevisiae", "Paeruginosa", "Blongum", "Olucimarinus"]
+    case_studies = ["Scerevisiae", "Paeruginosa", "Olucimarinus"]  #, "Blongum"
+    parameter_sets = {"cov_80": "restricted"} #"cov_60": "relaxed",
     case_study_results_map = {}
     for case_study in case_studies:
         print(case_study)
-        transportdb_df, transportdb_dict = load_transportdb_results(rf'{case_study}/transportdb.csv')
-        transyt = load_transyt_results([rf'{case_study}/results/results/scoresMethod1.txt', rf'{case_study}/results/results/scoresMethod2.txt'])
-        case_study_results_map[case_study] = [transportdb_df, transportdb_dict, transyt]
-        case_study_analysis(case_study_results_map[case_study])
+        for parameter_set, name in parameter_sets.items():
+            transportdb_df, transportdb_dict = load_transportdb_results(rf'{case_study}/transportdb.csv')
+            transyt = load_transyt_results([rf'{case_study}/{parameter_set}/results/results/scoresMethod1.txt', rf'{case_study}/{parameter_set}/results/results/scoresMethod2.txt'])
+            case_study_results_map[case_study] = [transportdb_df, transportdb_dict, transyt]
+            case_study_analysis(case_study_results_map[case_study])
+            venn_diagram(case_study_results_map[case_study], name)
