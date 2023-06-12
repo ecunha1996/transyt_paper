@@ -1,0 +1,706 @@
+PA0030 	pp6382 		pp6382		ABC 	binding 	654 	choline 		3.A.1 		X
+PA0072 	pp6382 		pp6382		ABC 	membrane 	655 	lipoprotein releasing 		3.A.1 		X
+PA0073 	pp6382 		pp6382		ABC 	binding 	656 	lipoprotein 		3.A.1 		X
+PA0136 	pp6382 		pp6382		ABC 	ABC 	657 	sugar 		3.A.1 		X
+PA0137 	pp6382 		pp6382		ABC 	membrane 	658 	sugar 		3.A.1 		X
+PA0138 	pp6382 		pp6382		ABC 	membrane 	659 	sugar 		3.A.1 		X
+PA0146 	pp6382 		pp6382		ABC 	binding protein 	660 	sugar 		3.A.1 		X
+PA0184 	pp6382 		pp6382		ABC 	binding 	663 	nitrate 		3.A.1 		X
+PA0185 	pp6382 		pp6382		ABC 	membrane 	664 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA0186 	pp6382 		pp6382		ABC 	binding protein 	665 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA0203 	pp6382 		pp6382		ABC 	binding protein 	666 	spermidine/putrescine 		3.A.1 		X
+PA0204 	pp6382 		pp6382		ABC 	membrane 	667 	spermidine/putrescine 		3.A.1 		X
+PA0205 	pp6382 		pp6382		ABC 	membrane 	668 	spermidine/putrescine 		3.A.1 		X
+PA0206 	pp6382 		pp6382		ABC 	binding 	669 	polyamine 		3.A.1 		X
+PA0222 	pp6382 		pp6382		ABC 	binding protein 	670 	spermidine/putrescine 		3.A.1 		X
+PA0280 	pp6382 		pp6382		ABC 	binding 	672 	sulfate 		3.A.1 		X
+PA0281 	pp6382 		pp6382		ABC 	membrane 	673 	sulfate 		3.A.1 		X
+PA0282 	pp6382 		pp6382		ABC 	membrane 	674 	sulfate 		3.A.1 		X
+PA0283 	pp6382 		pp6382		ABC 	binding 	675 	sulfate/thiosulfate 		3.A.1 		X
+PA0295 	pp6382 		pp6382		ABC 	binding protein 	677 	spermidine/putrescine 		3.A.1 		X
+PA0300 	pp6382 		pp6382		ABC 	binding protein 	678 	spermidine/putrescine 		3.A.1 		X
+PA0301 	pp6382 		pp6382		ABC 	binding protein 	679 	spermidine/putrescine 		3.A.1 		X
+PA0302 	pp6382 		pp6382		ABC 	binding 	680 	polyamine 		3.A.1 		X
+PA0303 	pp6382 		pp6382		ABC 	membrane 	681 	spermidine/putrescine 		3.A.1 		X
+PA0304 	pp6382 		pp6382		ABC 	membrane 	682 	spermidine/putrescine 		3.A.1 		X
+PA0313 	pp6382 		pp6382		ABC 	membrane 	683 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA0314 	pp6382 		pp6382		ABC 	binding protein 	684 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA0323 	pp6382 		pp6382		ABC 	binding protein 	685 	spermidine/putrescine 		3.A.1 		X
+PA0324 	pp6382 		pp6382		ABC 	membrane 	686 	spermidine/putrescine 		3.A.1 		X
+PA0325 	pp6382 		pp6382		ABC 	membrane 	687 	spermidine/putrescine 		3.A.1 		X
+PA0326 	pp6382 		pp6382		ABC 	binding 	688 	polyamine 		3.A.1 		X
+PA0374 	pp6382 		pp6382		ABC 	binding 	689 	lipoprotein 		3.A.1 		X
+PA0375 	pp6382 		pp6382		ABC 	membrane 	690 	cell division 		3.A.1 		X
+PA0451a 	pp6382 		pp6382		ABC 	binding protein 	693 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA0600 	pp6382 		pp6382		ABC 	binding protein 	697 	unknown substrate 		3.A.1 		X
+PA0602 	pp6382 		pp6382		ABC 	binding protein 	698 	spermidine/putrescine 		3.A.1 		X
+PA0603 	pp6382 		pp6382		ABC 	binding 	699 	polyamine 		3.A.1 		X
+PA0604 	pp6382 		pp6382		ABC 	binding protein 	700 	spermidine/putrescine 		3.A.1 		X
+PA0605 	pp6382 		pp6382		ABC 	membrane 	701 	spermidine/putrescine 		3.A.1 		X
+PA0606 	pp6382 		pp6382		ABC 	membrane 	702 	spermidine/putrescine 		3.A.1 		X
+PA0716 	pp6382 		pp6382		ABC 	binding 	705 	phosphonate 		3.A.1 		X
+PA0777 	pp6382 		pp6382		ABC 	binding protein 	706 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA0860 	pp6382 		pp6382		ABC 	binding 	707 	lipid A 		3.A.1 		X
+PA0888 	pp6382 		pp6382		ABC 	binding protein 	708 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA0889 	pp6382 		pp6382		ABC 	membrane 	709 	amino acid (lysine/arginine/ornithine/histidine/octopine) 		3.A.1 		X
+PA0890 	pp6382 		pp6382		ABC 	membrane 	710 	amino acid (lysine/arginine/ornithine/histidine/octopine) 		3.A.1 		X
+PA0892 	pp6382 		pp6382		ABC 	binding 	711 	phosphate 		3.A.1 		X
+PA1070 	pp6382 		pp6382		ABC 	binding 	713 	daunorubicin 		3.A.1 		X
+PA1071 	pp6382 		pp6382		ABC 	binding 	714 	daunorubicin 		3.A.1 		X
+PA1072 	pp6382 		pp6382		ABC 	membrane 	715 	branched-chain amino acid 		3.A.1 		X
+PA1073 	pp6382 		pp6382		ABC 	membrane 	716 	branched-chain amino acid 		3.A.1 		X
+PA1074 	pp6382 		pp6382		ABC 	binding 	717 	leucine/valine 		3.A.1 		X
+PA1113 	pp6382 		pp6382		ABC 	membrane 	718 	multidrug 	* 	3.A.1 		X
+PA1246 	pp6382 		pp6382		ABC 	membrane 	720 	protease secretion 	* 	3.A.1 		X
+PA1256 	pp6382 		pp6382		ABC 	binding 	723 	phosphate 		3.A.1 		X
+PA1257 	pp6382 		pp6382		ABC 	membrane 	724 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA1258 	pp6382 		pp6382		ABC 	membrane 	725 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA1260 	pp6382 		pp6382		ABC 	binding protein 	726 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA1339 	pp6382 		pp6382		ABC 	binding 	728 	phosphate 		3.A.1 		X
+PA1340 	pp6382 		pp6382		ABC 	membrane 	729 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA1341 	pp6382 		pp6382		ABC 	membrane 	730 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA1342 	pp6382 		pp6382		ABC 	binding protein 	731 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA1386 	pp6382 		pp6382		ABC 	binding 	732 	daunorubicin 		3.A.1 		X
+PA1410 	pp6382 		pp6382		ABC 	binding protein 	733 	spermidine/putrescine 		3.A.1 		X
+PA1425 	pp6382 		pp6382		ABC 	binding 	734 	cobalt 		3.A.1 		X
+PA1475 	pp6382 		pp6382		ABC 	binding 	735 	heme 		3.A.1 		X
+PA1476 	pp6382 		pp6382		ABC 	membrane 	736 	heme export 		3.A.1 		X
+PA1477 	pp6382 		pp6382		ABC 	membrane 	1591 	heme export 		3.A.1 		X
+PA1493 	pp6382 		pp6382		ABC 	binding 	738 	sulfate/thiosulfate 		3.A.1 		X
+PA1531 	pp6382 		pp6382		ABC 	binding protein 	740 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA1807 	pp6382 		pp6382		ABC 	binding 	745 	D-methionine 		3.A.1 		X
+PA1808 	pp6382 		pp6382		ABC 	membrane 	746 	dipeptide/oligopeptide 		3.A.1 		X
+PA1809 	pp6382 		pp6382		ABC 	membrane 	747 	dipeptide/oligopeptide 		3.A.1 		X
+PA1810 	pp6382 		pp6382		ABC 	binding protein 	748 	oligopeptide 		3.A.1 		X
+PA1811 	pp6382 		pp6382		ABC 	binding protein 	749 	oligopeptide 		3.A.1 		X
+PA1854 	pp6382 		pp6382		ABC 	binding 	1533 	glycine betaine 		3.A.1 		X
+PA1861 	pp6382 		pp6382		ABC 	binding 	751 	molybdate 		3.A.1 		X
+PA1862 	pp6382 		pp6382		ABC 	membrane 	752 	molybdate 		3.A.1 		X
+PA1863 	pp6382 		pp6382		ABC 	binding 	753 	mobybdenate 		3.A.1 		X
+PA1876 	pp6382 		pp6382		ABC 	membrane 	755 	toxin secretion 	* 	3.A.1 		X
+PA1946 	pp6382 		pp6382		ABC 	binding 	757 	rhamnose 		3.A.1 		X
+PA1947 	pp6382 		pp6382		ABC 	ABC 	758 	sugar (ribose) 		3.A.1 		X
+PA1948 	pp6382 		pp6382		ABC 	membrane 	759 	sugar (ribose) 		3.A.1 		X
+PA1964 	pp6382 		pp6382		ABC 	binding 	762 	heme 		3.A.1 		X
+PA2058 	pp6382 		pp6382		ABC 	binding protein 	764 	oligopeptide 		3.A.1 		X
+PA2059 	pp6382 		pp6382		ABC 	membrane 	765 	dipeptide/oligopeptide 		3.A.1 		X
+PA2060 	pp6382 		pp6382		ABC 	membrane 	766 	dipeptide/oligopeptide 		3.A.1 		X
+PA2061 	pp6382 		pp6382		ABC 	binding 	767 	glycine betaine 		3.A.1 		X
+PA2202 	pp6382 		pp6382		ABC 	membrane 	769 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA2203 	pp6382 		pp6382		ABC 	membrane 	770 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA2204 	pp6382 		pp6382		ABC 	binding protein 	771 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA2294 	pp6382 		pp6382		ABC 	binding 	773 	nitrate 		3.A.1 		X
+PA2295 	pp6382 		pp6382		ABC 	membrane 	774 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA2307 	pp6382 		pp6382		ABC 	membrane 	776 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA2308 	pp6382 		pp6382		ABC 	binding 	777 	nitrate 		3.A.1 		X
+PA2309 	pp6382 		pp6382		ABC 	binding 	778 	methionine 		3.A.1 		X
+PA2327 	pp6382 		pp6382		ABC 	membrane 	780 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA2329 	pp6382 		pp6382		ABC 	binding 	782 	nitrate 		3.A.1 		X
+PA2338 	pp6382 		pp6382		ABC 	binding protein 	783 	sugar 		3.A.1 		X
+PA2339 	pp6382 		pp6382		ABC 	membrane 	784 	sugar 		3.A.1 		X
+PA2340 	pp6382 		pp6382		ABC 	membrane 	785 	sugar 		3.A.1 		X
+PA2341 	pp6382 		pp6382		ABC 	binding 	786 	polyamine 		3.A.1 		X
+PA2349 	pp6382 		pp6382		ABC 	binding 	787 	methionine 		3.A.1 		X
+PA2350 	pp6382 		pp6382		ABC 	binding 	788 	D-methionine 		3.A.1 		X
+PA2351 	pp6382 		pp6382		ABC 	membrane 	789 	D-methionine 		3.A.1 		X
+PA2377 	pp6382 		pp6382		ABC 	binding protein 	790 	iron(III) 		3.A.1 		X
+PA2390 	pp6382 		pp6382		ABC 	binding 	792 	lipoprotein 		3.A.1 		X
+PA2397 	pp6382 		pp6382		ABC 	membrane 	794 	pyoverdin (siderophore) exporter PvdE 	* 	3.A.1 		X
+PA2407 	pp6382 		pp6382		ABC 	binding 	795 	zinc 		3.A.1 		X
+PA2408 	pp6382 		pp6382		ABC 	binding 	796 	daunorubicin 		3.A.1 		X
+PA2409 	pp6382 		pp6382		ABC 	membrane 	797 	manganese/zinc ion 		3.A.1 		X
+PA2410 	pp6382 		pp6382		ABC 	binding 	798 	zinc 		3.A.1 		X
+PA2592 	pp6382 		pp6382		ABC 	binding protein 	805 	spermidine/putrescine 		3.A.1 		X
+PA2594 	pp6382 		pp6382		ABC 	binding protein 	806 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA2595 	pp6382 		pp6382		ABC 	binding protein 	807 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA2596 	pp6382 		pp6382		ABC 	binding protein 	808 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA2599 	pp6382 		pp6382		ABC 	binding 	809 	glycine betaine 		3.A.1 		X
+PA2678 	pp6382 		pp6382		ABC 	membrane 	810 	polysaccharide export 		3.A.1 		X
+PA2711 	pp6382 		pp6382		ABC 	binding protein 	811 	spermidine/putrescine 		3.A.1 		X
+PA2811 	pp6382 		pp6382		ABC 	membrane 	814 	polysaccharide export 		3.A.1 		X
+PA2812 	pp6382 		pp6382		ABC 	binding 	815 	daunorubicin 		3.A.1 		X
+PA2857 	pp6382 		pp6382		ABC 	binding 	818 	lipoprotein 		3.A.1 		X
+PA2858 	pp6382 		pp6382		ABC 	membrane 	819 	unknown substrate 		3.A.1 		X
+PA2865 	pp6382 		pp6382		ABC 	binding protein 	820 	amino acid 		3.A.1 		X
+PA2902 	pp6382 		pp6382		ABC 	binding protein 	821 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA2912 	pp6382 		pp6382		ABC 	binding 	822 	phosphonate 		3.A.1 		X
+PA2913 	pp6382 		pp6382		ABC 	binding 	823 	cobalamin 		3.A.1 		X
+PA2914 	pp6382 		pp6382		ABC 	membrane 	824 	cobalamin/Fe3+-siderophores 		3.A.1 		X
+PA2923 	pp6382 		pp6382		ABC 	binding protein 	825 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA2924 	pp6382 		pp6382		ABC 	membrane 	826 	amino acid (lysine/arginine/ornithine/histidine/octopine) 		3.A.1 		X
+PA2925 	pp6382 		pp6382		ABC 	membrane 	827 	amino acid (lysine/arginine/ornithine/histidine/octopine) 		3.A.1 		X
+PA2926 	pp6382 		pp6382		ABC 	binding 	828 	phosphate 		3.A.1 		X
+PA2986 	pp6382 		pp6382		ABC 	membrane 	829 	lipoprotein releasing 		3.A.1 		X
+PA2987 	pp6382 		pp6382		ABC 	binding 	830 	lipoprotein 		3.A.1 		X
+PA2988 	pp6382 		pp6382		ABC 	membrane 	831 	lipoprotein releasing 		3.A.1 		X
+PA3019 	pp6382 		pp6382		ABC 	binding 	832 	heme 		3.A.1 		X
+PA3187 	pp6382 		pp6382		ABC 	binding 	834 	polyamine 		3.A.1 		X
+PA3188 	pp6382 		pp6382		ABC 	membrane 	835 	sugar 		3.A.1 		X
+PA3189 	pp6382 		pp6382		ABC 	membrane 	836 	sugar 		3.A.1 		X
+PA3190 	pp6382 		pp6382		ABC 	binding protein 	837 	sugar 		3.A.1 		X
+PA3211 	pp6382 		pp6382		ABC 	membrane 	838 	toluene tolerance 		3.A.1 		X
+PA3212 	pp6382 		pp6382		ABC 	binding 	839 	D-methionine 		3.A.1 		X
+PA3213 	pp6382 		pp6382		ABC 	binding protein 	840 	toluene tolerance 		3.A.1 		X
+PA3228 	pp6382 		pp6382		ABC 	membrane 	842 	multidrug 	* 	3.A.1 		X
+PA3236 	pp6382 		pp6382		ABC 	binding 	843 	glycine betaine 		3.A.1 		X
+PA3252 	pp6382 		pp6382		ABC 	membrane 	846 	unknown substrate 		3.A.1 		X
+PA3253 	pp6382 		pp6382		ABC 	membrane 	847 	spermidine/putrescine 		3.A.1 		X
+PA3254 	pp6382 		pp6382		ABC 	binding 	848 	polyamine 		3.A.1 		X
+PA3261 	pp6382 		pp6382		ABC 	binding protein 	849 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA3313 	pp6382 		pp6382		ABC 	binding 	851 	phosphonates 		3.A.1 		X
+PA3314 	pp6382 		pp6382		ABC 	binding 	852 	phosphonate 		3.A.1 		X
+PA3315 	pp6382 		pp6382		ABC 	membrane 	853 	phosphonate 		3.A.1 		X
+PA3316 	pp6382 		pp6382		ABC 	membrane 	854 	phosphonate 		3.A.1 		X
+PA3364 	pp6382 		pp6382		ABC 	binding 	855 	urea 		3.A.1 		X
+PA3375 	pp6382 		pp6382		ABC 	ABC 	856 	phosphonate 		3.A.1 		X
+PA3376 	pp6382 		pp6382		ABC 	ABC 	857 	phosphonate 		3.A.1 		X
+PA3382 	pp6382 		pp6382		ABC 	membrane 	858 	phosphonate 		3.A.1 		X
+PA3383 	pp6382 		pp6382		ABC 	binding 	859 	phosphonate 		3.A.1 		X
+PA3384 	pp6382 		pp6382		ABC 	binding 	860 	phosphonate 		3.A.1 		X
+PA3394 	pp6382 		pp6382		ABC 	binding 	862 	daunorubicin 		3.A.1 		X
+PA3395 	pp6382 		pp6382		ABC 	membrane 	863 	multidrug 		3.A.1 		X
+PA3400 	pp6382 		pp6382		ABC 	membrane 	1664 	multidrug 		3.A.1 		X
+PA3401 	pp6382 		pp6382		ABC 	membrane 	865 	multidrug 		3.A.1 		X
+PA3406 	pp6382 		pp6382		ABC 	membrane 	867 	protease secretion 	* 	3.A.1 		X
+PA3442 	pp6382 		pp6382		ABC 	binding 	869 	nitrate 		3.A.1 		X
+PA3443 	pp6382 		pp6382		ABC 	membrane 	870 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA3445 	pp6382 		pp6382		ABC 	binding 	871 	glycine betaine 		3.A.1 		X
+PA3447 	pp6382 		pp6382		ABC 	binding 	872 	nitrate 		3.A.1 		X
+PA3448 	pp6382 		pp6382		ABC 	membrane 	873 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA3449 	pp6382 		pp6382		ABC 	binding 	874 	phosphonates 		3.A.1 		X
+PA3475 	pp6382 		pp6382		ABC 	binding protein 	875 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA3512 	pp6382 		pp6382		ABC 	membrane 	877 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA3514 	pp6382 		pp6382		ABC 	binding 	879 	nitrate 		3.A.1 		X
+PA3538 	pp6382 		pp6382		ABC 	binding 	881 	polyamine 		3.A.1 		X
+PA3607 	pp6382 		pp6382		ABC 	binding 	883 	polyamine 		3.A.1 		X
+PA3608 	pp6382 		pp6382		ABC 	membrane 	884 	spermidine/putrescine 		3.A.1 		X
+PA3609 	pp6382 		pp6382		ABC 	membrane 	885 	spermidine/putrescine 		3.A.1 		X
+PA3610 	pp6382 		pp6382		ABC 	binding protein 	886 	spermidine/putrescine 		3.A.1 		X
+PA3670 	pp6382 		pp6382		ABC 	binding protein 	887 	unknown substrate 		3.A.1 		X
+PA3671 	pp6382 		pp6382		ABC 	membrane 	888 	multidrug 		3.A.1 		X
+PA3672 	pp6382 		pp6382		ABC 	binding 	889 	daunorubicin 		3.A.1 		X
+PA3764 	pp6382 		pp6382		ABC 	binding protein 	891 	amino acid 		3.A.1 		X
+PA3770 	pp6382 		pp6382		ABC 	binding 	412 	glycine betaine 		3.A.1 		X
+PA3837 	pp6382 		pp6382		ABC 	membrane 	894 	unknown substrate 		3.A.1 		X
+PA3838 	pp6382 		pp6382		ABC 	binding 	895 	phosphonate 		3.A.1 		X
+PA3858 	pp6382 		pp6382		ABC 	binding protein 	896 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA3865 	pp6382 		pp6382		ABC 	binding protein 	897 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA3888 	pp6382 		pp6382		ABC 	membrane 	898 	glycine betaine/L-proline/carnitine/choline 		3.A.1 		X
+PA3889 	pp6382 		pp6382		ABC 	binding 	899 	glycine betaine 		3.A.1 		X
+PA3890 	pp6382 		pp6382		ABC 	membrane 	900 	glycine betaine/L-proline/carnitine/choline 		3.A.1 		X
+PA3891 	pp6382 		pp6382		ABC 	binding 	901 	glycine betaine 		3.A.1 		X
+PA3931 	pp6382 		pp6382		ABC 	binding 	903 	methionine 		3.A.1 		X
+PA3936 	pp6382 		pp6382		ABC 	membrane 	904 	nitrate/sulfonate/taurine 		3.A.1 		X
+PA3937 	pp6382 		pp6382		ABC 	binding 	905 	nitrate 		3.A.1 		X
+PA3938 	pp6382 		pp6382		ABC 	binding 	906 	glycine betaine 		3.A.1 		X
+PA4027 	pp6382 		pp6382		ABC 	binding protein 	909 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA4037 	pp6382 		pp6382		ABC 	binding 	910 	daunorubicin 		3.A.1 		X
+PA4038 	pp6382 		pp6382		ABC 	membrane 	911 	multidrug 		3.A.1 		X
+PA4039 	pp6382 		pp6382		ABC 	binding protein 	912 	unknown substrate 		3.A.1 		X
+PA4045 	pp6382 		pp6382		ABC 	binding 	913 	iron-hydroxamate 		3.A.1 		X
+PA4049 	pp6382 		pp6382		ABC 	binding protein 	914 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA4064 	pp6382 		pp6382		ABC 	binding 	915 	lipoprotein 		3.A.1 		X
+PA4065 	pp6382 		pp6382		ABC 	membrane 	916 	efflux (antimicrobial peptide) 		3.A.1 		X
+PA4143 	pp6382 		pp6382		ABC 	membrane 	918 	toxin secretion 	* 	3.A.1 		X
+PA4158 	pp6382 		pp6382		ABC 	binding 	919 	phosphonate 		3.A.1 		X
+PA4159 	pp6382 		pp6382		ABC 	binding 	920 	iron-hydroxamate 		3.A.1 		X
+PA4160 	pp6382 		pp6382		ABC 	membrane 	921 	cobalamin/Fe3+-siderophores 		3.A.1 		X
+PA4161 	pp6382 		pp6382		ABC 	membrane 	922 	ferric enterobactin 		3.A.1 		X
+PA4192 	pp6382 		pp6382		ABC 	binding 	923 	phosphate 		3.A.1 		X
+PA4193 	pp6382 		pp6382		ABC 	membrane 	924 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA4194 	pp6382 		pp6382		ABC 	membrane 	925 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA4195 	pp6382 		pp6382		ABC 	binding protein 	926 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA4222 	pp6382 		pp6382		ABC 	binding 	929 	lipid A 		3.A.1 		X
+PA4223 	pp6382 		pp6382		ABC 	binding 	930 	lipid A 		3.A.1 		X
+PA4302 	pp6382 		pp6382		ABC 	binding 	1201 	thiamine 		3.A.1 		X
+PA4454 	pp6382 		pp6382		ABC 	binding protein 	936 	toluene tolerance 		3.A.1 		X
+PA4455 	pp6382 		pp6382		ABC 	membrane 	937 	toluene tolerance 		3.A.1 		X
+PA4456 	pp6382 		pp6382		ABC 	binding 	938 	sulfate 		3.A.1 		X
+PA4461 	pp6382 		pp6382		ABC 	binding 	941 	daunorubicin 		3.A.1 		X
+PA4496 	pp6382 		pp6382		ABC 	binding protein 	942 	dipeptide/oligopeptide 		3.A.1 		X
+PA4497 	pp6382 		pp6382		ABC 	binding protein 	943 	dipeptide/oligopeptide 		3.A.1 		X
+PA4500 	pp6382 		pp6382		ABC 	binding protein 	944 	dipeptide/oligopeptide 		3.A.1 		X
+PA4502 	pp6382 		pp6382		ABC 	binding protein 	945 	dipeptide/oligopeptide 		3.A.1 		X
+PA4503 	pp6382 		pp6382		ABC 	membrane 	946 	dipeptide/oligopeptide 		3.A.1 		X
+PA4504 	pp6382 		pp6382		ABC 	membrane 	947 	dipeptide/oligopeptide 		3.A.1 		X
+PA4505 	pp6382 		pp6382		ABC 	binding 	948 	glycine betaine 		3.A.1 		X
+PA4506 	pp6382 		pp6382		ABC 	binding 	949 	glycine betaine 		3.A.1 		X
+PA4593 	pp6382 		pp6382		ABC 	membrane 	951 	efflux (antimicrobial peptide) 		3.A.1 		X
+PA4594 	pp6382 		pp6382		ABC 	binding 	952 	lipoprotein 		3.A.1 		X
+PA4595 	pp6382 		pp6382		ABC 	binding 	953 	phosphonate 		3.A.1 		X
+PA4687 	pp6382 		pp6382		ABC 	binding protein 	955 	iron(III) 		3.A.1 		X
+PA4688 	pp6382 		pp6382		ABC 	membrane 	956 	iron(III) 		3.A.1 		X
+PA4706 	pp6382 		pp6382		ABC 	binding 	957 	cobalt 		3.A.1 		X
+PA4707 	pp6382 		pp6382		ABC 	membrane 	958 	cobalamin/Fe3+-siderophores 		3.A.1 		X
+PA4708 	pp6382 		pp6382		ABC 	binding 	959 	iron-hydroxamate 		3.A.1 		X
+PA4858 	pp6382 		pp6382		ABC 	binding 	961 	urea 		3.A.1 		X
+PA4859 	pp6382 		pp6382		ABC 	membrane 	962 	branched-chain amino acid 		3.A.1 		X
+PA4860 	pp6382 		pp6382		ABC 	membrane 	963 	branched-chain amino acid 		3.A.1 		X
+PA4861 	pp6382 		pp6382		ABC 	binding 	964 	daunorubicin 		3.A.1 		X
+PA4862 	pp6382 		pp6382		ABC 	binding 	965 	molybdate 		3.A.1 		X
+PA4909 	pp6382 		pp6382		ABC 	binding 	966 	daunorubicin 		3.A.1 		X
+PA4910 	pp6382 		pp6382		ABC 	binding 	967 	daunorubicin 		3.A.1 		X
+PA4911 	pp6382 		pp6382		ABC 	membrane 	968 	branched-chain amino acid 		3.A.1 		X
+PA4912 	pp6382 		pp6382		ABC 	membrane 	969 	branched-chain amino acid 		3.A.1 		X
+PA4913 	pp6382 		pp6382		ABC 	binding 	970 	leucine/valine 		3.A.1 		X
+PA4985 	pp6382 		pp6382		ABC 	binding protein 	971 	spermidine/putrescine 		3.A.1 		X
+PA4997 	pp6382 		pp6382		ABC 	binding 	972 	lipid A 		3.A.1 		X
+PA5074 	pp6382 		pp6382		ABC 	binding 	973 	phosphate 		3.A.1 		X
+PA5075 	pp6382 		pp6382		ABC 	membrane 	974 	amino aicd (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA5076 	pp6382 		pp6382		ABC 	binding protein 	975 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA5082 	pp6382 		pp6382		ABC 	binding protein 	976 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA5094 	pp6382 		pp6382		ABC 	binding 	977 	glycine betaine 		3.A.1 		X
+PA5095 	pp6382 		pp6382		ABC 	membrane 	978 	glycine betaine/L-proline 		3.A.1 		X
+PA5096 	pp6382 		pp6382		ABC 	binding 	979 	glycine betaine 		3.A.1 		X
+PA5101 	pp6382 		pp6382		ABC 	binding 	980 	phosphonates 		3.A.1 		X
+PA5103 	pp6382 		pp6382		ABC 	binding 	981 	glycine betaine 		3.A.1 		X
+PA5137 	pp6382 		pp6382		ABC 	binding protein 	982 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA5138 	pp6382 		pp6382		ABC 	binding protein 	983 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA5139 	pp6382 		pp6382		ABC 	binding protein 	984 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA5152 	pp6382 		pp6382		ABC 	binding 	985 	phosphate 		3.A.1 		X
+PA5153 	pp6382 		pp6382		ABC 	binding protein 	986 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA5154 	pp6382 		pp6382		ABC 	membrane 	987 	amino acid (lysine/arginine/ornithine/histidine/octopine) 		3.A.1 		X
+PA5155 	pp6382 		pp6382		ABC 	membrane 	988 	amino acid (lysine/arginine/ornithine/histidine/octopine) 		3.A.1 		X
+PA5216 	pp6382 		pp6382		ABC 	membrane 	991 	iron(III) 		3.A.1 		X
+PA5217 	pp6382 		pp6382		ABC 	binding 	992 	2-aminoethylphosphonate 		3.A.1 		X
+PA5230 	pp6382 		pp6382		ABC 	membrane 	993 	multidrug 		3.A.1 		X
+PA5231 	pp6382 		pp6382		ABC 	binding 	994 	daunorubicin 		3.A.1 		X
+PA5252 	pp6382 		pp6382		ABC 	binding 	996 	daunorubicin 		3.A.1 		X
+PA5270 	pp6382 		pp6382		ABC 	binding protein 	997 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA5317 	pp6382 		pp6382		ABC 	binding protein 	998 	dipeptide/oligopeptide 		3.A.1 		X
+PA5366 	pp6382 		pp6382		ABC 	binding 	999 	phosphate 		3.A.1 		X
+PA5367 	pp6382 		pp6382		ABC 	membrane 	1000 	phosphate 		3.A.1 		X
+PA5368 	pp6382 		pp6382		ABC 	membrane 	1001 	phosphate 		3.A.1 		X
+PA5369 	pp6382 		pp6382		ABC 	binding protein 	1002 	phosphate 		3.A.1 		X
+PA5376 	pp6382 		pp6382		ABC 	binding 	1003 	glycine betaine 		3.A.1 		X
+PA5377 	pp6382 		pp6382		ABC 	membrane 	1004 	glycine betaine/L-proline 		3.A.1 		X
+PA5378 	pp6382 		pp6382		ABC 	binding 	1005 	choline 		3.A.1 		X
+PA5388 	pp6382 		pp6382		ABC 	binding 	1006 	choline 		3.A.1 		X
+PA5450 	pp6382 		pp6382		ABC 	ABC 	1007 	polysaccharide export 		3.A.1 		X
+PA5451 	pp6382 		pp6382		ABC 	membrane 	1008 	polysaccharide export 		3.A.1 		X
+PA5472 	pp6382 		pp6382		ABC 	binding protein 	1009 	amino acid (glutamine/glutamate/aspartate) 		3.A.1 		X
+PA5498 	pp6382 		pp6382		ABC 	binding 	1010 	zinc 		3.A.1 		X
+PA5500 	pp6382 		pp6382		ABC 	binding 	1011 	molybdate 		3.A.1 		X
+PA5501 	pp6382 		pp6382		ABC 	membrane 	1012 	manganese/zinc ion 		3.A.1 		X
+PA5503 	pp6382 		pp6382		ABC 	binding 	1013 	D-methionine 		3.A.1 		X
+PA5504 	pp6382 		pp6382		ABC 	membrane 	1014 	D-methionine 		3.A.1 		X
+PA5505 	pp6382 		pp6382		ABC 	binding 	1015 	methionine 		3.A.1 		X
+PA5545 	pp6382 		pp6382		ABC 	binding 	1016 	phosphonates 		3.A.1 		X
+PA0188 	pp6382 		pp6382		AEC 		541 	unknown substrate 		2.A.69 		X
+PA1735 	pp6382 		pp6382		AEC 		542 	unknown substrate 		2.A.69 		X
+PA5466 	pp6382 		pp6382		AEC 		543 	unknown substrate 		2.A.69 		X
+PA2252 	pp6382 		pp6382		AGCS 		323 	sodium ion:alanine symporter 		2.A.25 		X
+PA2533 	pp6382 		pp6382		AGCS 		324 	sodium ion:alanine symporter 		2.A.25 		X
+PA3641 	pp6382 		pp6382		AGCS 		325 	sodium ion:alanine symporter 		2.A.25 		X
+PA1007 	pp6382 		pp6382		AI-2E 		628 	Autoinducer-2 export 		2.A.86 		X
+PA1625 	pp6382 		pp6382		AI-2E 		629 	Autoinducer-2 export 		2.A.86 		X
+PA2651 	pp6382 		pp6382		AI-2E 		630 	Autoinducer-2 export 		2.A.86 		X
+PA3039 	pp6382 		pp6382		Amt 		19 	ammonium 		1.A.11 		X
+PA3494 	pp6382 		pp6382		Amt 		1328 	ammonium 		1.A.11 		X
+PA5287 	pp6382 		pp6382		Amt 		21 	ammonium 		1.A.11 		X
+PA0129 	pp6382 		pp6382		APC 		332 	GABA 		2.A.3 		X
+PA0220 	pp6382 		pp6382		APC 		333 	amino acid 		2.A.3 		X
+PA0322 	pp6382 		pp6382		APC 		334 	amino acid 		2.A.3 		X
+PA0789 	pp6382 		pp6382		APC 		335 	GABA 		2.A.3 		X
+PA0866 	pp6382 		pp6382		APC 		336 	amino acid 		2.A.3 		X
+PA1147 	pp6382 		pp6382		APC 		337 	amino acid 		2.A.3 		X
+PA1194 	pp6382 		pp6382		APC 		338 	arginine:ornithine antiporter 		2.A.3 		X
+PA1485 	pp6382 		pp6382		APC 		339 	amino acid 		2.A.3 		X
+PA1819 	pp6382 		pp6382		APC 		340 	arginine:ornithine antiporter 		2.A.3 		X
+PA2041 	pp6382 		pp6382		APC 		341 	amino acid 		2.A.3 		X
+PA2079 	pp6382 		pp6382		APC 		342 	GABA 		2.A.3 		X
+PA3000 	pp6382 		pp6382		APC 		343 	amino acid 		2.A.3 		X
+PA3597 	pp6382 		pp6382		APC 		344 	amino acid 		2.A.3 		X
+PA4023 	pp6382 		pp6382		APC 		346 	ethanolamine 		2.A.3 		X
+PA4072 	pp6382 		pp6382		APC 		347 	amino acid 		2.A.3 		X
+PA4628 	pp6382 		pp6382		APC 		349 	amino acid 		2.A.3 		X
+PA4804 	pp6382 		pp6382		APC 		350 	amino acid 		2.A.3 		X
+PA4981 	pp6382 		pp6382		APC 		351 	amino acid 		2.A.3 		X
+PA5097 	pp6382 		pp6382		APC 		352 	GABA 		2.A.3 		X
+PA5170 	pp6382 		pp6382		APC 		353 	arginine:ornithine antiporter 		2.A.3 		X
+PA5510 	pp6382 		pp6382		APC 		354 	amino acid 		2.A.3 		X
+PA0454 	pp6382 		pp6382		ArAE 		618 	fusaric acid efflux 		2.A.85 		X
+PA0875 	pp6382 		pp6382		ArAE 		619 	fusaric acid efflux 		2.A.85 		X
+PA1232 	pp6382 		pp6382		ArAE 		620 	fusaric acid efflux 		2.A.85 		X
+PA1270 	pp6382 		pp6382		ArAE 		621 	fusaric acid efflux 		2.A.85 		X
+PA2431 	pp6382 		pp6382		ArAE 		622 	fusaric acid efflux 		2.A.85 		X
+PA3065 	pp6382 		pp6382		ArAE 		623 	fusaric acid efflux 		2.A.85 		X
+PA3305 	pp6382 		pp6382		ArAE 		624 	fusaric acid efflux 		2.A.85 		X
+PA3359 	pp6382 		pp6382		ArAE 		625 	fusaric acid efflux 		2.A.85 		X
+PA3893 	pp6382 		pp6382		ArAE 		626 	fusaric acid efflux 		2.A.85 		X
+PA2278 	pp6382 		pp6382		ArsB 		407 	arsenite (ArsB) 		2.A.45 		X
+PA2002 	pp6382 		pp6382		AtoE 		582 	short-chain fatty acid 		2.A.73 		X
+PA1650 	pp6382 		pp6382		BASS 		329 	sodium ion/ 		2.A.28 		X
+PA2026 	pp6382 		pp6382		BASS 		633 	sodium ion/ 		2.A.28 		X
+PA3264 	pp6382 		pp6382		BASS 		331 	sodium ion/ 		2.A.28 		X
+PA3933 	pp6382 		pp6382		BCCT 		244 	glycine betaine/carnitine/choline 		2.A.15 		X
+PA5291 	pp6382 		pp6382		BCCT 		245 	glycine betaine/carnitine/choline 		2.A.15 		X
+PA5375 	pp6382 		pp6382		BCCT 		246 	glycine betaine/carnitine/choline 		2.A.15 		X
+PA1651 	pp6382 		pp6382		BenE 		409 	benzoate 		2.A.46 		X
+PA0397 	pp6382 		pp6382		CDF 		393 	cation efflux 		2.A.4 		X
+PA1297 	pp6382 		pp6382		CDF 		394 	cation efflux 		2.A.4 		X
+PA3963 	pp6382 		pp6382		CDF 		395 	cation efflux 		2.A.4 		X
+PA4289 	pp6382 		pp6382		CHR 		416 	chromate ion 		2.A.51 		X
+PA5468 	pp6382 		pp6382		CitMHS 		240 	proton:citrate symporter 		2.A.11 		X
+PA2135 	pp6382 		pp6382		CPA1 		361 	sodium ion:proton antiporter 		2.A.36 		X
+PA3660 	pp6382 		pp6382		CPA1 		362 	sodium ion:proton antiporter 		2.A.36 		X
+PA3887 	pp6382 		pp6382		CPA1 		364 	sodium ion:proton antiporter 		2.A.36 		X
+PA5021 	pp6382 		pp6382		CPA1 		365 	sodium ion:proton antiporter 		2.A.36 		X
+PA1207 	pp6382 		pp6382		CPA2 		366 	potassium/sodium ion:proton antiporter 		2.A.37 		X
+PA3739 	pp6382 		pp6382		CPA2 		363 	potassium/sodium ion:proton antiporter 		2.A.37 		X
+PA5518 	pp6382 		pp6382		CPA2 		374 	potassium/sodium ion:proton antiporter 		2.A.37 		X
+PA5529 	pp6382 		pp6382		CPA2 		375 	potassium/sodium ion:proton antiporter 		2.A.37 		X
+PA1054 	pp6382 		pp6382		CPA3 	MnhA 	1244 	multicomponent sodium ion:proton antiporter 		2.A.63 		X
+PA1055 	pp6382 		pp6382		CPA3 	MnhC 	519 	multicomponent sodium ion:proton antiporter 		2.A.63 		X
+PA1056 	pp6382 		pp6382		CPA3 	MnhD 	1246 	multicomponent sodium ion:proton antiporter 		2.A.63 		X
+PA1057 	pp6382 		pp6382		CPA3 	MnhE 	521 	multicomponent sodium ion:proton antiporter 		2.A.63 		X
+PA1058 	pp6382 		pp6382		CPA3 	MnhF 	522 	multicomponent sodium ion:proton antiporter 		2.A.63 		X
+PA1059 	pp6382 		pp6382		CPA3 	MnhG 	523 	multicomponent sodium ion:proton antiporter 		2.A.63 		X
+PA2647 	pp6382 		pp6382		CPA3 	MnhA 	1265 	multicomponent sodium ion:proton antiporter 		2.A.63 		X
+PA0119 	pp6382 		pp6382		DAACS 		319 	proton/sodium ion:glutamate/aspartate symporter 		2.A.23 		X
+PA1183 	pp6382 		pp6382		DAACS 		320 	proton/sodium ion:glutamate/aspartate symporter 		2.A.23 		X
+PA2042 	pp6382 		pp6382		DAACS 		321 	sodium ion:serine/threonine symporter 		2.A.23 		X
+PA5479 	pp6382 		pp6382		DAACS 		322 	proton/sodium ion:glutamate/aspartate symporter 		2.A.23 		X
+PA3839 	pp6382 		pp6382		DASS 		410 	sodium ion:dicarboxylate/sulfate 		2.A.47 		X
+PA0239 	pp6382 		pp6382		DMT 	DME 	544 	drug/metabolite 		2.A.7 		X
+PA0485 	pp6382 		pp6382		DMT 		545 	drug/metabolite 		2.A.7 		X
+PA0539 	pp6382 		pp6382		DMT 		546 	drug/metabolite 		2.A.7 		X
+PA0786 	pp6382 		pp6382		DMT 	SMR 	547 	multidrug efflux (SMR) 		2.A.7 		X
+PA1060 	pp6382 		pp6382		DMT 	DME 	548 	drug/metabolite 		2.A.7 		X
+PA1265 	pp6382 		pp6382		DMT 		549 	drug/metabolite 		2.A.7 		X
+PA1360 	pp6382 		pp6382		DMT 	DME 	550 	drug/metabolite 		2.A.7 		X
+PA1411 	pp6382 		pp6382		DMT 		551 	drug/metabolite 		2.A.7 		X
+PA1540 	pp6382 		pp6382		DMT 	SMR 	552 	multidrug efflux (SMR) 		2.A.7 		X
+PA1541 	pp6382 		pp6382		DMT 	SMR 	553 	multidrug efflux (SMR) 		2.A.7 		X
+PA1882 	pp6382 		pp6382		DMT 	SMR 	554 	multidrug efflux (SMR) 		2.A.7 		X
+PA1977 	pp6382 		pp6382		DMT 	DME 	555 	drug/metabolite 		2.A.7 		X
+PA2101 	pp6382 		pp6382		DMT 		556 	drug/metabolite 		2.A.7 		X
+PA2576 	pp6382 		pp6382		DMT 	DME 	557 	drug/metabolite 		2.A.7 		X
+PA2628 	pp6382 		pp6382		DMT 		558 	drug/metabolite 		2.A.7 		X
+PA2712 	pp6382 		pp6382		DMT 		559 	drug/metabolite 		2.A.7 		X
+PA3222 	pp6382 		pp6382		DMT 		560 	drug/metabolite 		2.A.7 		X
+PA3265 	pp6382 		pp6382		DMT 	SMR 	561 	multidrug efflux (SMR) 		2.A.7 		X
+PA3320 	pp6382 		pp6382		DMT 		562 	drug/metabolite 		2.A.7 		X
+PA3358 	pp6382 		pp6382		DMT 		563 	drug/metabolite 		2.A.7 		X
+PA3473 	pp6382 		pp6382		DMT 		564 	drug/metabolite 		2.A.7 		X
+PA3474 	pp6382 		pp6382		DMT 		565 	drug/metabolite 		2.A.7 		X
+PA3557 	pp6382 		pp6382		DMT 	SMR 	566 	multidrug/quaternary ammonium compound efflux (SMR subfamily) 		2.A.7 		X
+PA3558 	pp6382 		pp6382		DMT 	SMR 	567 	multidrug efflux (SMR) 		2.A.7 		X
+PA3605 	pp6382 		pp6382		DMT 	DME 	568 	drug/metabolite 		2.A.7 		X
+PA3897 	pp6382 		pp6382		DMT 	DME 	569 	drug/metabolite 		2.A.7 		X
+PA4287 	pp6382 		pp6382		DMT 	DME 	570 	drug/metabolite 		2.A.7 		X
+PA4779 	pp6382 		pp6382		DMT 	RarD 	571 	chloramphenicol (RarD homolog) 		2.A.7 		X
+PA4783 	pp6382 		pp6382		DMT 	DME 	572 	drug/metabolite 		2.A.7 		X
+PA4815 	pp6382 		pp6382		DMT 		573 	drug/metabolite 		2.A.7 		X
+PA4834 	pp6382 		pp6382		DMT 	DME 	574 	drug/metabolite 		2.A.7 		X
+PA4990 	pp6382 		pp6382		DMT 	SMR 	575 	multidrug efflux (SMR) 		2.A.7 		X
+PA5444 	pp6382 		pp6382		DMT 		577 	drug/metabolite 		2.A.7 		X
+PA2984 	pp6382 		pp6382		DNA-T 		1028 	unknown substrate 		3.A.11 		X
+PA3140 	pp6382 		pp6382		DNA-T 		1033 	unknown substrate 		3.A.11 		X
+PA3176 	pp6382 		pp6382		ESS 		328 	sodium ion:glutamate symporter 		2.A.27 		X
+PA4404 	pp6382 		pp6382		EVE1-C 		71 	unknown substrate 		1.A.34 		X
+PA5553 	pp6382 		pp6382		F-ATPase 		1103 	protons 		3.A.2 		X
+PA5554 	pp6382 		pp6382		F-ATPase 		1104 	protons 		3.A.2 		X
+PA5555 	pp6382 		pp6382		F-ATPase 		1105 	protons 		3.A.2 		X
+PA5556 	pp6382 		pp6382		F-ATPase 		1106 	protons 		3.A.2 		X
+PA5557 	pp6382 		pp6382		F-ATPase 		1107 	protons 		3.A.2 		X
+PA5558 	pp6382 		pp6382		F-ATPase 		1108 	protons 		3.A.2 		X
+PA5559 	pp6382 		pp6382		F-ATPase 		1109 	protons 		3.A.2 		X
+PA5560 	pp6382 		pp6382		F-ATPase 		1110 	protons 		3.A.2 		X
+PA5561 	pp6382 		pp6382		F-ATPase 		1111 	protons 		3.A.2 		X
+PA4358 	pp6382 		pp6382		FeoB 		1567 	ferrous ion 		9.A.8 		X
+PA2187 	pp6382 		pp6382		FeT 		1576 	unknown substrate 		9.A.9 		X
+PA2777 	pp6382 		pp6382		FNT 		406 	formate/nitrite 		2.A.44 		X
+PA1051 	pp6382 		pp6382		GntP 		610 	gluconate 		2.A.8 		X
+PA2322 	pp6382 		pp6382		GntP 		611 	gluconate 		2.A.8 		X
+PA0337 	pp6382 		pp6382		GPTS 	EnzymeI 	1493 	unknown substrate 		4.A 		X
+PA3562 	pp6382 		pp6382		GPTS 	EnzymeI 	1367 	unknown substrate 		4.A 		X
+PA3760 	pp6382 		pp6382		GPTS 	EnzymeI 	1362 	unknown substrate 		4.A 		X
+PA4466 	pp6382 		pp6382		GPTS 	HPr 	1497 	unknown substrate 		4.A 		X
+PA3548 	pp6382 		pp6382		GUP 		415 	glycerol:proton symporter 		2.A.50 		X
+PA1916 	pp6382 		pp6382		HAAAP 		403 	tryptophan/tyrosine 		2.A.42 		X
+PA3766 	pp6382 		pp6382		HAAAP 		253 	tryptophan/tyrosine 		2.A.42 		X
+PA5434 	pp6382 		pp6382		HAAAP 		405 	aromatic amino acid 		2.A.42 		X
+PA3748 	pp6382 		pp6382		HCC 		1549 	heavy metal ion 		9.A.40 		X
+PA5362 	pp6382 		pp6382		HCC 		1551 	hemolysin C (HlyC) homolog 		9.A.40 		X
+PA1101 	pp6382 		pp6382		IIISP 		1140 	unknown substrate 		3.A.6 		X
+PA1446 	pp6382 		pp6382		IIISP 		1146 	unknown substrate 		3.A.6 		X
+PA1447 	pp6382 		pp6382		IIISP 		1147 	unknown substrate 		3.A.6 		X
+PA1448 	pp6382 		pp6382		IIISP 		1148 	unknown substrate 		3.A.6 		X
+PA1449 	pp6382 		pp6382		IIISP 		1149 	unknown substrate 		3.A.6 		X
+PA1452 	pp6382 		pp6382		IIISP 		1150 	unknown substrate 		3.A.6 		X
+PA1690 	pp6382 		pp6382		IIISP 		1151 	unknown substrate 		3.A.6 		X
+PA1691 	pp6382 		pp6382		IIISP 		1152 	unknown substrate 		3.A.6 		X
+PA1692 	pp6382 		pp6382		IIISP 		1153 	unknown substrate 		3.A.6 		X
+PA1693 	pp6382 		pp6382		IIISP 		1154 	unknown substrate 		3.A.6 		X
+PA1703 	pp6382 		pp6382		IIISP 		1159 	unknown substrate 		3.A.6 		X
+PA1717 	pp6382 		pp6382		IIISP 		1162 	unknown substrate 		3.A.6 		X
+PA1723 	pp6382 		pp6382		IIISP 		1167 	unknown substrate 		3.A.6 		X
+PA5248 	pp6382 		pp6382		ILT 		1526 	iron ion 		9.A.10 		X
+PA0768 	pp6382 		pp6382		IVSP 		1183 	unknown substrate 		3.A.7 		X
+PA0917 	pp6382 		pp6382		KUP 		581 	potassium ion uptake 		2.A.72 		X
+PA4770 	pp6382 		pp6382		LctP 		243 	L-lactate 		2.A.14 		X
+PA2039 	pp6382 		pp6382		LIV-E 	AzlC 	608 	branched-chain amino acid efflux (AzlC) 		2.A.78 		X
+PA1590 	pp6382 		pp6382		LIVCS 		326 	branched-chain amino acid 		2.A.26 		X
+PA1971 	pp6382 		pp6382		LIVCS 		327 	branched-chain amino acid 		2.A.26 		X
+PA4365 	pp6382 		pp6382		LysE 		590 	lysine efflux 		2.A.75 		X
+PA0229 	pp6382 		pp6382		MFS 		108 	multidrug efflux 		2.A.1 		X
+PA0235 	pp6382 		pp6382		MFS 		109 	metabolite (benzoate) 		2.A.1 		X
+PA0241 	pp6382 		pp6382		MFS 		110 	D-galactonate 		2.A.1 		X
+PA0246 	pp6382 		pp6382		MFS 		111 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA0273 	pp6382 		pp6382		MFS 		112 	cyanate 		2.A.1 		X
+PA0334 	pp6382 		pp6382		MFS 		113 	multidrug efflux 		2.A.1 		X
+PA0458 	pp6382 		pp6382		MFS 		114 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA0703 	pp6382 		pp6382		MFS 		115 	multidrug efflux 		2.A.1 		X
+PA0811 	pp6382 		pp6382		MFS 		116 	multidrug efflux 		2.A.1 		X
+PA0920 	pp6382 		pp6382		MFS 		118 	multidrug efflux 		2.A.1 		X
+PA1019 	pp6382 		pp6382		MFS 		120 	metabolite (benzoate) 		2.A.1 		X
+PA1108 	pp6382 		pp6382		MFS 		121 	multidrug efflux 		2.A.1 		X
+PA1131 	pp6382 		pp6382		MFS 		122 	multidrug efflux 		2.A.1 		X
+PA1144 	pp6382 		pp6382		MFS 		123 	multidrug efflux 		2.A.1 		X
+PA1212 	pp6382 		pp6382		MFS 		124 	sugar 		2.A.1 		X
+PA1236 	pp6382 		pp6382		MFS 		127 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA1262 	pp6382 		pp6382		MFS 		129 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA1282 	pp6382 		pp6382		MFS 		130 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA1286 	pp6382 		pp6382		MFS 		131 	multidrug efflux 		2.A.1 		X
+PA1313 	pp6382 		pp6382		MFS 		132 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA1316 	pp6382 		pp6382		MFS 		133 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA1352 	pp6382 		pp6382		MFS 		134 	multidrug efflux 		2.A.1 		X
+PA1412 	pp6382 		pp6382		MFS 		135 	multidrug efflux 		2.A.1 		X
+PA1569 	pp6382 		pp6382		MFS 		137 	multidrug efflux 		2.A.1 		X
+PA1626 	pp6382 		pp6382		MFS 		139 	cyanate 		2.A.1 		X
+PA1682 	pp6382 		pp6382		MFS 		140 	multidrug efflux 		2.A.1 		X
+PA1783 	pp6382 		pp6382		MFS 		141 	nitrate 		2.A.1 		X
+PA1848 	pp6382 		pp6382		MFS 		142 	multidrug efflux 		2.A.1 		X
+PA1908 	pp6382 		pp6382		MFS 		143 	multidrug efflux 		2.A.1 		X
+PA1993 	pp6382 		pp6382		MFS 		144 	multidrug efflux 		2.A.1 		X
+PA2006 	pp6382 		pp6382		MFS 		145 	metabolite (benzoate) 		2.A.1 		X
+PA2055 	pp6382 		pp6382		MFS 		146 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA2068 	pp6382 		pp6382		MFS 		147 	multidrug efflux 		2.A.1 		X
+PA2091 	pp6382 		pp6382		MFS 		148 	multidrug efflux 		2.A.1 		X
+PA2092 	pp6382 		pp6382		MFS 		149 	multidrug efflux 		2.A.1 		X
+PA2114 	pp6382 		pp6382		MFS 		150 	metabolite (benzoate) 		2.A.1 		X
+PA2210 	pp6382 		pp6382		MFS 		152 	D-galactonate 		2.A.1 		X
+PA2214 	pp6382 		pp6382		MFS 		153 	D-galactonate 		2.A.1 		X
+PA2219 	pp6382 		pp6382		MFS 		154 	multidrug efflux 		2.A.1 		X
+PA2262 	pp6382 		pp6382		MFS 		155 	D-galactonate 		2.A.1 		X
+PA2269 	pp6382 		pp6382		MFS 		156 	glycerol-3-phosphate 		2.A.1 		X
+PA2314 	pp6382 		pp6382		MFS 		158 	multidrug efflux 		2.A.1 		X
+PA2472 	pp6382 		pp6382		MFS 		164 	metabolite (benzoate) 		2.A.1 		X
+PA2500 	pp6382 		pp6382		MFS 		165 	cyanate 		2.A.1 		X
+PA2589 	pp6382 		pp6382		MFS 		168 	glycerol-3-phosphate 		2.A.1 		X
+PA2701 	pp6382 		pp6382		MFS 		169 	multidrug efflux 		2.A.1 		X
+PA2835 	pp6382 		pp6382		MFS 		170 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA2933 	pp6382 		pp6382		MFS 		172 	multidrug efflux 		2.A.1 		X
+PA3137 	pp6382 		pp6382		MFS 		174 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA3267 	pp6382 		pp6382		MFS 		175 	multidrug efflux 		2.A.1 		X
+PA3303 	pp6382 		pp6382		MFS 		178 	multidrug efflux 		2.A.1 		X
+PA3336 	pp6382 		pp6382		MFS 		181 	multidrug efflux 		2.A.1 		X
+PA3355 	pp6382 		pp6382		MFS 		182 	multidrug efflux 		2.A.1 		X
+PA3465 	pp6382 		pp6382		MFS 		184 	multidrug efflux 		2.A.1 		X
+PA3467 	pp6382 		pp6382		MFS 		185 	metabolite (benzoate) 		2.A.1 		X
+PA3532 	pp6382 		pp6382		MFS 		186 	sugar efflux 		2.A.1 		X
+PA3536 	pp6382 		pp6382		MFS 		187 	multidrug efflux 		2.A.1 		X
+PA3573 	pp6382 		pp6382		MFS 		189 	multidrug efflux 		2.A.1 		X
+PA3595 	pp6382 		pp6382		MFS 		190 	tetracycline efflux 		2.A.1 		X
+PA3709 	pp6382 		pp6382		MFS 		191 	multidrug efflux 		2.A.1 		X
+PA3718 	pp6382 		pp6382		MFS 		192 	multidrug efflux 		2.A.1 		X
+PA3749 	pp6382 		pp6382		MFS 		193 	sugar 		2.A.1 		X
+PA3773 	pp6382 		pp6382		MFS 		194 	multidrug efflux 		2.A.1 		X
+PA3876 	pp6382 		pp6382		MFS 		196 	nitrate 		2.A.1 		X
+PA3877 	pp6382 		pp6382		MFS 		197 	nitrate 		2.A.1 		X
+PA3926 	pp6382 		pp6382		MFS 		200 	glycerol-3-phosphate 		2.A.1 		X
+PA4096 	pp6382 		pp6382		MFS 		201 	multidrug efflux 		2.A.1 		X
+PA4113 	pp6382 		pp6382		MFS 		202 	multidrug efflux 		2.A.1 		X
+PA4126 	pp6382 		pp6382		MFS 		203 	4-hydroxyphenylacetate 		2.A.1 		X
+PA4136 	pp6382 		pp6382		MFS 		204 	multidrug efflux 		2.A.1 		X
+PA4187 	pp6382 		pp6382		MFS 		205 	multidrug efflux 		2.A.1 		X
+PA4218 	pp6382 		pp6382		MFS 		207 	Acetyl-CoA:CoA antiporter 		2.A.1 		X
+PA4233 	pp6382 		pp6382		MFS 		210 	multidrug efflux 		2.A.1 		X
+PA4343 	pp6382 		pp6382		MFS 		211 	multidrug efflux 		2.A.1 		X
+PA4355 	pp6382 		pp6382		MFS 		212 	multidrug efflux 		2.A.1 		X
+PA4393 	pp6382 		pp6382		MFS 		213 	Acetyl-CoA:CoA antiporter 		2.A.1 		X
+PA4622 	pp6382 		pp6382		MFS 		215 	multidrug efflux 		2.A.1 		X
+PA4654 	pp6382 		pp6382		MFS 		216 	multidrug efflux 		2.A.1 		X
+PA4887 	pp6382 		pp6382		MFS 		220 	multidrug efflux 		2.A.1 		X
+PA4900 	pp6382 		pp6382		MFS 		221 	metabolite (benzoate) 		2.A.1 		X
+PA4903 	pp6382 		pp6382		MFS 		222 	metabolite (benzoate) 		2.A.1 		X
+PA5030 	pp6382 		pp6382		MFS 		223 	multidrug efflux 		2.A.1 		X
+PA5160 	pp6382 		pp6382		MFS 		225 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+PA5219 	pp6382 		pp6382		MFS 		226 	multidrug efflux 		2.A.1 		X
+PA5235 	pp6382 		pp6382		MFS 		227 	glycerol-3-phosphate 		2.A.1 		X
+PA5282 	pp6382 		pp6382		MFS 		228 	multidrug efflux 		2.A.1 		X
+PA5311 	pp6382 		pp6382		MFS 		229 	cyanate 		2.A.1 		X
+PA5370 	pp6382 		pp6382		MFS 		230 	multidrug efflux 		2.A.1 		X
+PA5476 	pp6382 		pp6382		MFS 		231 	multidrug efflux 		2.A.1 		X
+PA5530 	pp6382 		pp6382		MFS 		232 	multidrug efflux 		2.A.1 		X
+PA5548 	pp6382 		pp6382		MFS 		233 	multidrug efflux 		2.A.1 		X
+PA0913 	pp6382 		pp6382		MgtE 		1531 	magnesium ion 		9.A.19 		X
+PA3581 	pp6382 		pp6382		MIP 		86 	glycerol uptake 		1.A.8 		X
+PA4034 	pp6382 		pp6382		MIP 		87 	glycerol uptake 		1.A.8 		X
+PA1773 	pp6382 		pp6382		MIT 		72 	magnesium/cobalt ion 		1.A.35 		X
+PA1873 	pp6382 		pp6382		MIT 		73 	magnesium/cobalt ion 		1.A.35 		X
+PA5268 	pp6382 		pp6382		MIT 		74 	magnesium/cobalt ion 		1.A.35 		X
+PA1361 	pp6382 		pp6382		MOP 	MATE 	530 	multidrug efflux 		2.A.66 		X
+PA2241 	pp6382 		pp6382		MOP 	MVF 	531 	virulence factor MviN 		2.A.66 		X
+PA3058 	pp6382 		pp6382		MOP 		532 	multidrug efflux 		2.A.66 		X
+PA3153 	pp6382 		pp6382		MOP 	PST 	534 	polysaccharide export 		2.A.66 		X
+PA3884 	pp6382 		pp6382		MOP 		535 	multidrug efflux 		2.A.66 		X
+PA4562 	pp6382 		pp6382		MOP 	MVF 	536 	virulence factor MviN 		2.A.66 		X
+PA4821 	pp6382 		pp6382		MOP 	MATE 	537 	multidrug efflux 		2.A.66 		X
+PA5294 	pp6382 		pp6382		MOP 	MATE 	539 	multidrug efflux 		2.A.66 		X
+PA0198 	pp6382 		pp6382		Mot/Exb 		47 	unknown substrate 		1.A.30 		X
+PA0199 	pp6382 		pp6382		Mot/Exb 		48 	unknown substrate 		1.A.30 		X
+PA0969 	pp6382 		pp6382		Mot/Exb 		53 	unknown substrate 		1.A.30 		X
+PA0970 	pp6382 		pp6382		Mot/Exb 		54 	unknown substrate 		1.A.30 		X
+PA1460 	pp6382 		pp6382		Mot/Exb 		59 	unknown substrate 		1.A.30 		X
+PA2983 	pp6382 		pp6382		Mot/Exb 		63 	unknown substrate 		1.A.30 		X
+PA4954 	pp6382 		pp6382		Mot/Exb 		67 	unknown substrate 		1.A.30 		X
+PA4614 	pp6382 		pp6382		MscL 		35 	large-conductance mechanosensitive ion channel 		1.A.22 		X
+PA1408 	pp6382 		pp6382		MscS 		36 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+PA1775 	pp6382 		pp6382		MscS 		37 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+PA3468 	pp6382 		pp6382		MscS 		38 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+PA4394 	pp6382 		pp6382		MscS 		39 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+PA4925 	pp6382 		pp6382		MscS 		40 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+PA5022 	pp6382 		pp6382		MscS 		41 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+PA5121 	pp6382 		pp6382		MscS 		42 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+PA5251 	pp6382 		pp6382		MscS 		43 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+PA0215 	pp6382 		pp6382		MSS 		578 	sodium ion:malonate symporter 		2.A.70 		X
+PA0216 	pp6382 		pp6382		MSS 		579 	sodium ion:malonate symporter 		2.A.70 		X
+PA0681 	pp6382 		pp6382		MTB 		1055 	unknown substrate 		3.A.15 		X
+PA0687 	pp6382 		pp6382		MTB 		1059 	unknown substrate 		3.A.15 		X
+PA2675 	pp6382 		pp6382		MTB 		1063 	unknown substrate 		3.A.15 		X
+PA2676 	pp6382 		pp6382		MTB 		1064 	unknown substrate 		3.A.15 		X
+PA3097 	pp6382 		pp6382		MTB 		1067 	unknown substrate 		3.A.15 		X
+PA3098 	pp6382 		pp6382		MTB 		1068 	unknown substrate 		3.A.15 		X
+PA3099 	pp6382 		pp6382		MTB 		1069 	unknown substrate 		3.A.15 		X
+PA3100 	pp6382 		pp6382		MTB 		1070 	unknown substrate 		3.A.15 		X
+PA3101 	pp6382 		pp6382		MTB 		1071 	unknown substrate 		3.A.15 		X
+PA3102 	pp6382 		pp6382		MTB 		1072 	unknown substrate 		3.A.15 		X
+PA4525 	pp6382 		pp6382		MTB 		1077 	unknown substrate 		3.A.15 		X
+PA4528 	pp6382 		pp6382		MTB 		1079 	unknown substrate 		3.A.15 		X
+PA4549 	pp6382 		pp6382		MTB 		1080 	unknown substrate 		3.A.15 		X
+PA4550 	pp6382 		pp6382		MTB 		1081 	unknown substrate 		3.A.15 		X
+PA4556 	pp6382 		pp6382		MTB 		1082 	unknown substrate 		3.A.15 		X
+PA0438 	pp6382 		pp6382		NCS1 		387 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+PA0443 	pp6382 		pp6382		NCS1 		388 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+PA0476 	pp6382 		pp6382		NCS1 		389 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+PA1419 	pp6382 		pp6382		NCS1 		390 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+PA2073 	pp6382 		pp6382		NCS1 		391 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+PA5099 	pp6382 		pp6382		NCS1 		392 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+PA0166 	pp6382 		pp6382		NCS2 		396 	xanthine/uracil 		2.A.40 		X
+PA0352 	pp6382 		pp6382		NCS2 		397 	xanthine/uracil 		2.A.40 		X
+PA1507 	pp6382 		pp6382		NCS2 		398 	xanthine/uracil 		2.A.40 		X
+PA1519 	pp6382 		pp6382		NCS2 		136 	xanthine/uracil 		2.A.40 		X
+PA2938 	pp6382 		pp6382		NCS2 		400 	xanthine/uracil 		2.A.40 		X
+PA4647 	pp6382 		pp6382		NCS2 		401 	xanthine/uracil 		2.A.40 		X
+PA4719 	pp6382 		pp6382		NCS2 		218 	xanthine/uracil 		2.A.40 		X
+PA1820 	pp6382 		pp6382		NhaB 		358 	sodium ion:proton antiporter 		2.A.34 		X
+PA2653 	pp6382 		pp6382		NhaC 		360 	sodium ion:proton antiporter 		2.A.35 		X
+PA0809 	pp6382 		pp6382		Nramp 		427 	manganese/iron ion 		2.A.55 		X
+PA4334 	pp6382 		pp6382		Nramp 		428 	manganese/iron ion 		2.A.55 		X
+PA5159 	pp6382 		pp6382		OMF 		513 	unknown substrate 		1.B.17 		X
+PA0078 	pp6382 		pp6382		OOP 		46 	unknown substrate 		1.B.6 		X
+PA1461 	pp6382 		pp6382		OOP 		60 	unknown substrate 		1.B.6 		X
+PA4953 	pp6382 		pp6382		OOP 		66 	unknown substrate 		1.B.6 		X
+PA3934 	pp6382 		pp6382		OPT 		540 	oligopeptide 		2.A.67 		X
+PA5568 	pp6382 		pp6382		Oxa1 		632 	60 KD inner membrane protein OxaA homolog 		2.A.9 		X
+PA1429 	pp6382 		pp6382		P-ATPase 		1118 	calcium ion/manganese ion 		3.A.3 		X
+PA1549 	pp6382 		pp6382		P-ATPase 		1119 	zinc/cadmium/cobalt ion 		3.A.3 		X
+PA1633 	pp6382 		pp6382		P-ATPase 		1120 	potassium ion 		3.A.3 		X
+PA1634 	pp6382 		pp6382		P-ATPase 		1121 	potassium ion 		3.A.3 		X
+PA1635 	pp6382 		pp6382		P-ATPase 		1122 	potassium ion 		3.A.3 		X
+PA2435 	pp6382 		pp6382		P-ATPase 		1125 	zinc/cadmium/cobalt ion 		3.A.3 		X
+PA3690 	pp6382 		pp6382		P-ATPase 		1127 	zinc/cadmium/cobalt ion 		3.A.3 		X
+PA3920 	pp6382 		pp6382		P-ATPase 		1128 	zinc/cadmium/cobalt ion 		3.A.3 		X
+PA4825 	pp6382 		pp6382		P-ATPase 		1130 	magnesium ion 		3.A.3 		X
+PA2757 	pp6382 		pp6382		PACE 		241 	chlorhexidine 		2.A.117 		X
+PA2880 	pp6382 		pp6382		PACE 		242 	chlorhexidine 		2.A.117 		X
+PA0450 	pp6382 		pp6382		PiT 		261 	phosphate 		2.A.20 		X
+PA4292 	pp6382 		pp6382		PiT 		262 	phosphate 		2.A.20 		X
+PA5207 	pp6382 		pp6382		PiT 		263 	phosphate 		2.A.20 		X
+PA4822 	pp6382 		pp6382		PNaS 		451 	sodium ion:phosphate symporter 		2.A.58 		X
+PA5473 	pp6382 		pp6382		PNaS 		452 	sodium ion:phosphate symporter 		2.A.58 		X
+PA0417 	pp6382 		pp6382		RhtB 		594 	amino acid efflux 		2.A.76 		X
+PA1620 	pp6382 		pp6382		RhtB 		595 	amino acid efflux 		2.A.76 		X
+PA2306 	pp6382 		pp6382		RhtB 		596 	amino acid efflux 		2.A.76 		X
+PA2710 	pp6382 		pp6382		RhtB 		597 	amino acid efflux 		2.A.76 		X
+PA2916 	pp6382 		pp6382		RhtB 		598 	amino acid efflux 		2.A.76 		X
+PA2929 	pp6382 		pp6382		RhtB 		599 	amino acid efflux 		2.A.76 		X
+PA3665 	pp6382 		pp6382		RhtB 		600 	amino acid efflux 		2.A.76 		X
+PA4145a 	pp6382 		pp6382		RhtB 		601 	amino acid efflux 		2.A.76 		X
+PA4507 	pp6382 		pp6382		RhtB 		603 	amino acid efflux 		2.A.76 		X
+PA4757 	pp6382 		pp6382		RhtB 		604 	amino acid efflux 		2.A.76 		X
+PA5205 	pp6382 		pp6382		RhtB 		635 	neutral amino acid/multiple antibiotic resistance 		2.A.76 		X
+PA5249 	pp6382 		pp6382		RhtB 		606 	amino acid efflux 		2.A.76 		X
+PA5341 	pp6382 		pp6382		RhtB 		607 	amino acid efflux 		2.A.76 		X
+PA0158 	pp6382 		pp6382		RND 	HAE1 	456 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA0426 	pp6382 		pp6382		RND 	HAE1 	458 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA1436 	pp6382 		pp6382		RND 	HAE1 	464 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA2018 	pp6382 		pp6382		RND 	HAE1 	467 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA2494 	pp6382 		pp6382		RND 	HAE1 	473 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA2520 	pp6382 		pp6382		RND 	HME 	475 	cobalt/zinc/cadmium ion efflux (HME subfamily) 		2.A.6 		X
+PA2526 	pp6382 		pp6382		RND 	HAE1 	479 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA2527 	pp6382 		pp6382		RND 	HAE1 	480 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA2836 	pp6382 		pp6382		RND 		482 	multidrug efflux 		2.A.6 		X
+PA3079 	pp6382 		pp6382		RND 	HAE3 	484 	multidrug/solvent efflux (HAE3 subfamily) 		2.A.6 		X
+PA3522 	pp6382 		pp6382		RND 	HAE1 	490 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA3676 	pp6382 		pp6382		RND 	HAE1 	492 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA3892 	pp6382 		pp6382		RND 		496 	multidrug efflux 		2.A.6 		X
+PA4207 	pp6382 		pp6382		RND 	HAE1 	500 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA4375 	pp6382 		pp6382		RND 	HAE1 	503 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA4598 	pp6382 		pp6382		RND 	HAE1 	507 	multidrug/solvent efflux (HAE1 subfamily) 		2.A.6 		X
+PA4718 	pp6382 		pp6382		RND 	SecDF 	509 	protein export (SecDF) 		2.A.6 		X
+PA3560 	pp6382 		pp6382		SSPTS 	EnzymeIIBC 	1366 	fructose 		4.A 		X
+PA3761 	pp6382 		pp6382		SSPTS 	EnzymeIIABC 	1363 	glucose/maltose/N-acetylglucosamine 		4.A 		X
+PA4464 	pp6382 		pp6382		SSPTS 	EnzymeIIA 	1369 	fructose 		4.A 		X
+PA0287 	pp6382 		pp6382		SSS 		264 	sodium ion:proline symporter 		2.A.21 		X
+PA0783 	pp6382 		pp6382		SSS 		267 	sodium ion:proline symporter 		2.A.21 		X
+PA1336 	pp6382 		pp6382		SSS 		273 	sodium ion:proline symporter 		2.A.21 		X
+PA1418 	pp6382 		pp6382		SSS 		275 	sodium ion:proline symporter 		2.A.21 		X
+PA1636 	pp6382 		pp6382		SSS 		278 	sodium ion:proline symporter 		2.A.21 		X
+PA3234 	pp6382 		pp6382		SSS 		294 	sodium ion:proline symporter 		2.A.21 		X
+PA3271 	pp6382 		pp6382		SSS 		295 	sodium ion:proline symporter 		2.A.21 		X
+PA4112 	pp6382 		pp6382		SSS 		301 	sodium ion:proline symporter 		2.A.21 		X
+PA4398 	pp6382 		pp6382		SSS 		305 	sodium ion:proline symporter 		2.A.21 		X
+PA4546 	pp6382 		pp6382		SSS 		307 	sodium ion:proline symporter 		2.A.21 		X
+PA4725 	pp6382 		pp6382		SSS 		308 	sodium ion:proline symporter 		2.A.21 		X
+PA5165 	pp6382 		pp6382		SSS 		314 	sodium ion:proline symporter 		2.A.21 		X
+PA5484 	pp6382 		pp6382		SSS 		317 	sodium ion:proline symporter 		2.A.21 		X
+PA0029 	pp6382 		pp6382		SulP 		417 	sulfate 		2.A.53 		X
+PA0103 	pp6382 		pp6382		SulP 		419 	sulfate 		2.A.53 		X
+PA1647 	pp6382 		pp6382		SulP 		421 	sulfate 		2.A.53 		X
+PA2563 	pp6382 		pp6382		SulP 		423 	sulfate 		2.A.53 		X
+PA5068 	pp6382 		pp6382		Tat 		527 	protein export 		2.A.64 		X
+PA5070 	pp6382 		pp6382		Tat 		529 	protein export 		2.A.64 		X
+PA1170 	pp6382 		pp6382		TerC 		1541 	tellurium ion efflux 		9.A.30 		X
+PA1331 	pp6382 		pp6382		TerC 		1548 	tellurium ion efflux 		9.A.30 		X
+PA2549 	pp6382 		pp6382		TerC 		1543 	tellurium ion efflux 		9.A.30 		X
+PA5250 	pp6382 		pp6382		TerC 		1544 	tellurium ion efflux 		9.A.30 		X
+PA5469 	pp6382 		pp6382		TerC 		1545 	tellurium ion efflux 		9.A.30 		X
+PA4479 	pp6382 		pp6382		ThrE 		609 	unknown substrate 		2.A.79 		X
+PA0884 	pp6382 		pp6382		TRAP-T 		429 	C4-dicarboxylate 		2.A.56 		X
+PA0885 	pp6382 		pp6382		TRAP-T 		430 	C4-dicarboxylate 		2.A.56 		X
+PA0886 	pp6382 		pp6382		TRAP-T 		431 	C4-dicarboxylate 		2.A.56 		X
+PA3779 	pp6382 		pp6382		TRAP-T 		437 	C4-dicarboxylate 		2.A.56 		X
+PA3780 	pp6382 		pp6382		TRAP-T 		438 	C4-dicarboxylate 		2.A.56 		X
+PA3781 	pp6382 		pp6382		TRAP-T 		439 	C4-dicarboxylate 		2.A.56 		X
+PA4616 	pp6382 		pp6382		TRAP-T 		443 	C4-dicarboxylate 		2.A.56 		X
+PA5167 	pp6382 		pp6382		TRAP-T 		447 	C4-dicarboxylate 		2.A.56 		X
+PA5168 	pp6382 		pp6382		TRAP-T 		448 	C4-dicarboxylate 		2.A.56 		X
+PA5169 	pp6382 		pp6382		TRAP-T 		449 	C4-dicarboxylate 		2.A.56 		X
+PA5544 	pp6382 		pp6382		TRAP-T 		450 	C4-dicarboxylate 		2.A.56 		X
+PA1037 	pp6382 		pp6382		TRIC 		82 	unknown substrate 		1.A.62 		X
+PA3210 	pp6382 		pp6382		Trk 		380 	potassium ion uptake 		2.A.38 		X
+PA0752 	pp6382 		pp6382		TTT 	TctA 	613 	tricarboxylate (TctA) 		2.A.80 		X
+PA0753 	pp6382 		pp6382		TTT 		614 	tricarboxylate 		2.A.80 		X
+PA0754 	pp6382 		pp6382		TTT 	TctC 	615 	tricarboxylate (TctC) 		2.A.80 		X
+PA2207 	pp6382 		pp6382		TTT 	TctA 	616 	tricarboxylate (TctA) 		2.A.80 		X
+PA2209 	pp6382 		pp6382		TTT 	TctC 	617 	tricarboxylate (TctC) 		2.A.80 		X
+PA3362 	pp6382 		pp6382		UAC 		45 	amide/urea 		1.A.29 		X
+PA1497 	pp6382 		pp6382		UT 		44 	urea 		1.A.28 		X
+PA0742 	pp6382 		pp6382		VIC 		9 	potassium ion channel 		1.A.1 		X
+PA1496 	pp6382 		pp6382		VIC 		10 	potassium ion channel 		1.A.1 		X
+PA3851 	pp6382 		pp6382		VIT 		631 	vacuolar iron uptake transporter homolog 		2.A.89 		X
+PA0392 	pp6382 		pp6382		YggT 		1547 	unknown substrate 		9.A.4 		X
+PA4467 	pp6382 		pp6382		ZIP 		414 	zinc ion 		2.A.5 		X

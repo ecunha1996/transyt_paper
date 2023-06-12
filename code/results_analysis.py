@@ -56,13 +56,16 @@ def load_transyt_results(filenames):
 
 
 def load_transportdb_results(filename):
-    transportdb_results = pd.read_csv(filename, header=None, index_col=0)
+    transportdb_results = pd.read_csv(filename, header=None, index_col=0, sep="\t")
+    transportdb_results.dropna(axis=1, how='all', inplace=True)
     num_cols = len(transportdb_results.columns)
-    transportdb_results.columns = ["substrate"] + [f"col{i}" for i in range(1, num_cols-1)] + ["family"]
+    transportdb_results.columns = ["substrate"] + [f"col{i}" for i in range(1, num_cols-2)] + ["family", "last_col"]
     transportdb_results.index = transportdb_results.index.str.lower()
+    transportdb_results.index = transportdb_results.index.str.strip()
     transportdb_results.index = transportdb_results.index.str.replace("-", "_")
-    transportdb_results_temp = transportdb_results.drop(columns=["substrate", "col1", "col2", "col3", "col4"], axis=1)
+    transportdb_results_temp = transportdb_results.drop(columns=["substrate", "col1", "col2", "col3", "col4", "last_col"], axis=1)
     ## discard rows where family starts by 9
+    duplicated_index = transportdb_results_temp[transportdb_results_temp.index.duplicated(keep=False)]
     transportdb_results_dict = transportdb_results_temp.to_dict(orient="index")
     for key, value in transportdb_results_dict.items():
         transportdb_results_dict[key] = value["family"]
@@ -184,8 +187,9 @@ if __name__ == '__main__':
     for case_study in case_studies:
         print(case_study)
         for parameter_set, name in parameter_sets.items():
-            transportdb_df, transportdb_dict = load_transportdb_results(rf'{case_study}/transportdb.csv')
+            transportdb_df, transportdb_dict = load_transportdb_results(rf'{case_study}/transaap.txt')
             transyt = load_transyt_results([rf'{case_study}/{parameter_set}/results/results/scoresMethod1.txt', rf'{case_study}/{parameter_set}/results/results/scoresMethod2.txt'])
             case_study_results_map[case_study] = [transportdb_df, transportdb_dict, transyt]
             case_study_analysis(case_study_results_map[case_study])
             venn_diagram(case_study_results_map[case_study], name)
+

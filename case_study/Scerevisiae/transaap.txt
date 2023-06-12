@@ -1,0 +1,381 @@
+YBL089W 	ss6383 		ss6383		AAAP 		296 	amino acid 		2.A.18 		X
+YEL064C 	ss6383 		ss6383		AAAP 		297 	amino acid 		2.A.18 		X
+YER119C 	ss6383 		ss6383		AAAP 		298 	amino acid 		2.A.18 		X
+YIL088C 	ss6383 		ss6383		AAAP 		299 	amino acid 		2.A.18 		X
+YJR001W 	ss6383 		ss6383		AAAP 		300 	amino acid 		2.A.18 		X
+YKL146W 	ss6383 		ss6383		AAAP 		301 	amino acid 		2.A.18 		X
+YNL101W 	ss6383 		ss6383		AAAP 		302 	amino acid 		2.A.18 		X
+YCR011C 	ss6383 		ss6383		ABC 	ABCG 	503 	White pigment protein homolog (ABCG) 		3.A.1 		X
+YDR011W 	ss6383 		ss6383		ABC 		505 	multidrug (ABCG/PDR-type) 		3.A.1 		X
+YDR061W 	ss6383 		ss6383		ABC 	binding 	506 	daunorubicin 		3.A.1 		X
+YDR107C 	ss6383 		ss6383		ABC 	membrane 	1150 	sodium ion efflux 		3.A.1 		X
+YDR135C 	ss6383 		ss6383		ABC 	membrane 	509 	multidrug 	* 	3.A.1 		X
+YDR406W 	ss6383 		ss6383		ABC 		510 	multidrug (ABCG/PDR-type) 		3.A.1 		X
+YER036C 	ss6383 		ss6383		ABC 	binding 	512 	cobalt 		3.A.1 		X
+YFL028C 	ss6383 		ss6383		ABC 	ABC 	514 	multidrug 		3.A.1 		X
+YFL034W 	ss6383 		ss6383		ABC 	membrane 	515 	toluene tolerance 		3.A.1 		X
+YGR281W 	ss6383 		ss6383		ABC 	membrane 	520 	multidrug 	* 	3.A.1 		X
+YHL035C 	ss6383 		ss6383		ABC 	membrane 	521 	multidrug 	* 	3.A.1 		X
+YIL013C 	ss6383 		ss6383		ABC 		524 	multidrug (ABCG/PDR-type) 		3.A.1 		X
+YKL188C 	ss6383 		ss6383		ABC 	membrane 	527 	multidrug 	* 	3.A.1 		X
+YKL209C 	ss6383 		ss6383		ABC 	binding 	528 	lipid A 		3.A.1 		X
+YKR103W 	ss6383 		ss6383		ABC 	membrane 	529 	multidrug 	* 	3.A.1 		X
+YKR104W 	ss6383 		ss6383		ABC 	membrane 	530 	multidrug 	* 	3.A.1 		X
+YLL015W 	ss6383 		ss6383		ABC 	membrane 	531 	multidrug 	* 	3.A.1 		X
+YLL048C 	ss6383 		ss6383		ABC 	membrane 	532 	multidrug 	* 	3.A.1 		X
+YLR188W 	ss6383 		ss6383		ABC 	ABCB 	534 	mitochondrial peptide export (ABCB/TAP) 		3.A.1 		X
+YLR249W 	ss6383 		ss6383		ABC 	ABC 	535 	unknown substrate 		3.A.1 		X
+YMR301C 	ss6383 		ss6383		ABC 	binding 	536 	lipid A 		3.A.1 		X
+YNL014W 	ss6383 		ss6383		ABC 	ABC 	537 	unknown substrate 		3.A.1 		X
+YNR070W 	ss6383 		ss6383		ABC 		540 	multidrug (ABCG/PDR-type) 		3.A.1 		X
+YOL075C 	ss6383 		ss6383		ABC 	ABCG 	541 	White pigment protein homolog (ABCG) 		3.A.1 		X
+YOR011W 	ss6383 		ss6383		ABC 		542 	multidrug (ABCG/PDR-type) 		3.A.1 		X
+YOR153W 	ss6383 		ss6383		ABC 		543 	multidrug (ABCG/PDR-type) 		3.A.1 		X
+YOR328W 	ss6383 		ss6383		ABC 		544 	multidrug (ABCG/PDR-type) 		3.A.1 		X
+YPL058C 	ss6383 		ss6383		ABC 		545 	multidrug (ABCG/PDR-type) 		3.A.1 		X
+YPL147W 	ss6383 		ss6383		ABC 	membrane 	546 	multidrug 	* 	3.A.1 		X
+YPL226W 	ss6383 		ss6383		ABC 	ABC 	548 	unknown substrate 		3.A.1 		X
+YPL270W 	ss6383 		ss6383		ABC 	ABCB 	550 	mitochondrial peptide export (ABCB/TAP) 		3.A.1 		X
+YPR201W 	ss6383 		ss6383		ACR3 		436 	arsenite 		2.A.59 		X
+YNL275W 	ss6383 		ss6383		AE 		377 	chloride/bicarbonate anion exchange 		2.A.31 		X
+YBR287W 	ss6383 		ss6383		AEC 		467 	unknown substrate 		2.A.69 		X
+YLR152C 	ss6383 		ss6383		AEC 		468 	unknown substrate 		2.A.69 		X
+YNL095C 	ss6383 		ss6383		AEC 		469 	unknown substrate 		2.A.69 		X
+YOR092W 	ss6383 		ss6383		AEC 		470 	unknown substrate 		2.A.69 		X
+YGR121C 	ss6383 		ss6383		Amt 		17 	ammonium 		1.A.11 		X
+YNL142W 	ss6383 		ss6383		Amt 		18 	ammonium 		1.A.11 		X
+YPR138C 	ss6383 		ss6383		Amt 		19 	ammonium 		1.A.11 		X
+YBR068C 	ss6383 		ss6383		APC 		348 	amino acid 		2.A.3 		X
+YBR069C 	ss6383 		ss6383		APC 		349 	amino acid 		2.A.3 		X
+YBR132C 	ss6383 		ss6383		APC 		350 	amino acid 		2.A.3 		X
+YCL025C 	ss6383 		ss6383		APC 		352 	amino acid 		2.A.3 		X
+YDL210W 	ss6383 		ss6383		APC 		353 	amino acid 		2.A.3 		X
+YDR046C 	ss6383 		ss6383		APC 		354 	amino acid 		2.A.3 		X
+YDR160W 	ss6383 		ss6383		APC 		355 	amino acid 		2.A.3 		X
+YDR508C 	ss6383 		ss6383		APC 		356 	amino acid 		2.A.3 		X
+YEL063C 	ss6383 		ss6383		APC 		357 	amino acid 		2.A.3 		X
+YFL055W 	ss6383 		ss6383		APC 		358 	amino acid 		2.A.3 		X
+YGL053W 	ss6383 		ss6383		APC 		359 	cationic amino acid 		2.A.3 		X
+YGL077C 	ss6383 		ss6383		APC 		360 	amino acid 		2.A.3 		X
+YGR055W 	ss6383 		ss6383		APC 		361 	large neutral amino acid 		2.A.3 		X
+YGR191W 	ss6383 		ss6383		APC 		362 	amino acid 		2.A.3 		X
+YHL036W 	ss6383 		ss6383		APC 		363 	large neutral amino acid 		2.A.3 		X
+YKL174C 	ss6383 		ss6383		APC 		364 	amino acid 		2.A.3 		X
+YKR039W 	ss6383 		ss6383		APC 		365 	amino acid 		2.A.3 		X
+YLL061W 	ss6383 		ss6383		APC 		366 	amino acid 		2.A.3 		X
+YNL268W 	ss6383 		ss6383		APC 		367 	amino acid 		2.A.3 		X
+YNL270C 	ss6383 		ss6383		APC 		368 	amino acid 		2.A.3 		X
+YNR056C 	ss6383 		ss6383		APC 		369 	amino acid 		2.A.3 		X
+YOL020W 	ss6383 		ss6383		APC 		370 	amino acid 		2.A.3 		X
+YOR348C 	ss6383 		ss6383		APC 		371 	amino acid 		2.A.3 		X
+YPL265W 	ss6383 		ss6383		APC 		372 	amino acid 		2.A.3 		X
+YPL274W 	ss6383 		ss6383		APC 		373 	amino acid 		2.A.3 		X
+YDL231C 	ss6383 		ss6383		ArAE 		486 	fusaric acid efflux 		2.A.85 		X
+YGL140C 	ss6383 		ss6383		ArAE 		487 	fusaric acid efflux 		2.A.85 		X
+YDL100C 	ss6383 		ss6383		ArsAB 		435 	arsenite (ArsA) 		3.A.4 		X
+YJL062W 	ss6383 		ss6383		ATP-E 		1217 	unknown substrate 		9.A.6 		X
+YKL165C 	ss6383 		ss6383		ATP-E 		1218 	unknown substrate 		9.A.6 		X
+YDL128W 	ss6383 		ss6383		CaCA 		303 	proton:calcium ion antiporter 		2.A.19 		X
+YDL206W 	ss6383 		ss6383		CaCA 		304 	sodium ion:calcium ion+potassium ion antiporter 		2.A.19 		X
+YJR106W 	ss6383 		ss6383		CaCA 		305 	sodium ion:calcium ion+potassium ion antiporter 		2.A.19 		X
+YNL321W 	ss6383 		ss6383		CaCA 		306 	proton:calcium ion antiporter 		2.A.19 		X
+YBR235W 	ss6383 		ss6383		CCC 		374 	potassium ion:chloride ion symporter 		2.A.30 		X
+YMR177W 	ss6383 		ss6383		CDF 		394 	cation efflux 		2.A.4 		X
+YMR243C 	ss6383 		ss6383		CDF 		395 	cation efflux 		2.A.4 		X
+YNR039C 	ss6383 		ss6383		CDF 		396 	cation efflux 		2.A.4 		X
+YOR316C 	ss6383 		ss6383		CDF 		397 	cation efflux 		2.A.4 		X
+YPL224C 	ss6383 		ss6383		CDF 		398 	cation efflux 		2.A.4 		X
+YJR040W 	ss6383 		ss6383		ClC 		414 	chloride ion channel 		2.A.49 		X
+YDR456W 	ss6383 		ss6383		CPA1 		378 	sodium ion:proton antiporter 		2.A.36 		X
+YLR138W 	ss6383 		ss6383		CPA1 		379 	sodium ion:proton antiporter 		2.A.36 		X
+YJL094C 	ss6383 		ss6383		CPA2 		380 	potassium/sodium ion:proton antiporter 		2.A.37 		X
+YOR161C 	ss6383 		ss6383		CTL 		491 	unknown substrate 		2.A.92 		X
+YHR175W 	ss6383 		ss6383		Ctr 		48 	copper ion uptake 		1.A.56 		X
+YLR411W 	ss6383 		ss6383		Ctr 		49 	copper ion uptake 		1.A.56 		X
+YPR124W 	ss6383 		ss6383		Ctr 		50 	copper ion uptake 		1.A.56 		X
+YCR037C 	ss6383 		ss6383		DASS 		408 	sodium ion:dicarboxylate/sulfate 		2.A.47 		X
+YJL198W 	ss6383 		ss6383		DASS 		410 	sodium ion:anion symporter 		2.A.47 		X
+YNR013C 	ss6383 		ss6383		DASS 		411 	sodium ion:dicarboxylate/sulfate 		2.A.47 		X
+YDR438W 	ss6383 		ss6383		DMT 		471 	drug/metabolite 		2.A.7 		X
+YEL004W 	ss6383 		ss6383		DMT 		472 	UDP-galactose:UMP antiporter 		2.A.7 		X
+YER039C 	ss6383 		ss6383		DMT 		473 	UDP-galactose:UMP antiporter 		2.A.7 		X
+YER039C_A 	ss6383 		ss6383		DMT 		474 	phosphate/phosphoenolpyruvate 		2.A.7 		X
+YGL225W 	ss6383 		ss6383		DMT 		475 	UDP-galactose:UMP antiporter 		2.A.7 		X
+YJL193W 	ss6383 		ss6383		DMT 		476 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+YML018C 	ss6383 		ss6383		DMT 		477 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+YML038C 	ss6383 		ss6383		DMT 		478 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+YMR253C 	ss6383 		ss6383		DMT 		479 	drug/metabolite 		2.A.7 		X
+YOR307C 	ss6383 		ss6383		DMT 		480 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+YPL244C 	ss6383 		ss6383		DMT 		481 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+YPL264C 	ss6383 		ss6383		DMT 		482 	drug/metabolite 		2.A.7 		X
+YAL022C 	ss6383 		ss6383		ENT 		434 	nucleoside 		2.A.57 		X
+Q0080 	ss6383 		ss6383		F-ATPase 		629 	protons 		3.A.2 		X
+Q0085 	ss6383 		ss6383		F-ATPase 		630 	protons 		3.A.2 		X
+Q0130 	ss6383 		ss6383		F-ATPase 		631 	protons 		3.A.2 		X
+YBL099W 	ss6383 		ss6383		F-ATPase 		632 	protons 		3.A.2 		X
+YBR039W 	ss6383 		ss6383		F-ATPase 		633 	protons 		3.A.2 		X
+YBR127C 	ss6383 		ss6383		F-ATPase 		634 	protons 		3.A.2 		X
+YCL005W_A 	ss6383 		ss6383		F-ATPase 		635 	protons 		3.A.2 		X
+YDL004W 	ss6383 		ss6383		F-ATPase 		636 	protons 		3.A.2 		X
+YDL185W 	ss6383 		ss6383		F-ATPase 		637 	protons 		3.A.2 		X
+YDR298C 	ss6383 		ss6383		F-ATPase 		639 	protons 		3.A.2 		X
+YEL027W 	ss6383 		ss6383		F-ATPase 		641 	protons 		3.A.2 		X
+YEL051W 	ss6383 		ss6383		F-ATPase 		642 	protons 		3.A.2 		X
+YGR020C 	ss6383 		ss6383		F-ATPase 		644 	protons 		3.A.2 		X
+YHR026W 	ss6383 		ss6383		F-ATPase 		645 	protons 		3.A.2 		X
+YHR039C_A 	ss6383 		ss6383		F-ATPase 		646 	protons 		3.A.2 		X
+YJR121W 	ss6383 		ss6383		F-ATPase 		647 	protons 		3.A.2 		X
+YKL016C 	ss6383 		ss6383		F-ATPase 		648 	protons 		3.A.2 		X
+YKL080W 	ss6383 		ss6383		F-ATPase 		649 	protons 		3.A.2 		X
+YLL034C 	ss6383 		ss6383		F-ATPase 		724 	protons 		3.A.2 		X
+YLR447C 	ss6383 		ss6383		F-ATPase 		652 	protons 		3.A.2 		X
+YMR054W 	ss6383 		ss6383		F-ATPase 		653 	protons 		3.A.2 		X
+YOR270C 	ss6383 		ss6383		F-ATPase 		654 	protons 		3.A.2 		X
+YOR332W 	ss6383 		ss6383		F-ATPase 		655 	protons 		3.A.2 		X
+YPL234C 	ss6383 		ss6383		F-ATPase 		657 	protons 		3.A.2 		X
+YPL271W 	ss6383 		ss6383		F-ATPase 		658 	protons 		3.A.2 		X
+YPR036W 	ss6383 		ss6383		F-ATPase 		659 	protons 		3.A.2 		X
+YFL005W 	ss6383 		ss6383		FeoB 		1191 	ferrous ion 		9.A.8 		X
+YGR173W 	ss6383 		ss6383		FeoB 		1225 	ferrous ion 		9.A.8 		X
+YML001W 	ss6383 		ss6383		FeoB 		1203 	ferrous ion 		9.A.8 		X
+YPL093W 	ss6383 		ss6383		FeoB 		1236 	ferrous ion 		9.A.8 		X
+YMR319C 	ss6383 		ss6383		FeT 		1237 	unknown substrate 		9.A.9 		X
+YHL008C 	ss6383 		ss6383		FNT 		405 	formate/nitrite 		2.A.44 		X
+YGL084C 	ss6383 		ss6383		GUP 		421 	glycerol:proton symporter 		2.A.50 		X
+YPL189W 	ss6383 		ss6383		GUP 		422 	glycerol:proton symporter 		2.A.50 		X
+YOL060C 	ss6383 		ss6383		HCC 		1162 	hemolysin C (HlyC) homolog 		9.A.40 		X
+YBR207W 	ss6383 		ss6383		ILT 		1026 	iron ion 		9.A.10 		X
+YER145C 	ss6383 		ss6383		ILT 		1028 	iron ion 		9.A.10 		X
+YBR147W 	ss6383 		ss6383		LCT 		400 	unknown substrate 		2.A.43 		X
+YCL002C 	ss6383 		ss6383		LCT 		401 	unknown substrate 		2.A.43 		X
+YCR075C 	ss6383 		ss6383		LCT 		402 	unknown substrate 		2.A.43 		X
+YDR352W 	ss6383 		ss6383		LCT 		403 	unknown substrate 		2.A.43 		X
+YOL092W 	ss6383 		ss6383		LCT 		404 	unknown substrate 		2.A.43 		X
+YAL053W 	ss6383 		ss6383		LIC 		122 	unknown substrate 		1.A.9 		X
+YER185W 	ss6383 		ss6383		LTE 		1154 	unknown substrate 		9.A.26 		X
+YGR213C 	ss6383 		ss6383		LTE 		1155 	unknown substrate 		9.A.26 		X
+YLR046C 	ss6383 		ss6383		LTE 		1156 	unknown substrate 		9.A.26 		X
+YOR049C 	ss6383 		ss6383		LTE 		1157 	unknown substrate 		9.A.26 		X
+YOR085W 	ss6383 		ss6383		MagT1 		1179 	unknown substrate 		9.A.45 		X
+YBL030C 	ss6383 		ss6383		MC 		312 	unknown substrate 		2.A.29 		X
+YBR085W 	ss6383 		ss6383		MC 		313 	unknown substrate 		2.A.29 		X
+YBR104W 	ss6383 		ss6383		MC 		314 	unknown substrate 		2.A.29 		X
+YBR192W 	ss6383 		ss6383		MC 		316 	unknown substrate 		2.A.29 		X
+YBR291C 	ss6383 		ss6383		MC 		317 	unknown substrate 		2.A.29 		X
+YDL119C 	ss6383 		ss6383		MC 		318 	unknown substrate 		2.A.29 		X
+YDL198C 	ss6383 		ss6383		MC 		319 	unknown substrate 		2.A.29 		X
+YDR470C 	ss6383 		ss6383		MC 		1256 	unknown substrate 		2.A.29 		X
+YEL006W 	ss6383 		ss6383		MC 		321 	unknown substrate 		2.A.29 		X
+YER053C 	ss6383 		ss6383		MC 		322 	unknown substrate 		2.A.29 		X
+YFR045W 	ss6383 		ss6383		MC 		323 	unknown substrate 		2.A.29 		X
+YGR096W 	ss6383 		ss6383		MC 		324 	unknown substrate 		2.A.29 		X
+YGR257C 	ss6383 		ss6383		MC 		325 	unknown substrate 		2.A.29 		X
+YHR002W 	ss6383 		ss6383		MC 		326 	unknown substrate 		2.A.29 		X
+YIL006W 	ss6383 		ss6383		MC 		327 	unknown substrate 		2.A.29 		X
+YIL134W 	ss6383 		ss6383		MC 		328 	unknown substrate 		2.A.29 		X
+YJL133W 	ss6383 		ss6383		MC 		329 	unknown substrate 		2.A.29 		X
+YJR077C 	ss6383 		ss6383		MC 		330 	unknown substrate 		2.A.29 		X
+YJR095W 	ss6383 		ss6383		MC 		331 	unknown substrate 		2.A.29 		X
+YKL120W 	ss6383 		ss6383		MC 		332 	unknown substrate 		2.A.29 		X
+YKR052C 	ss6383 		ss6383		MC 		333 	unknown substrate 		2.A.29 		X
+YLR348C 	ss6383 		ss6383		MC 		334 	unknown substrate 		2.A.29 		X
+YMR056C 	ss6383 		ss6383		MC 		335 	unknown substrate 		2.A.29 		X
+YMR166C 	ss6383 		ss6383		MC 		336 	unknown substrate 		2.A.29 		X
+YMR241W 	ss6383 		ss6383		MC 		337 	unknown substrate 		2.A.29 		X
+YNL003C 	ss6383 		ss6383		MC 		338 	unknown substrate 		2.A.29 		X
+YNL083W 	ss6383 		ss6383		MC 		339 	unknown substrate 		2.A.29 		X
+YOR100C 	ss6383 		ss6383		MC 		340 	unknown substrate 		2.A.29 		X
+YOR130C 	ss6383 		ss6383		MC 		341 	unknown substrate 		2.A.29 		X
+YOR222W 	ss6383 		ss6383		MC 		342 	unknown substrate 		2.A.29 		X
+YPL134C 	ss6383 		ss6383		MC 		343 	unknown substrate 		2.A.29 		X
+YPR011C 	ss6383 		ss6383		MC 		344 	unknown substrate 		2.A.29 		X
+YPR021C 	ss6383 		ss6383		MC 		345 	unknown substrate 		2.A.29 		X
+YPR058W 	ss6383 		ss6383		MC 		346 	unknown substrate 		2.A.29 		X
+YPR128C 	ss6383 		ss6383		MC 		347 	unknown substrate 		2.A.29 		X
+YER113C 	ss6383 		ss6383		MerTP 		1152 	mercuric ion 		9.A.2 		X
+YLR083C 	ss6383 		ss6383		MerTP 		1153 	mercuric ion 		9.A.2 		X
+YAL067C 	ss6383 		ss6383		MFS 		172 	D-galactonate 		2.A.1 		X
+YBL102W 	ss6383 		ss6383		MFS 		173 	multidrug efflux 		2.A.1 		X
+YBR008C 	ss6383 		ss6383		MFS 		174 	multidrug efflux (Bcr/CflA subfamily) 		2.A.1 		X
+YBR043C 	ss6383 		ss6383		MFS 		176 	multidrug efflux 		2.A.1 		X
+YBR180W 	ss6383 		ss6383		MFS 		177 	multidrug efflux 		2.A.1 		X
+YBR187W 	ss6383 		ss6383		MFS 		1260 	multidrug efflux 		2.A.1 		X
+YBR219C 	ss6383 		ss6383		MFS 		179 	multidrug efflux 		2.A.1 		X
+YBR220C 	ss6383 		ss6383		MFS 		180 	Acetyl-CoA:CoA antiporter 		2.A.1 		X
+YBR241C 	ss6383 		ss6383		MFS 		182 	multidrug efflux 		2.A.1 		X
+YBR293W 	ss6383 		ss6383		MFS 		183 	multidrug efflux 		2.A.1 		X
+YBR298C 	ss6383 		ss6383		MFS 		184 	sugar 		2.A.1 		X
+YCL038C 	ss6383 		ss6383		MFS 		185 	multidrug efflux 		2.A.1 		X
+YCL069W 	ss6383 		ss6383		MFS 		186 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+YCL073C 	ss6383 		ss6383		MFS 		187 	multidrug efflux 		2.A.1 		X
+YCR023C 	ss6383 		ss6383		MFS 		188 	multidrug efflux 		2.A.1 		X
+YCR028C 	ss6383 		ss6383		MFS 		189 	D-galactonate 		2.A.1 		X
+YCR098C 	ss6383 		ss6383		MFS 		190 	multidrug efflux 		2.A.1 		X
+YDL054C 	ss6383 		ss6383		MFS 		191 	multidrug efflux 		2.A.1 		X
+YDL138W 	ss6383 		ss6383		MFS 		192 	sugar 		2.A.1 		X
+YDL194W 	ss6383 		ss6383		MFS 		193 	sugar 		2.A.1 		X
+YDL199C 	ss6383 		ss6383		MFS 		194 	sugar 		2.A.1 		X
+YDL245C 	ss6383 		ss6383		MFS 		195 	tetracycline efflux 		2.A.1 		X
+YDL247W 	ss6383 		ss6383		MFS 		196 	sugar 		2.A.1 		X
+YDR119W 	ss6383 		ss6383		MFS 		197 	multidrug efflux 		2.A.1 		X
+YDR342C 	ss6383 		ss6383		MFS 		198 	multidrug efflux 		2.A.1 		X
+YDR343C 	ss6383 		ss6383		MFS 		199 	multidrug efflux 		2.A.1 		X
+YDR345C 	ss6383 		ss6383		MFS 		200 	multidrug efflux 		2.A.1 		X
+YDR387C 	ss6383 		ss6383		MFS 		201 	multidrug efflux 		2.A.1 		X
+YDR497C 	ss6383 		ss6383		MFS 		202 	sugar 		2.A.1 		X
+YDR536W 	ss6383 		ss6383		MFS 		203 	multidrug efflux 		2.A.1 		X
+YEL065W 	ss6383 		ss6383		MFS 		204 	multidrug efflux 		2.A.1 		X
+YEL069C 	ss6383 		ss6383		MFS 		205 	tetracycline efflux 		2.A.1 		X
+YFL011W 	ss6383 		ss6383		MFS 		207 	sugar 		2.A.1 		X
+YFL040W 	ss6383 		ss6383		MFS 		208 	sugar 		2.A.1 		X
+YGL104C 	ss6383 		ss6383		MFS 		209 	multidrug efflux 		2.A.1 		X
+YGR065C 	ss6383 		ss6383		MFS 		210 	D-galactonate 		2.A.1 		X
+YGR138C 	ss6383 		ss6383		MFS 		211 	multidrug efflux 		2.A.1 		X
+YGR224W 	ss6383 		ss6383		MFS 		212 	multidrug efflux 		2.A.1 		X
+YGR260W 	ss6383 		ss6383		MFS 		213 	D-galactonate 		2.A.1 		X
+YGR289C 	ss6383 		ss6383		MFS 		214 	sugar 		2.A.1 		X
+YHL040C 	ss6383 		ss6383		MFS 		215 	multidrug efflux 		2.A.1 		X
+YHL047C 	ss6383 		ss6383		MFS 		216 	multidrug efflux 		2.A.1 		X
+YHR048W 	ss6383 		ss6383		MFS 		217 	multidrug efflux 		2.A.1 		X
+YHR092C 	ss6383 		ss6383		MFS 		218 	multidrug efflux 		2.A.1 		X
+YHR094C 	ss6383 		ss6383		MFS 		219 	multidrug efflux 		2.A.1 		X
+YHR096C 	ss6383 		ss6383		MFS 		220 	multidrug efflux 		2.A.1 		X
+YIL120W 	ss6383 		ss6383		MFS 		222 	multidrug efflux 		2.A.1 		X
+YIL121W 	ss6383 		ss6383		MFS 		223 	multidrug efflux 		2.A.1 		X
+YIL166C 	ss6383 		ss6383		MFS 		224 	D-galactonate 		2.A.1 		X
+YJL059W 	ss6383 		ss6383		MFS 		225 	multidrug efflux (Bcr/CflA subfamily) 		2.A.1 		X
+YJL163C 	ss6383 		ss6383		MFS 		226 	multidrug efflux 		2.A.1 		X
+YJL214W 	ss6383 		ss6383		MFS 		227 	multidrug efflux 		2.A.1 		X
+YJL219W 	ss6383 		ss6383		MFS 		228 	multidrug efflux 		2.A.1 		X
+YJR124C 	ss6383 		ss6383		MFS 		229 	multidrug efflux 		2.A.1 		X
+YJR152W 	ss6383 		ss6383		MFS 		230 	D-galactonate 		2.A.1 		X
+YJR158W 	ss6383 		ss6383		MFS 		231 	tetracycline efflux 		2.A.1 		X
+YJR160C 	ss6383 		ss6383		MFS 		232 	sugar 		2.A.1 		X
+YKL217W 	ss6383 		ss6383		MFS 		233 	multidrug efflux 		2.A.1 		X
+YKL221W 	ss6383 		ss6383		MFS 		234 	nitrate/nitrite 		2.A.1 		X
+YKR105C 	ss6383 		ss6383		MFS 		236 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+YKR106W 	ss6383 		ss6383		MFS 		237 	multidrug efflux 		2.A.1 		X
+YLL028W 	ss6383 		ss6383		MFS 		238 	multidrug efflux 		2.A.1 		X
+YLL055W 	ss6383 		ss6383		MFS 		239 	D-galactonate 		2.A.1 		X
+YLR004C 	ss6383 		ss6383		MFS 		240 	D-galactonate 		2.A.1 		X
+YLR081W 	ss6383 		ss6383		MFS 		241 	sugar 		2.A.1 		X
+YML116W 	ss6383 		ss6383		MFS 		243 	multidrug efflux 		2.A.1 		X
+YML123C 	ss6383 		ss6383		MFS 		244 	phosphate 		2.A.1 		X
+YMR011W 	ss6383 		ss6383		MFS 		245 	multidrug efflux 		2.A.1 		X
+YMR088C 	ss6383 		ss6383		MFS 		246 	multidrug efflux 		2.A.1 		X
+YMR155W 	ss6383 		ss6383		MFS 		247 	oxalate:formate antiporter 		2.A.1 		X
+YMR221C 	ss6383 		ss6383		MFS 		248 	multidrug efflux 		2.A.1 		X
+YMR279C 	ss6383 		ss6383		MFS 		250 	multidrug efflux 		2.A.1 		X
+YNL065W 	ss6383 		ss6383		MFS 		251 	multidrug efflux 		2.A.1 		X
+YNL125C 	ss6383 		ss6383		MFS 		252 	nitrate/nitrite 		2.A.1 		X
+YNL318C 	ss6383 		ss6383		MFS 		253 	cyanate 		2.A.1 		X
+YNR055C 	ss6383 		ss6383		MFS 		254 	multidrug efflux 		2.A.1 		X
+YNR062C 	ss6383 		ss6383		MFS 		255 	multidrug efflux 		2.A.1 		X
+YNR072W 	ss6383 		ss6383		MFS 		256 	tetracycline efflux 		2.A.1 		X
+YOL103W 	ss6383 		ss6383		MFS 		257 	multidrug efflux 		2.A.1 		X
+YOL119C 	ss6383 		ss6383		MFS 		258 	nitrate/nitrite 		2.A.1 		X
+YOL137W 	ss6383 		ss6383		MFS 		259 	multidrug efflux 		2.A.1 		X
+YOL156W 	ss6383 		ss6383		MFS 		260 	multidrug efflux 		2.A.1 		X
+YOL158C 	ss6383 		ss6383		MFS 		261 	multidrug efflux 		2.A.1 		X
+YOL163W 	ss6383 		ss6383		MFS 		263 	D-galactonate 		2.A.1 		X
+YOR273C 	ss6383 		ss6383		MFS 		264 	multidrug efflux 		2.A.1 		X
+YOR306C 	ss6383 		ss6383		MFS 		265 	sugar 		2.A.1 		X
+YOR378W 	ss6383 		ss6383		MFS 		267 	multidrug efflux 		2.A.1 		X
+YPR156C 	ss6383 		ss6383		MFS 		268 	multidrug efflux 		2.A.1 		X
+YPR198W 	ss6383 		ss6383		MFS 		269 	multidrug efflux (EmrB/QacA subfamily) 		2.A.1 		X
+YFL054C 	ss6383 		ss6383		MIP 		117 	glycerol uptake 		1.A.8 		X
+YLL043W 	ss6383 		ss6383		MIP 		118 	glycerol uptake 		1.A.8 		X
+YLL052C 	ss6383 		ss6383		MIP 		119 	glycerol uptake 		1.A.8 		X
+YLL053C 	ss6383 		ss6383		MIP 		120 	glycerol uptake 		1.A.8 		X
+YPR192W 	ss6383 		ss6383		MIP 		121 	glycerol uptake 		1.A.8 		X
+YFL050C 	ss6383 		ss6383		MIT 		25 	magnesium/cobalt ion 		1.A.35 		X
+YKL064W 	ss6383 		ss6383		MIT 		26 	magnesium/cobalt ion 		1.A.35 		X
+YOL130W 	ss6383 		ss6383		MIT 		27 	magnesium/cobalt ion 		1.A.35 		X
+YOR334W 	ss6383 		ss6383		MIT 		28 	magnesium/cobalt ion 		1.A.35 		X
+YPL060W 	ss6383 		ss6383		MIT 		29 	magnesium/cobalt ion 		1.A.35 		X
+YBL020W 	ss6383 		ss6383		MOP 	PST 	460 	polysaccharide export 		2.A.66 		X
+YDR338C 	ss6383 		ss6383		MOP 	MATE 	461 	multidrug efflux 		2.A.66 		X
+YHR032W 	ss6383 		ss6383		MOP 	MATE 	462 	multidrug efflux 		2.A.66 		X
+YBR091C 	ss6383 		ss6383		MPT 		790 	inner membrane translocase (import) Tim10 		3.A.8 		X
+YDL217C 	ss6383 		ss6383		MPT 		792 	inner membrane translocase (import) Tim17 		3.A.8 		X
+YDR178W 	ss6383 		ss6383		MPT 		793 	unknown substrate 		3.A.8 		X
+YEL020W_A 	ss6383 		ss6383		MPT 		794 	inner membrane translocase (import) Tim10 		3.A.8 		X
+YGR033C 	ss6383 		ss6383		MPT 		795 	unknown substrate 		3.A.8 		X
+YGR082W 	ss6383 		ss6383		MPT 		796 	unknown substrate 		3.A.8 		X
+YGR181W 	ss6383 		ss6383		MPT 		798 	inner membrane translocase (import) Tim10 		3.A.8 		X
+YHR005C_A 	ss6383 		ss6383		MPT 		800 	inner membrane translocase (import) Tim10 		3.A.8 		X
+YIL022W 	ss6383 		ss6383		MPT 		802 	unknown substrate 		3.A.8 		X
+YJL143W 	ss6383 		ss6383		MPT 		805 	inner membrane translocase (import) Tim17 		3.A.8 		X
+YJR135W_A 	ss6383 		ss6383		MPT 		806 	inner membrane translocase (import) Tim10 		3.A.8 		X
+YKL195W 	ss6383 		ss6383		MPT 		807 	unknown substrate 		3.A.8 		X
+YMR203W 	ss6383 		ss6383		MPT 		812 	unknown substrate 		3.A.8 		X
+YNL131W 	ss6383 		ss6383		MPT 		815 	unknown substrate 		3.A.8 		X
+YNR017W 	ss6383 		ss6383		MPT 		817 	unknown substrate 		3.A.8 		X
+YOR045W 	ss6383 		ss6383		MPT 		820 	unknown substrate 		3.A.8 		X
+YPR133W_A 	ss6383 		ss6383		MPT 		824 	unknown substrate 		3.A.8 		X
+YOR271C 	ss6383 		ss6383		MTC 		428 	tricarboxylates 		2.A.54 		X
+YGR131W 	ss6383 		ss6383		NCPE 		1158 	unknown substrate 		9.A.27 		X
+YJL205C 	ss6383 		ss6383		NCPE 		1159 	unknown substrate 		9.A.27 		X
+YPR149W 	ss6383 		ss6383		NCPE 		1160 	unknown substrate 		9.A.27 		X
+YBL042C 	ss6383 		ss6383		NCS1 		383 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YBR021W 	ss6383 		ss6383		NCS1 		384 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YER056C 	ss6383 		ss6383		NCS1 		385 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YER060W 	ss6383 		ss6383		NCS1 		386 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YER060W_A 	ss6383 		ss6383		NCS1 		387 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YGL186C 	ss6383 		ss6383		NCS1 		388 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YIR028W 	ss6383 		ss6383		NCS1 		389 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YLR237W 	ss6383 		ss6383		NCS1 		390 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YOR071C 	ss6383 		ss6383		NCS1 		391 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YOR192C 	ss6383 		ss6383		NCS1 		392 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+YHR050W 	ss6383 		ss6383		Nramp 		429 	manganese/iron ion 		2.A.55 		X
+YLR034C 	ss6383 		ss6383		Nramp 		430 	manganese/iron ion 		2.A.55 		X
+YOL122C 	ss6383 		ss6383		Nramp 		431 	manganese/iron ion 		2.A.55 		X
+YPL094C 	ss6383 		ss6383		NSCC2 		22 	preprotein translocase Sec62 		1.A.15 		X
+YGL114W 	ss6383 		ss6383		OPT 		464 	oligopeptide 		2.A.67 		X
+YJL212C 	ss6383 		ss6383		OPT 		465 	oligopeptide 		2.A.67 		X
+YPR194C 	ss6383 		ss6383		OPT 		466 	oligopeptide 		2.A.67 		X
+YER154W 	ss6383 		ss6383		Oxa1 		489 	60 KD inner membrane protein OxaA homolog 		2.A.9 		X
+YGR062C 	ss6383 		ss6383		Oxa1 		490 	60 KD inner membrane protein OxaA homolog 		2.A.9 		X
+YAL026C 	ss6383 		ss6383		P-ATPase 		764 	phospholipid 		3.A.3 		X
+YBR295W 	ss6383 		ss6383		P-ATPase 		765 	copper ion 		3.A.3 		X
+YDR038C 	ss6383 		ss6383		P-ATPase 		766 	potassium/sodium ion 		3.A.3 		X
+YDR039C 	ss6383 		ss6383		P-ATPase 		767 	potassium/sodium ion 		3.A.3 		X
+YDR040C 	ss6383 		ss6383		P-ATPase 		768 	potassium/sodium ion 		3.A.3 		X
+YDR093W 	ss6383 		ss6383		P-ATPase 		769 	phospholipid 		3.A.3 		X
+YDR270W 	ss6383 		ss6383		P-ATPase 		770 	zinc/cadmium/cobalt ion 		3.A.3 		X
+YEL031W 	ss6383 		ss6383		P-ATPase 		771 	calcium ion 		3.A.3 		X
+YER166W 	ss6383 		ss6383		P-ATPase 		772 	phospholipid 		3.A.3 		X
+YGL006W 	ss6383 		ss6383		P-ATPase 		773 	calcium ion 		3.A.3 		X
+YGL008C 	ss6383 		ss6383		P-ATPase 		774 	plasma proton 		3.A.3 		X
+YGL167C 	ss6383 		ss6383		P-ATPase 		775 	calcium ion/manganese ion 		3.A.3 		X
+YIL048W 	ss6383 		ss6383		P-ATPase 		777 	phospholipid 		3.A.3 		X
+YMR162C 	ss6383 		ss6383		P-ATPase 		778 	phospholipid 		3.A.3 		X
+YOR291W 	ss6383 		ss6383		P-ATPase 		779 	calcium ion 		3.A.3 		X
+YPL036W 	ss6383 		ss6383		P-ATPase 		780 	plasma proton 		3.A.3 		X
+YBR296C 	ss6383 		ss6383		PiT 		308 	phosphate 		2.A.20 		X
+YKR093W 	ss6383 		ss6383		POT 		293 	proton:dipeptide/tripeptide symporter 		2.A.17 		X
+YDR329C 	ss6383 		ss6383		PPI2 		1148 	lead uptake 		9.A.17 		X
+YKL100C 	ss6383 		ss6383		Presenilin 		46 	archaeal calcium ion channel (Presenilin homolog) 		1.A.54 		X
+YPL006W 	ss6383 		ss6383		RND 	EST 	456 	Patched (Ptc) segmentation polarity protein homolog 		2.A.6 		X
+YHL016C 	ss6383 		ss6383		SSS 		309 	sodium ion:proline symporter 		2.A.21 		X
+YBR294W 	ss6383 		ss6383		SulP 		423 	sulfate 		2.A.53 		X
+YGR125W 	ss6383 		ss6383		SulP 		424 	sulfate 		2.A.53 		X
+YLR092W 	ss6383 		ss6383		SulP 		425 	sulfate 		2.A.53 		X
+YPR003C 	ss6383 		ss6383		SulP 		427 	sulfate 		2.A.53 		X
+YPL092W 	ss6383 		ss6383		TDT 		291 	tellurite 		2.A.16 		X
+YJL107C 	ss6383 		ss6383		ThrE 		484 	unknown substrate 		2.A.79 		X
+YJL108C 	ss6383 		ss6383		ThrE 		485 	unknown substrate 		2.A.79 		X
+YJL129C 	ss6383 		ss6383		Trk 		381 	potassium ion uptake 		2.A.38 		X
+YKR050W 	ss6383 		ss6383		Trk 		382 	potassium ion uptake 		2.A.38 		X
+YKL020C 	ss6383 		ss6383		TRP-CC 		970 	transient receptor potential calcium ion channel 		1.A.4 		X
+YOR087W 	ss6383 		ss6383		TRP-CC 		43 	transient receptor potential calcium ion channel 		1.A.4 		X
+YMR034C 	ss6383 		ss6383		UBS1 		492 	sodium ion/ 		9.A.43 		X
+YGR217W 	ss6383 		ss6383		VIC 		4 	potassium ion channel 		1.A.1 		X
+YJL093C 	ss6383 		ss6383		VIC 		11 	potassium ion channel 		1.A.1 		X
+YLR220W 	ss6383 		ss6383		VIT 		488 	vacuolar iron uptake transporter homolog 		2.A.89 		X
+YDL149W 	ss6383 		ss6383		YhaG 		1050 	tryptophan uptake 		9.A.15 		X
+YGL255W 	ss6383 		ss6383		ZIP 		416 	zinc ion 		2.A.5 		X
+YIL023C 	ss6383 		ss6383		ZIP 		417 	zinc ion 		2.A.5 		X
+YKL175W 	ss6383 		ss6383		ZIP 		418 	zinc ion 		2.A.5 		X
+YLR130C 	ss6383 		ss6383		ZIP 		419 	zinc ion 		2.A.5 		X
+YOR079C 	ss6383 		ss6383		ZIP 		420 	zinc ion 		2.A.5 		X
