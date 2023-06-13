@@ -1,0 +1,43 @@
+<plugin start="true">
+    <uid>pt.uminho.ceb.biosystems.merlin.transyt</uid>
+    <name>merlin-transyt</name>
+    <version>4.0.10</version>
+    
+    <dependencies>
+        <dependency uid="merlin" />
+    </dependencies>
+    
+    <extensions>
+        <extension class="pt.uminho.ceb.biosystems.merlin.transyt_app.TranSyTRetriever" name="aibench.core.operation-definition" uid="aibench.core">
+            <operation-description name="transport reactions TranSyT" path="30@model/30@create/" uid="operations.TranSyT.ID" />
+        </extension>
+
+       <extension name="aibench.workbench.view" uid="aibench.workbench">
+            <icon-operation icon="icons/Lifecycle/remote.png" operation="operations.TranSyT.ID" />
+        </extension>
+        
+        <extension class="pt.uminho.ceb.biosystems.merlin.transyt_app.TransytResultsImporter" name="aibench.core.operation-definition" uid="aibench.core">
+            <operation-description name="transport reactions" path="10@model/40@load/" uid="operations.TransytResultsImporter.ID" />
+        </extension>
+
+       <extension name="aibench.workbench.view" uid="aibench.workbench">
+            <icon-operation icon="icons/Lifecycle/remote.png" operation="operations.TransytResultsImporter.ID" />
+        </extension>
+        
+        <extension name="aibench.workbench.view" uid="aibench.workbench">
+            <icon-operation icon="icons/Lifecycle/remote.png" operation="operations.TransytResultsImporter.ID" />
+        </extension>
+        
+        
+        
+        
+        <extension class="pt.uminho.ceb.biosystems.merlin.transyt_app.RemoveTransporters" name="aibench.core.operation-definition" uid="aibench.core">
+            <operation-description name="transport reactions" path="30@model/30@remove/" uid="operations.TranSyT.ID" />
+        </extension>
+
+       <extension name="aibench.workbench.view" uid="aibench.workbench">
+            <icon-operation icon="icons/Lifecycle/remote.png" operation="operations.TranSyT.ID" />
+        </extension>
+        
+    </extensions>
+</plugin>
