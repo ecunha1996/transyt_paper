@@ -13,10 +13,9 @@ public class App {
     public static void main(String[] args) {
         //FILES MUST BE SUBMITTED IN THE FOLLOWING ORDER: 1.PROTEOME -> 2.MODEL or METABOLITES
 
-        // Scerevisiae   Paeruginosa    Blongum    Olucimarinus
+        // Scerevisiae   Paeruginosa   Olucimarinus
 
-        String[] caseStudies = {"Scerevisiae", "Paeruginosa", "Blongum", "Olucimarinus"};
-        //String[] caseStudies = {"Blongum"};
+        String[] caseStudies = {"Scerevisiae", "Paeruginosa", "Olucimarinus"};
 
         HashMap<String, Long> taxonomyIDs = new HashMap<>();
 
@@ -29,13 +28,13 @@ public class App {
 
         for (String caseStudy : caseStudies) {
 
-            String transytDirectory = "C:\\Users\\Bisbii\\Desktop\\TranSyt\\case_study\\" + caseStudy + "\\" + mode + "\\";
+            String transytDirectory = "..\\case_study\\" + caseStudy + "\\" + mode + "\\";
 
             if (!new File(transytDirectory).exists())
                 new File(transytDirectory).mkdirs();
 
-            File compoundsFile = new File("C:\\Users\\Bisbii\\Desktop\\TranSyt\\case_study\\kegg_compounds.txt");
-            File genomeFile = new File("C:\\Users\\Bisbii\\Desktop\\TranSyt\\case_study\\" + caseStudy + "\\protein.faa");
+            File compoundsFile = new File("..\\case_study\\kegg_compounds.txt");
+            File genomeFile = new File("..\\case_study\\" + caseStudy + "\\protein.faa");
 
             assert compoundsFile.exists();
             assert genomeFile.exists();
