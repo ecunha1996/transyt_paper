@@ -1,0 +1,391 @@
+OSTLU_2522 	oo6384 		oo6384		AAA 		343 	ADP:ATP antiporter 		2.A.12 		X
+OSTLU_14597 	oo6384 		oo6384		AAAP 		383 	amino acid 		2.A.18 		X
+OSTLU_25632 	oo6384 		oo6384		AAAP 		384 	amino acid 		2.A.18 		X
+OSTLU_27866 	oo6384 		oo6384		AAAP 		385 	amino acid 		2.A.18 		X
+OSTLU_28839 	oo6384 		oo6384		AAAP 		386 	amino acid 		2.A.18 		X
+OSTLU_29082 	oo6384 		oo6384		AAAP 		387 	amino acid 		2.A.18 		X
+OSTLU_30899 	oo6384 		oo6384		AAAP 		388 	amino acid 		2.A.18 		X
+OSTLU_45915 	oo6384 		oo6384		AAAP 		390 	amino acid 		2.A.18 		X
+OSTLU_10028 	oo6384 		oo6384		ABC 	membrane 	667 	multidrug 	* 	3.A.1 		X
+OSTLU_10071 	oo6384 		oo6384		ABC 	binding 	668 	phosphonate 		3.A.1 		X
+OSTLU_10147 	oo6384 		oo6384		ABC 	membrane 	669 	unknown substrate 		3.A.1 		X
+OSTLU_1075 	oo6384 		oo6384		ABC 	binding 	670 	cobalt 		3.A.1 		X
+OSTLU_13171 	oo6384 		oo6384		ABC 	binding 	673 	lipid A 		3.A.1 		X
+OSTLU_1441 	oo6384 		oo6384		ABC 	ABCG 	674 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_1450 	oo6384 		oo6384		ABC 	ABCG 	675 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_14765 	oo6384 		oo6384		ABC 	ABC 	676 	unknown substrate 		3.A.1 		X
+OSTLU_14894 	oo6384 		oo6384		ABC 	ABCG 	677 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_16322 	oo6384 		oo6384		ABC 	membrane 	681 	unknown substrate 		3.A.1 		X
+OSTLU_16468 	oo6384 		oo6384		ABC 	binding 	682 	sulfate 		3.A.1 		X
+OSTLU_26876 	oo6384 		oo6384		ABC 	membrane 	687 	toluene tolerance 		3.A.1 		X
+OSTLU_27272 	oo6384 		oo6384		ABC 	membrane 	689 	multidrug 	* 	3.A.1 		X
+OSTLU_28311 	oo6384 		oo6384		ABC 	binding protein 	690 	spermidine/putrescine 		3.A.1 		X
+OSTLU_28662 	oo6384 		oo6384		ABC 	binding 	691 	lipid A 		3.A.1 		X
+OSTLU_29639 	oo6384 		oo6384		ABC 	membrane 	693 	multidrug 	* 	3.A.1 		X
+OSTLU_30493 	oo6384 		oo6384		ABC 	binding 	695 	cobalt 		3.A.1 		X
+OSTLU_32172 	oo6384 		oo6384		ABC 	binding protein 	699 	phosphate 		3.A.1 		X
+OSTLU_35279 	oo6384 		oo6384		ABC 	ABC 	701 	unknown substrate 		3.A.1 		X
+OSTLU_35308 	oo6384 		oo6384		ABC 		702 	multidrug (ABCG/PDR-type) 		3.A.1 		X
+OSTLU_35503 	oo6384 		oo6384		ABC 	membrane 	703 	multidrug 	* 	3.A.1 		X
+OSTLU_35596 	oo6384 		oo6384		ABC 	binding 	704 	iron-hydroxamate 		3.A.1 		X
+OSTLU_36765 	oo6384 		oo6384		ABC 	binding 	706 	heme 		3.A.1 		X
+OSTLU_36892 	oo6384 		oo6384		ABC 	ABCG 	707 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_38326 	oo6384 		oo6384		ABC 	ABCG 	709 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_38932 	oo6384 		oo6384		ABC 	ABCG 	710 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_39403 	oo6384 		oo6384		ABC 	ABCG 	711 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_40034 	oo6384 		oo6384		ABC 	binding 	712 	daunorubicin 		3.A.1 		X
+OSTLU_41114 	oo6384 		oo6384		ABC 	binding protein 	715 	toluene tolerance 		3.A.1 		X
+OSTLU_41320 	oo6384 		oo6384		ABC 	binding protein 	716 	phosphate 		3.A.1 		X
+OSTLU_42103 	oo6384 		oo6384		ABC 	ABC 	717 	multidrug 		3.A.1 		X
+OSTLU_42695 	oo6384 		oo6384		ABC 	binding 	718 	heme 		3.A.1 		X
+OSTLU_43066 	oo6384 		oo6384		ABC 	binding 	719 	cobalt 		3.A.1 		X
+OSTLU_43520 	oo6384 		oo6384		ABC 	membrane 	1564 	heme export 		3.A.1 		X
+OSTLU_43996 	oo6384 		oo6384		ABC 	membrane 	721 	multidrug 	* 	3.A.1 		X
+OSTLU_45085 	oo6384 		oo6384		ABC 	binding 	722 	cobalt 		3.A.1 		X
+OSTLU_46540 	oo6384 		oo6384		ABC 	binding 	725 	phosphonate 		3.A.1 		X
+OSTLU_48483 	oo6384 		oo6384		ABC 	ABCB 	726 	mitochondrial peptide export (ABCB/TAP) 		3.A.1 		X
+OSTLU_49454 	oo6384 		oo6384		ABC 	binding 	728 	heme 		3.A.1 		X
+OSTLU_49993 	oo6384 		oo6384		ABC 	ABCB 	729 	mitochondrial peptide export (ABCB/TAP) 		3.A.1 		X
+OSTLU_50812 	oo6384 		oo6384		ABC 	binding 	730 	lipid A 		3.A.1 		X
+OSTLU_6452 	oo6384 		oo6384		ABC 	binding 	732 	cobalt 		3.A.1 		X
+OSTLU_6635 	oo6384 		oo6384		ABC 	binding 	733 	cobalt 		3.A.1 		X
+OSTLU_88422 	oo6384 		oo6384		ABC 	ABCG 	734 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_89200 	oo6384 		oo6384		ABC 	ABC 	736 	unknown substrate 		3.A.1 		X
+OSTLU_8994 	oo6384 		oo6384		ABC 	binding 	502 	glycine betaine 		3.A.1 		X
+OSTLU_94637 	oo6384 		oo6384		ABC 	binding 	738 	heme 		3.A.1 		X
+OSTLU_94849 	oo6384 		oo6384		ABC 	ABCG 	739 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_992 	oo6384 		oo6384		ABC 	ABCG 	740 	White pigment protein homolog (ABCG) 		3.A.1 		X
+OSTLU_119396 	oo6384 		oo6384		ACC 		143 	unknown substrate 		1.A.7 		X
+OSTLU_119490 	oo6384 		oo6384		ACC 		144 	unknown substrate 		1.A.7 		X
+OSTLU_32638 	oo6384 		oo6384		ACC 		146 	unknown substrate 		1.A.7 		X
+OSTLU_36876 	oo6384 		oo6384		AE 		462 	chloride/bicarbonate anion exchange 		2.A.31 		X
+OSTLU_38528 	oo6384 		oo6384		AE 		463 	chloride/bicarbonate anion exchange 		2.A.31 		X
+OSTLU_93051 	oo6384 		oo6384		AEC 		586 	unknown substrate 		2.A.69 		X
+OSTLU_95034 	oo6384 		oo6384		AEC 		587 	unknown substrate 		2.A.69 		X
+OSTLU_93242 	oo6384 		oo6384		AI-2E 		640 	Autoinducer-2 export 		2.A.86 		X
+OSTLU_28535 	oo6384 		oo6384		Amt 		56 	ammonium 		1.A.11 		X
+OSTLU_31514 	oo6384 		oo6384		Amt 		57 	ammonium 		1.A.11 		X
+OSTLU_32601 	oo6384 		oo6384		Amt 		58 	ammonium 		1.A.11 		X
+OSTLU_45928 	oo6384 		oo6384		Amt 		59 	ammonium 		1.A.11 		X
+OSTLU_6061 	oo6384 		oo6384		Annexin 		72 	unknown substrate 		1.A.31 		X
+OSTLU_43398 	oo6384 		oo6384		APC 		460 	cationic amino acid 		2.A.3 		X
+OSTLU_12872 	oo6384 		oo6384		ArsAB 		525 	arsenite (ArsA) 		3.A.4 		X
+OSTLU_13038 	oo6384 		oo6384		ArsB 		491 	arsenite (ArsB) 		2.A.45 		X
+OSTLU_37402 	oo6384 		oo6384		ATP-E 		1515 	unknown substrate 		9.A.6 		X
+OSTLU_12281 	oo6384 		oo6384		BASS 		405 	sodium ion/ 		2.A.28 		X
+OSTLU_17829 	oo6384 		oo6384		BASS 		406 	sodium ion/ 		2.A.28 		X
+OSTLU_4131 	oo6384 		oo6384		BASS 		409 	sodium ion/ 		2.A.28 		X
+OSTLU_1494 	oo6384 		oo6384		BCCT 		344 	glycine betaine/carnitine/choline 		2.A.15 		X
+OSTLU_33799 	oo6384 		oo6384		BCCT 		345 	glycine betaine/carnitine/choline 		2.A.15 		X
+OSTLU_27908 	oo6384 		oo6384		Bestrophin 		124 	Bestrophin anion channel 		1.A.46 		X
+OSTLU_29867 	oo6384 		oo6384		Bestrophin 		125 	Bestrophin anion channel 		1.A.46 		X
+OSTLU_33009 	oo6384 		oo6384		Bestrophin 		127 	Bestrophin anion channel 		1.A.46 		X
+OSTLU_6486 	oo6384 		oo6384		Bestrophin 		128 	Bestrophin anion channel 		1.A.46 		X
+OSTLU_87902 	oo6384 		oo6384		Bestrophin 		129 	Bestrophin anion channel 		1.A.46 		X
+OSTLU_1885 	oo6384 		oo6384		CaCA 		392 	sodium ion:calcium ion antiporter 		2.A.19 		X
+OSTLU_2890 	oo6384 		oo6384		CaCA 		393 	sodium ion:calcium ion antiporter 		2.A.19 		X
+OSTLU_87097 	oo6384 		oo6384		CaCA 		394 	sodium ion:calcium ion+potassium ion antiporter 		2.A.19 		X
+OSTLU_94245 	oo6384 		oo6384		CaCA 		395 	sodium ion:calcium ion+potassium ion antiporter 		2.A.19 		X
+OSTLU_33926 	oo6384 		oo6384		CDF 		478 	cation efflux 		2.A.4 		X
+OSTLU_39741 	oo6384 		oo6384		CDF 		479 	cation efflux 		2.A.4 		X
+OSTLU_30720 	oo6384 		oo6384		CEPT 		1126 	unknown substrate 		3.A.9 		X
+OSTLU_33348 	oo6384 		oo6384		CEPT 		1130 	unknown substrate 		3.A.9 		X
+OSTLU_89366 	oo6384 		oo6384		CHR 		513 	chromate ion 		2.A.51 		X
+OSTLU_14344 	oo6384 		oo6384		ClC 		498 	chloride ion channel 		2.A.49 		X
+OSTLU_34455 	oo6384 		oo6384		ClC 		499 	chloride ion channel 		2.A.49 		X
+OSTLU_37468 	oo6384 		oo6384		ClC 		500 	chloride ion channel 		2.A.49 		X
+OSTLU_50496 	oo6384 		oo6384		ClC 		501 	chloride ion channel 		2.A.49 		X
+OSTLU_1871 	oo6384 		oo6384		CPA1 		465 	sodium ion:proton antiporter 		2.A.36 		X
+OSTLU_2316 	oo6384 		oo6384		CPA1 		466 	sodium ion:proton antiporter 		2.A.36 		X
+OSTLU_29184 	oo6384 		oo6384		CPA1 		467 	sodium ion:proton antiporter 		2.A.36 		X
+OSTLU_30420 	oo6384 		oo6384		CPA1 		468 	sodium ion:proton antiporter 		2.A.36 		X
+OSTLU_119547 	oo6384 		oo6384		CPA2 		470 	potassium/sodium ion:proton antiporter 		2.A.37 		X
+OSTLU_40732 	oo6384 		oo6384		CPA2 		469 	potassium/sodium ion:proton antiporter 		2.A.37 		X
+OSTLU_43431 	oo6384 		oo6384		CPA2 		472 	potassium/sodium ion:proton antiporter 		2.A.37 		X
+OSTLU_51113 	oo6384 		oo6384		CPA2 		473 	potassium/sodium ion:proton antiporter 		2.A.37 		X
+OSTLU_33356 	oo6384 		oo6384		CRAC-C 		136 	unknown substrate 		1.A.52 		X
+OSTLU_1302 	oo6384 		oo6384		CTL 		646 	unknown substrate 		2.A.92 		X
+OSTLU_31321 	oo6384 		oo6384		Ctr 		141 	copper ion uptake 		1.A.56 		X
+OSTLU_1343 	oo6384 		oo6384		DASS 		492 	sodium ion:dicarboxylate/sulfate 		2.A.47 		X
+OSTLU_28272 	oo6384 		oo6384		DASS 		493 	sodium ion:dicarboxylate/sulfate 		2.A.47 		X
+OSTLU_37045 	oo6384 		oo6384		DASS 		494 	sodium ion:dicarboxylate/sulfate 		2.A.47 		X
+OSTLU_39202 	oo6384 		oo6384		DASS 		495 	sodium ion:dicarboxylate/sulfate 		2.A.47 		X
+OSTLU_49439 	oo6384 		oo6384		DASS 		496 	sodium ion:dicarboxylate/sulfate 		2.A.47 		X
+OSTLU_14537 	oo6384 		oo6384		DMT 		588 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_17672 	oo6384 		oo6384		DMT 		590 	drug/metabolite 		2.A.7 		X
+OSTLU_18149 	oo6384 		oo6384		DMT 		591 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_18490 	oo6384 		oo6384		DMT 		592 	drug/metabolite 		2.A.7 		X
+OSTLU_18795 	oo6384 		oo6384		DMT 		593 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_26318 	oo6384 		oo6384		DMT 		594 	drug/metabolite 		2.A.7 		X
+OSTLU_26534 	oo6384 		oo6384		DMT 		595 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_27689 	oo6384 		oo6384		DMT 		596 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_28664 	oo6384 		oo6384		DMT 		597 	drug/metabolite 		2.A.7 		X
+OSTLU_29277 	oo6384 		oo6384		DMT 		598 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_29288 	oo6384 		oo6384		DMT 		599 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_29480 	oo6384 		oo6384		DMT 		600 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_30361 	oo6384 		oo6384		DMT 		601 	drug/metabolite 		2.A.7 		X
+OSTLU_31360 	oo6384 		oo6384		DMT 		602 	drug/metabolite 		2.A.7 		X
+OSTLU_32216 	oo6384 		oo6384		DMT 		603 	drug/metabolite 		2.A.7 		X
+OSTLU_32754 	oo6384 		oo6384		DMT 		604 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_33748 	oo6384 		oo6384		DMT 		606 	nucleotide-sugar 		2.A.7 		X
+OSTLU_33750 	oo6384 		oo6384		DMT 		607 	phosphate/phosphoenolpyruvate 		2.A.7 		X
+OSTLU_34640 	oo6384 		oo6384		DMT 		608 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_34716 	oo6384 		oo6384		DMT 		609 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_36385 	oo6384 		oo6384		DMT 		610 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_37524 	oo6384 		oo6384		DMT 		611 	drug/metabolite 		2.A.7 		X
+OSTLU_41111 	oo6384 		oo6384		DMT 		612 	drug/metabolite 		2.A.7 		X
+OSTLU_42112 	oo6384 		oo6384		DMT 		613 	phosphate/phosphoenolpyruvate 		2.A.7 		X
+OSTLU_43912 	oo6384 		oo6384		DMT 		614 	drug/metabolite 		2.A.7 		X
+OSTLU_45749 	oo6384 		oo6384		DMT 		615 	drug/metabolite 		2.A.7 		X
+OSTLU_4751 	oo6384 		oo6384		DMT 		616 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_4844 	oo6384 		oo6384		DMT 		617 	drug/metabolite 		2.A.7 		X
+OSTLU_4851 	oo6384 		oo6384		DMT 		618 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_49558 	oo6384 		oo6384		DMT 		619 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_49715 	oo6384 		oo6384		DMT 		620 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_5022 	oo6384 		oo6384		DMT 		621 	drug/metabolite 		2.A.7 		X
+OSTLU_50402 	oo6384 		oo6384		DMT 		622 	nucleotide-sugar 		2.A.7 		X
+OSTLU_5074 	oo6384 		oo6384		DMT 		623 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_51835 	oo6384 		oo6384		DMT 		624 	nucleotide-sugar 		2.A.7 		X
+OSTLU_5328 	oo6384 		oo6384		DMT 		625 	drug/metabolite 		2.A.7 		X
+OSTLU_5957 	oo6384 		oo6384		DMT 		626 	phosphate/phosphoenolpyruvate 		2.A.7 		X
+OSTLU_87077 	oo6384 		oo6384		DMT 		627 	phosphate:phosphoenolpyruvate translocator 		2.A.7 		X
+OSTLU_87739 	oo6384 		oo6384		DMT 		628 	drug/metabolite 		2.A.7 		X
+OSTLU_88914 	oo6384 		oo6384		DMT 		629 	drug/metabolite 		2.A.7 		X
+OSTLU_92750 	oo6384 		oo6384		DMT 		630 	drug/metabolite 		2.A.7 		X
+OSTLU_27151 	oo6384 		oo6384		ENT 		523 	nucleoside 		2.A.57 		X
+OSTLU_29758 	oo6384 		oo6384		ENT 		524 	nucleoside 		2.A.57 		X
+OSTLU_119494 	oo6384 		oo6384		F-ATPase 		868 	protons 		3.A.2 		X
+OSTLU_119546 	oo6384 		oo6384		F-ATPase 		869 	protons 		3.A.2 		X
+OSTLU_119590 	oo6384 		oo6384		F-ATPase 		870 	protons 		3.A.2 		X
+OSTLU_13609 	oo6384 		oo6384		F-ATPase 		871 	protons 		3.A.2 		X
+OSTLU_13768 	oo6384 		oo6384		F-ATPase 		872 	protons 		3.A.2 		X
+OSTLU_14631 	oo6384 		oo6384		F-ATPase 		873 	protons 		3.A.2 		X
+OSTLU_15055 	oo6384 		oo6384		F-ATPase 		874 	protons 		3.A.2 		X
+OSTLU_24766 	oo6384 		oo6384		F-ATPase 		875 	protons 		3.A.2 		X
+OSTLU_29009 	oo6384 		oo6384		F-ATPase 		876 	protons 		3.A.2 		X
+OSTLU_30441 	oo6384 		oo6384		F-ATPase 		877 	protons 		3.A.2 		X
+OSTLU_31663 	oo6384 		oo6384		F-ATPase 		879 	protons 		3.A.2 		X
+OSTLU_32540 	oo6384 		oo6384		F-ATPase 		880 	protons 		3.A.2 		X
+OSTLU_32630 	oo6384 		oo6384		F-ATPase 		881 	protons 		3.A.2 		X
+OSTLU_32674 	oo6384 		oo6384		F-ATPase 		882 	protons 		3.A.2 		X
+OSTLU_35127 	oo6384 		oo6384		F-ATPase 		883 	protons 		3.A.2 		X
+OSTLU_35397 	oo6384 		oo6384		F-ATPase 		884 	protons 		3.A.2 		X
+OSTLU_37691 	oo6384 		oo6384		F-ATPase 		991 	protons 		3.A.2 		X
+OSTLU_46292 	oo6384 		oo6384		F-ATPase 		886 	protons 		3.A.2 		X
+OSTLU_50597 	oo6384 		oo6384		F-ATPase 		887 	protons 		3.A.2 		X
+OSTLU_7408 	oo6384 		oo6384		F-ATPase 		888 	protons 		3.A.2 		X
+OSTLU_87859 	oo6384 		oo6384		F-ATPase 		889 	protons 		3.A.2 		X
+OSTLU_88387 	oo6384 		oo6384		F-ATPase 		890 	protons 		3.A.2 		X
+OSTLU_88668 	oo6384 		oo6384		F-ATPase 		891 	protons 		3.A.2 		X
+OSTLU_12682 	oo6384 		oo6384		FBT 		631 	sugar 		2.A.71 		X
+OSTLU_30597 	oo6384 		oo6384		FBT 		632 	folate/biopterin 		2.A.71 		X
+OSTLU_32854 	oo6384 		oo6384		FBT 		633 	folate/biopterin 		2.A.71 		X
+OSTLU_35682 	oo6384 		oo6384		FBT 		634 	folate/biopterin 		2.A.71 		X
+OSTLU_12689 	oo6384 		oo6384		FeoB 		1498 	ferrous ion 		9.A.8 		X
+OSTLU_33865 	oo6384 		oo6384		FeoB 		1533 	ferrous ion 		9.A.8 		X
+OSTLU_35696 	oo6384 		oo6384		FeoB 		1536 	ferrous ion 		9.A.8 		X
+OSTLU_35887 	oo6384 		oo6384		FeoB 		1537 	ferrous ion 		9.A.8 		X
+OSTLU_25116 	oo6384 		oo6384		FNT 		487 	formate/nitrite 		2.A.44 		X
+OSTLU_31307 	oo6384 		oo6384		H+-PPase 		741 	proton (vacuolar) 		3.A.10 		X
+OSTLU_39838 	oo6384 		oo6384		H+-PPase 		742 	proton (vacuolar) 		3.A.10 		X
+OSTLU_48479 	oo6384 		oo6384		H+-PPase 		743 	proton (vacuolar) 		3.A.10 		X
+OSTLU_10137 	oo6384 		oo6384		HAAAP 		480 	tryptophan/tyrosine 		2.A.42 		X
+OSTLU_42458 	oo6384 		oo6384		HAAAP 		482 	tryptophan/tyrosine 		2.A.42 		X
+OSTLU_47852 	oo6384 		oo6384		HAAAP 		483 	tryptophan/tyrosine 		2.A.42 		X
+OSTLU_1568 	oo6384 		oo6384		HCC 		1477 	hemolysin C (HlyC) homolog 		9.A.40 		X
+OSTLU_49610 	oo6384 		oo6384		HCC 		1478 	hemolysin C (HlyC) homolog 		9.A.40 		X
+OSTLU_93353 	oo6384 		oo6384		ICln 		130 	nucleotide-sensitive anion channel 		1.A.47 		X
+OSTLU_4406 	oo6384 		oo6384		IISP 		1685 	signal recognition particle receptor alpha subunit (SR-alpha) 		3.A.5 		X
+OSTLU_33480 	oo6384 		oo6384		LCT 		484 	unknown substrate 		2.A.43 		X
+OSTLU_5872 	oo6384 		oo6384		LCT 		485 	unknown substrate 		2.A.43 		X
+OSTLU_92764 	oo6384 		oo6384		LCT 		486 	unknown substrate 		2.A.43 		X
+OSTLU_13728 	oo6384 		oo6384		MC 		411 	unknown substrate 		2.A.29 		X
+OSTLU_14154 	oo6384 		oo6384		MC 		412 	unknown substrate 		2.A.29 		X
+OSTLU_15926 	oo6384 		oo6384		MC 		413 	unknown substrate 		2.A.29 		X
+OSTLU_16237 	oo6384 		oo6384		MC 		414 	unknown substrate 		2.A.29 		X
+OSTLU_16269 	oo6384 		oo6384		MC 		415 	unknown substrate 		2.A.29 		X
+OSTLU_17060 	oo6384 		oo6384		MC 		416 	unknown substrate 		2.A.29 		X
+OSTLU_1898 	oo6384 		oo6384		MC 		417 	unknown substrate 		2.A.29 		X
+OSTLU_25107 	oo6384 		oo6384		MC 		420 	unknown substrate 		2.A.29 		X
+OSTLU_25740 	oo6384 		oo6384		MC 		421 	unknown substrate 		2.A.29 		X
+OSTLU_26689 	oo6384 		oo6384		MC 		422 	unknown substrate 		2.A.29 		X
+OSTLU_26925 	oo6384 		oo6384		MC 		423 	unknown substrate 		2.A.29 		X
+OSTLU_28180 	oo6384 		oo6384		MC 		424 	unknown substrate 		2.A.29 		X
+OSTLU_28374 	oo6384 		oo6384		MC 		425 	unknown substrate 		2.A.29 		X
+OSTLU_28989 	oo6384 		oo6384		MC 		426 	unknown substrate 		2.A.29 		X
+OSTLU_29018 	oo6384 		oo6384		MC 		427 	unknown substrate 		2.A.29 		X
+OSTLU_30460 	oo6384 		oo6384		MC 		428 	unknown substrate 		2.A.29 		X
+OSTLU_30578 	oo6384 		oo6384		MC 		429 	unknown substrate 		2.A.29 		X
+OSTLU_33920 	oo6384 		oo6384		MC 		431 	unknown substrate 		2.A.29 		X
+OSTLU_34060 	oo6384 		oo6384		MC 		433 	unknown substrate 		2.A.29 		X
+OSTLU_34271 	oo6384 		oo6384		MC 		434 	unknown substrate 		2.A.29 		X
+OSTLU_36045 	oo6384 		oo6384		MC 		435 	unknown substrate 		2.A.29 		X
+OSTLU_37703 	oo6384 		oo6384		MC 		436 	unknown substrate 		2.A.29 		X
+OSTLU_38298 	oo6384 		oo6384		MC 		437 	unknown substrate 		2.A.29 		X
+OSTLU_39985 	oo6384 		oo6384		MC 		439 	unknown substrate 		2.A.29 		X
+OSTLU_40647 	oo6384 		oo6384		MC 		440 	unknown substrate 		2.A.29 		X
+OSTLU_43906 	oo6384 		oo6384		MC 		442 	unknown substrate 		2.A.29 		X
+OSTLU_44261 	oo6384 		oo6384		MC 		443 	unknown substrate 		2.A.29 		X
+OSTLU_4792 	oo6384 		oo6384		MC 		445 	unknown substrate 		2.A.29 		X
+OSTLU_5140 	oo6384 		oo6384		MC 		446 	unknown substrate 		2.A.29 		X
+OSTLU_5273 	oo6384 		oo6384		MC 		447 	unknown substrate 		2.A.29 		X
+OSTLU_5879 	oo6384 		oo6384		MC 		448 	unknown substrate 		2.A.29 		X
+OSTLU_5951 	oo6384 		oo6384		MC 		449 	unknown substrate 		2.A.29 		X
+OSTLU_5965 	oo6384 		oo6384		MC 		450 	unknown substrate 		2.A.29 		X
+OSTLU_5982 	oo6384 		oo6384		MC 		451 	unknown substrate 		2.A.29 		X
+OSTLU_6022 	oo6384 		oo6384		MC 		452 	unknown substrate 		2.A.29 		X
+OSTLU_88251 	oo6384 		oo6384		MC 		453 	unknown substrate 		2.A.29 		X
+OSTLU_89011 	oo6384 		oo6384		MC 		455 	unknown substrate 		2.A.29 		X
+OSTLU_89833 	oo6384 		oo6384		MC 		456 	unknown substrate 		2.A.29 		X
+OSTLU_92055 	oo6384 		oo6384		MC 		457 	unknown substrate 		2.A.29 		X
+OSTLU_92084 	oo6384 		oo6384		MC 		458 	unknown substrate 		2.A.29 		X
+OSTLU_23908 	oo6384 		oo6384		MerTP 		1467 	mercuric ion 		9.A.2 		X
+OSTLU_29586 	oo6384 		oo6384		MerTP 		1468 	mercuric ion 		9.A.2 		X
+OSTLU_33584 	oo6384 		oo6384		MEX 		638 	unknown substrate 		2.A.84 		X
+OSTLU_13668 	oo6384 		oo6384		MFS 		290 	Acetyl-CoA:CoA antiporter 		2.A.1 		X
+OSTLU_14174 	oo6384 		oo6384		MFS 		291 	sugar 		2.A.1 		X
+OSTLU_2301 	oo6384 		oo6384		MFS 		293 	organic cation 		2.A.1 		X
+OSTLU_26048 	oo6384 		oo6384		MFS 		295 	glycerol-3-phosphate 		2.A.1 		X
+OSTLU_26062 	oo6384 		oo6384		MFS 		296 	nitrate 		2.A.1 		X
+OSTLU_26513 	oo6384 		oo6384		MFS 		297 	multidrug efflux 		2.A.1 		X
+OSTLU_27075 	oo6384 		oo6384		MFS 		299 	glycerol-3-phosphate 		2.A.1 		X
+OSTLU_28563 	oo6384 		oo6384		MFS 		300 	multidrug efflux 		2.A.1 		X
+OSTLU_2917 	oo6384 		oo6384		MFS 		301 	organic cation 		2.A.1 		X
+OSTLU_2927 	oo6384 		oo6384		MFS 		303 	sodium ion:phosphate symporter 		2.A.1 		X
+OSTLU_29537 	oo6384 		oo6384		MFS 		304 	multidrug efflux 		2.A.1 		X
+OSTLU_30179 	oo6384 		oo6384		MFS 		306 	multidrug efflux 		2.A.1 		X
+OSTLU_30287 	oo6384 		oo6384		MFS 		307 	multidrug efflux 		2.A.1 		X
+OSTLU_30357 	oo6384 		oo6384		MFS 		308 	multidrug efflux 		2.A.1 		X
+OSTLU_30525 	oo6384 		oo6384		MFS 		309 	multidrug efflux 		2.A.1 		X
+OSTLU_30731 	oo6384 		oo6384		MFS 		310 	multidrug efflux 		2.A.1 		X
+OSTLU_31082 	oo6384 		oo6384		MFS 		311 	multidrug efflux 		2.A.1 		X
+OSTLU_31805 	oo6384 		oo6384		MFS 		313 	multidrug efflux 		2.A.1 		X
+OSTLU_31857 	oo6384 		oo6384		MFS 		314 	multidrug efflux 		2.A.1 		X
+OSTLU_32319 	oo6384 		oo6384		MFS 		315 	multidrug efflux 		2.A.1 		X
+OSTLU_3240 	oo6384 		oo6384		MFS 		316 	multidrug efflux 		2.A.1 		X
+OSTLU_32666 	oo6384 		oo6384		MFS 		317 	tetracycline efflux 		2.A.1 		X
+OSTLU_32694 	oo6384 		oo6384		MFS 		318 	nitrate/nitrite 		2.A.1 		X
+OSTLU_34203 	oo6384 		oo6384		MFS 		320 	sugar 		2.A.1 		X
+OSTLU_35010 	oo6384 		oo6384		MFS 		321 	sugar 		2.A.1 		X
+OSTLU_3784 	oo6384 		oo6384		MFS 		324 	multidrug efflux 		2.A.1 		X
+OSTLU_37881 	oo6384 		oo6384		MFS 		325 	sodium ion:phosphate symporter 		2.A.1 		X
+OSTLU_38010 	oo6384 		oo6384		MFS 		326 	organic cation 		2.A.1 		X
+OSTLU_38823 	oo6384 		oo6384		MFS 		327 	sodium ion:phosphate symporter 		2.A.1 		X
+OSTLU_41151 	oo6384 		oo6384		MFS 		329 	multidrug efflux 		2.A.1 		X
+OSTLU_42838 	oo6384 		oo6384		MFS 		330 	multidrug efflux 		2.A.1 		X
+OSTLU_43234 	oo6384 		oo6384		MFS 		331 	multidrug efflux 		2.A.1 		X
+OSTLU_43281 	oo6384 		oo6384		MFS 		332 	multidrug efflux 		2.A.1 		X
+OSTLU_43351 	oo6384 		oo6384		MFS 		333 	multidrug efflux 		2.A.1 		X
+OSTLU_49086 	oo6384 		oo6384		MFS 		335 	sodium ion:phosphate symporter 		2.A.1 		X
+OSTLU_52000 	oo6384 		oo6384		MFS 		337 	multidrug efflux 		2.A.1 		X
+OSTLU_86082 	oo6384 		oo6384		MFS 		338 	multidrug efflux 		2.A.1 		X
+OSTLU_87422 	oo6384 		oo6384		MFS 		339 	multidrug efflux 		2.A.1 		X
+OSTLU_93385 	oo6384 		oo6384		MFS 		340 	multidrug efflux 		2.A.1 		X
+OSTLU_94272 	oo6384 		oo6384		MFS 		341 	sodium ion:phosphate symporter 		2.A.1 		X
+OSTLU_94723 	oo6384 		oo6384		MFS 		342 	multidrug efflux 		2.A.1 		X
+OSTLU_25291 	oo6384 		oo6384		MIP 		208 	glycerol uptake 		1.A.8 		X
+OSTLU_32899 	oo6384 		oo6384		MIT 		73 	magnesium/cobalt ion 		1.A.35 		X
+OSTLU_40656 	oo6384 		oo6384		MIT 		74 	magnesium/cobalt ion 		1.A.35 		X
+OSTLU_16054 	oo6384 		oo6384		MOP 	MATE 	573 	multidrug efflux 		2.A.66 		X
+OSTLU_16871 	oo6384 		oo6384		MOP 	MATE 	574 	multidrug efflux 		2.A.66 		X
+OSTLU_27967 	oo6384 		oo6384		MOP 	MATE 	575 	multidrug efflux 		2.A.66 		X
+OSTLU_28091 	oo6384 		oo6384		MOP 	MATE 	576 	multidrug efflux 		2.A.66 		X
+OSTLU_28350 	oo6384 		oo6384		MOP 	MATE 	577 	multidrug efflux 		2.A.66 		X
+OSTLU_2943 	oo6384 		oo6384		MOP 	MATE 	578 	multidrug efflux 		2.A.66 		X
+OSTLU_30385 	oo6384 		oo6384		MOP 	MATE 	579 	multidrug efflux 		2.A.66 		X
+OSTLU_31014 	oo6384 		oo6384		MOP 	MATE 	580 	multidrug efflux 		2.A.66 		X
+OSTLU_31069 	oo6384 		oo6384		MOP 		581 	multidrug efflux 		2.A.66 		X
+OSTLU_31926 	oo6384 		oo6384		MOP 	MATE 	582 	multidrug efflux 		2.A.66 		X
+OSTLU_3441 	oo6384 		oo6384		MOP 	MATE 	583 	multidrug efflux 		2.A.66 		X
+OSTLU_47105 	oo6384 		oo6384		MOP 	MATE 	584 	multidrug efflux 		2.A.66 		X
+OSTLU_87197 	oo6384 		oo6384		MOP 	MATE 	585 	multidrug efflux 		2.A.66 		X
+OSTLU_13482 	oo6384 		oo6384		MPT 		1081 	inner membrane translocase (import) Tim10 		3.A.8 		X
+OSTLU_29100 	oo6384 		oo6384		MPT 		1087 	inner membrane translocase (import) Tim17 		3.A.8 		X
+OSTLU_33906 	oo6384 		oo6384		MPT 		1094 	inner membrane translocase (import) Tim10 		3.A.8 		X
+OSTLU_42709 	oo6384 		oo6384		MPT 		1099 	inner membrane translocase (import) Tim10 		3.A.8 		X
+OSTLU_7704 	oo6384 		oo6384		MPT 		1103 	inner membrane translocase (import) Tim17 		3.A.8 		X
+OSTLU_7965 	oo6384 		oo6384		MPT 		1105 	unknown substrate 		3.A.8 		X
+OSTLU_93853 	oo6384 		oo6384		MPT 		1107 	inner membrane translocase (import) Tim17 		3.A.8 		X
+OSTLU_94294 	oo6384 		oo6384		MPT 		1108 	inner membrane translocase (import) Tim17 		3.A.8 		X
+OSTLU_29320 	oo6384 		oo6384		MscS 		65 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+OSTLU_30945 	oo6384 		oo6384		MscS 		66 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+OSTLU_31666 	oo6384 		oo6384		MscS 		67 	small-conductance mechanosensitive ion channel 		1.A.23 		X
+OSTLU_24245 	oo6384 		oo6384		NCS1 		476 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+OSTLU_49824 	oo6384 		oo6384		NCS1 		477 	cytosine/purines/uracil/thiamine/allantoin 		2.A.39 		X
+OSTLU_4221 	oo6384 		oo6384		NhaA 		464 	sodium ion:proton antiporter 		2.A.33 		X
+OSTLU_27409 	oo6384 		oo6384		Nramp 		519 	manganese/iron ion 		2.A.55 		X
+OSTLU_87529 	oo6384 		oo6384		NSCC2 		63 	preprotein translocase Sec62 		1.A.15 		X
+OSTLU_3329 	oo6384 		oo6384		Oxa1 		642 	60 KD inner membrane protein OxaA homolog 		2.A.9 		X
+OSTLU_3334 	oo6384 		oo6384		Oxa1 		643 	60 KD inner membrane protein OxaA homolog 		2.A.9 		X
+OSTLU_40894 	oo6384 		oo6384		Oxa1 		644 	60 KD inner membrane protein OxaA homolog 		2.A.9 		X
+OSTLU_1206 	oo6384 		oo6384		P-ATPase 		1045 	zinc/cadmium/cobalt ion 		3.A.3 		X
+OSTLU_13063 	oo6384 		oo6384		P-ATPase 		1046 	zinc/cadmium/cobalt ion 		3.A.3 		X
+OSTLU_14777 	oo6384 		oo6384		P-ATPase 		1047 	calcium ion 		3.A.3 		X
+OSTLU_164 	oo6384 		oo6384		P-ATPase 		1049 	calcium ion 		3.A.3 		X
+OSTLU_199 	oo6384 		oo6384		P-ATPase 		1050 	calcium ion 		3.A.3 		X
+OSTLU_203 	oo6384 		oo6384		P-ATPase 		1051 	zinc/cadmium/cobalt ion 		3.A.3 		X
+OSTLU_27426 	oo6384 		oo6384		P-ATPase 		1052 	zinc/cadmium/cobalt ion 		3.A.3 		X
+OSTLU_29095 	oo6384 		oo6384		P-ATPase 		1053 	calcium ion 		3.A.3 		X
+OSTLU_40728 	oo6384 		oo6384		P-ATPase 		1054 	calcium ion 		3.A.3 		X
+OSTLU_41354 	oo6384 		oo6384		P-ATPase 		1055 	plasma proton 		3.A.3 		X
+OSTLU_42210 	oo6384 		oo6384		P-ATPase 		1056 	plasma proton 		3.A.3 		X
+OSTLU_43082 	oo6384 		oo6384		P-ATPase 		1057 	zinc/cadmium/cobalt ion 		3.A.3 		X
+OSTLU_48492 	oo6384 		oo6384		P-ATPase 		1058 	sodium ion:potassium ion antiporter 		3.A.3 		X
+OSTLU_49740 	oo6384 		oo6384		P-ATPase 		1059 	phospholipid 		3.A.3 		X
+OSTLU_516 	oo6384 		oo6384		P-ATPase 		1060 	calcium ion 		3.A.3 		X
+OSTLU_611 	oo6384 		oo6384		P-ATPase 		1062 	zinc/cadmium/cobalt ion 		3.A.3 		X
+OSTLU_119536 	oo6384 		oo6384		PiT 		399 	phosphate 		2.A.20 		X
+OSTLU_42057 	oo6384 		oo6384		PiT 		400 	phosphate 		2.A.20 		X
+OSTLU_50811 	oo6384 		oo6384		POT 		381 	proton:dipeptide/tripeptide symporter 		2.A.17 		X
+OSTLU_31074 	oo6384 		oo6384		Presenilin 		137 	archaeal calcium ion channel (Presenilin homolog) 		1.A.54 		X
+OSTLU_46801 	oo6384 		oo6384		Presenilin 		138 	unknown substrate 		1.A.54 		X
+OSTLU_5032 	oo6384 		oo6384		Presenilin 		139 	archaeal calcium ion channel (Presenilin homolog) 		1.A.54 		X
+OSTLU_8510 	oo6384 		oo6384		Presenilin 		140 	unknown substrate 		1.A.54 		X
+OSTLU_7690 	oo6384 		oo6384		RhtB 		1576 	amino acid efflux 		2.A.76 		X
+OSTLU_27841 	oo6384 		oo6384		RND 	EST 	536 	Patched (Ptc) segmentation polarity protein homolog 		2.A.6 		X
+OSTLU_29594 	oo6384 		oo6384		RND 	EST 	538 	Patched (Ptc) segmentation polarity protein homolog 		2.A.6 		X
+OSTLU_29977 	oo6384 		oo6384		RND 	EST 	539 	Patched (Ptc) segmentation polarity protein homolog 		2.A.6 		X
+OSTLU_33000 	oo6384 		oo6384		RND 	EST 	543 	Patched (Ptc) segmentation polarity protein homolog 		2.A.6 		X
+OSTLU_86304 	oo6384 		oo6384		RND 	EST 	562 	Patched (Ptc) segmentation polarity protein homolog 		2.A.6 		X
+OSTLU_119678 	oo6384 		oo6384		SSS 		401 	sodium ion:proline symporter 		2.A.21 		X
+OSTLU_24399 	oo6384 		oo6384		SSS 		403 	sodium ion:proline symporter 		2.A.21 		X
+OSTLU_26754 	oo6384 		oo6384		SSS 		404 	sodium ion:proline symporter 		2.A.21 		X
+OSTLU_32829 	oo6384 		oo6384		SulP 		515 	sulfate 		2.A.53 		X
+OSTLU_50753 	oo6384 		oo6384		SulP 		517 	sulfate 		2.A.53 		X
+OSTLU_10686 	oo6384 		oo6384		Tat 		569 	protein export 		2.A.64 		X
+OSTLU_43950 	oo6384 		oo6384		Tat 		571 	protein export 		2.A.64 		X
+OSTLU_9857 	oo6384 		oo6384		Tat 		572 	protein export 		2.A.64 		X
+OSTLU_16000 	oo6384 		oo6384		TerC 		1472 	tellurium ion efflux 		9.A.30 		X
+OSTLU_27614 	oo6384 		oo6384		TerC 		1473 	tellurium ion efflux 		9.A.30 		X
+OSTLU_31288 	oo6384 		oo6384		TRIC 		142 	unknown substrate 		1.A.62 		X
+OSTLU_16085 	oo6384 		oo6384		UBS1 		649 	unknown substrate 		9.A.43 		X
+OSTLU_16088 	oo6384 		oo6384		UBS1 		650 	unknown substrate 		9.A.43 		X
+OSTLU_33387 	oo6384 		oo6384		UBS1 		652 	sodium ion/ 		9.A.43 		X
+OSTLU_3803 	oo6384 		oo6384		UBS1 		653 	sodium ion/ 		9.A.43 		X
+OSTLU_13647 	oo6384 		oo6384		VIC 		3 	potassium ion channel 		1.A.1 		X
+OSTLU_16877 	oo6384 		oo6384		VIC 		6 	potassium ion channel 		1.A.1 		X
+OSTLU_18703 	oo6384 		oo6384		VIC 		8 	potassium ion channel 		1.A.1 		X
+OSTLU_28283 	oo6384 		oo6384		VIC 		14 	potassium ion channel 		1.A.1 		X
+OSTLU_28616 	oo6384 		oo6384		VIC 		15 	potassium ion channel 		1.A.1 		X
+OSTLU_31611 	oo6384 		oo6384		VIC 		20 	potassium ion channel 		1.A.1 		X
+OSTLU_32140 	oo6384 		oo6384		VIC 		22 	potassium ion channel 		1.A.1 		X
+OSTLU_41153 	oo6384 		oo6384		VIC 		31 	potassium ion channel 		1.A.1 		X
+OSTLU_43813 	oo6384 		oo6384		VIC 		36 	potassium ion channel 		1.A.1 		X
+OSTLU_45407 	oo6384 		oo6384		VIC 		37 	potassium ion channel 		1.A.1 		X
+OSTLU_7186 	oo6384 		oo6384		VIC 		41 	potassium ion channel 		1.A.1 		X
+OSTLU_7925 	oo6384 		oo6384		VIC 		43 	potassium ion channel 		1.A.1 		X
+OSTLU_86010 	oo6384 		oo6384		VIC 		45 	potassium ion channel 		1.A.1 		X
+OSTLU_88568 	oo6384 		oo6384		VIC 		48 	potassium ion channel 		1.A.1 		X
+OSTLU_94483 	oo6384 		oo6384		VIC 		55 	potassium ion channel 		1.A.1 		X
+OSTLU_7084 	oo6384 		oo6384		VIT 		641 	vacuolar iron uptake transporter homolog 		2.A.89 		X
+OSTLU_10630 	oo6384 		oo6384		YggT 		1474 	unknown substrate 		9.A.4 		X
+OSTLU_41246 	oo6384 		oo6384		YggT 		1476 	unknown substrate 		9.A.4 		X
+OSTLU_38402 	oo6384 		oo6384		YhaG 		1417 	tryptophan uptake 		9.A.15 		X
+OSTLU_18031 	oo6384 		oo6384		ZIP 		504 	zinc ion 		2.A.5 		X
+OSTLU_25431 	oo6384 		oo6384		ZIP 		505 	zinc ion 		2.A.5 		X
+OSTLU_27457 	oo6384 		oo6384		ZIP 		506 	zinc ion 		2.A.5 		X
+OSTLU_27890 	oo6384 		oo6384		ZIP 		507 	zinc ion 		2.A.5 		X
+OSTLU_29694 	oo6384 		oo6384		ZIP 		508 	zinc ion 		2.A.5 		X
+OSTLU_42358 	oo6384 		oo6384		ZIP 		509 	zinc ion 		2.A.5 		X
+OSTLU_86026 	oo6384 		oo6384		ZIP 		510 	zinc ion 		2.A.5 		X
+OSTLU_89316 	oo6384 		oo6384		ZIP 		511 	zinc ion 		2.A.5 		X

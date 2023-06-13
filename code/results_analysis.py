@@ -59,10 +59,13 @@ def load_transportdb_results(filename):
     transportdb_results = pd.read_csv(filename, header=None, index_col=0, sep="\t")
     transportdb_results.dropna(axis=1, how='all', inplace=True)
     num_cols = len(transportdb_results.columns)
-    transportdb_results.columns = ["substrate"] + [f"col{i}" for i in range(1, num_cols-2)] + ["family", "last_col"]
+    transportdb_results.columns = [f"col{i}" for i in range(1, num_cols-1)] + ["family", "last_col"]
+    transportdb_results["substrate"] = transportdb_results["col6"]
     transportdb_results.index = transportdb_results.index.str.lower()
     transportdb_results.index = transportdb_results.index.str.strip()
     transportdb_results.index = transportdb_results.index.str.replace("-", "_")
+    ### strip all columns
+    transportdb_results = transportdb_results.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
     transportdb_results_temp = transportdb_results.drop(columns=["substrate", "col1", "col2", "col3", "col4", "last_col"], axis=1)
     ## discard rows where family starts by 9
     duplicated_index = transportdb_results_temp[transportdb_results_temp.index.duplicated(keep=False)]
@@ -136,7 +139,7 @@ def create_pie_chart(tdb_results, transyt_results, title):
     fig, (ax1, ax2) = plt.subplots(1, 2)
     fig.suptitle(title)
     ax1.pie(tdb.values(), labels=tdb.keys(), autopct='%1.1f%%')
-    ax1.set_title("TransportDB")
+    ax1.set_title("TransAAP")
     ax2.pie(transyt.values(), labels=transyt.keys(), autopct='%1.1f%%')
     ax2.set_title("Transyt")
     #plt.show()
@@ -172,23 +175,24 @@ def case_study_analysis(case_study_results: list):
     anaylise_substrates_missing(case_study_results[0], case_study_results[1], case_study_results[2])
 
 
-def venn_diagram(case_study_results, case_study):
+def venn_diagram(case_study_results, case_study, parameter_set):
     plt.clf()
-    plt.figure(figsize=(2, 2))
+    plt.figure(figsize=(2.3, 2.3))
     total = len(set(case_study_results[1].keys()).union(set(case_study_results[2].keys())))
-    venn2([set(case_study_results[1].keys()), set(case_study_results[2].keys())], set_labels=('TransportDB', 'TranSyT'),
+    venn2([set(case_study_results[1].keys()), set(case_study_results[2].keys())], set_labels=('TransAAP', 'TranSyT'),
           subset_label_formatter=lambda x: str(x) + "\n(" + f"{(x/total):1.0%}" + ")")
     plt.title(case_study[0] + ". " + ''.join(case_study[1:]), fontstyle='italic', fontsize=10) # + " - " + parameter_set
     # set fontsize
     for text in plt.gca().texts:
         text.set_fontsize(8)
-    plt.savefig(f"{case_study}/{case_study}.png")
+    # plt.show()
+    plt.savefig(f"{case_study}/{parameter_set}.png", bbox_inches='tight')
 
 
 if __name__ == '__main__':
     os.chdir("../case_study")
     case_studies = ["Scerevisiae", "Paeruginosa", "Olucimarinus"]  #, "Blongum"
-    parameter_sets = {"cov_80": "restricted"} #"cov_60": "relaxed",
+    parameter_sets = {"default": "default", "relaxed": "relaxed"} #"cov_60": "relaxed",
     case_study_results_map = {}
     for case_study in case_studies:
         print(case_study)
@@ -197,4 +201,4 @@ if __name__ == '__main__':
             transyt = load_transyt_results([rf'{case_study}/{parameter_set}/results/results/scoresMethod1.txt', rf'{case_study}/{parameter_set}/results/results/scoresMethod2.txt'])
             case_study_results_map[case_study] = [transportdb_df, transportdb_dict, transyt]
             case_study_analysis(case_study_results_map[case_study])
-            venn_diagram(case_study_results_map[case_study], name)
+            venn_diagram(case_study_results_map[case_study], case_study, name)
