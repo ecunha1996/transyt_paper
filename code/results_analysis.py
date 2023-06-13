@@ -7,42 +7,12 @@ from matplotlib_venn import venn2
 ###  show all columns of a dataframe
 pd.set_option('display.max_columns', None)
 
-
-def main():
-    transportdb_df, transportdb_dict = load_transportdb_results(r'load_transportdb_results.csv')
-    transyt = load_transyt_results([r'results/scoresMethod1.txt', r'results/scoresMethod2.txt'])
-    print(transportdb_dict)
-    print("#"*100)
-    print(transyt)
-    print('BBMN68_1022' in transyt.keys())
-    diff = set(transportdb_dict.keys()) - set(transyt.keys())
-    print(diff)
-    df_diff = transportdb_df.loc[transportdb_df.index.isin(diff)]
-    print(df_diff)
-    df_diff.to_csv("diff.csv")
-    print("#"*100)
-
-    diff2 = set(set(transyt.keys() - transportdb_dict.keys()))
-    print(diff2)
-    df_diff2 = pd.DataFrame.from_dict({key:value for key, value in transyt.items() if key in diff2}, orient='index')
-    df_diff2.to_csv("in_transyt_not_tdb.csv")
-    # substrates = transportdb_df["substrate"].tolist()
-    #count each substrate
-    # substrates_count = {}
-    # for substrate in substrates:
-    #     substrates_count[substrate] = substrates.count(substrate)
-    # print(substrates_count)
-    # # count each family
-    # families = transportdb_df["family"].tolist()
-    # families_count = {}
-    # for family in families:
-    #     families_count[family] = families.count(family)
-    # print(families_count)
-    # print(transportdb_df.loc[transportdb_df["family"] == "3.A.1"])
-    # transportdb_df.loc[transportdb_df["family"] == "3.A.1"].to_csv("3.A.1.csv")
-
-
 def load_transyt_results(filenames):
+    """
+    Load results from transyt.
+    :param filenames: list of filenames
+    :return: dictionary with results
+    """
     results , method2 = {}, {}
     for filename in filenames:
         if filename.endswith('scoresMethod1.txt'):
@@ -55,7 +25,12 @@ def load_transyt_results(filenames):
     return results
 
 
-def load_transportdb_results(filename):
+def load_transaap_results(filename):
+    """
+    Load results from transaap.
+    :param filename:
+    :return:
+    """
     transportdb_results = pd.read_csv(filename, header=None, index_col=0, sep="\t")
     transportdb_results.dropna(axis=1, how='all', inplace=True)
     num_cols = len(transportdb_results.columns)
@@ -64,11 +39,8 @@ def load_transportdb_results(filename):
     transportdb_results.index = transportdb_results.index.str.lower()
     transportdb_results.index = transportdb_results.index.str.strip()
     transportdb_results.index = transportdb_results.index.str.replace("-", "_")
-    ### strip all columns
     transportdb_results = transportdb_results.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
     transportdb_results_temp = transportdb_results.drop(columns=["substrate", "col1", "col2", "col3", "col4", "last_col"], axis=1)
-    ## discard rows where family starts by 9
-    duplicated_index = transportdb_results_temp[transportdb_results_temp.index.duplicated(keep=False)]
     transportdb_results_dict = transportdb_results_temp.to_dict(orient="index")
     for key, value in transportdb_results_dict.items():
         transportdb_results_dict[key] = value["family"]
@@ -76,6 +48,11 @@ def load_transportdb_results(filename):
 
 
 def parse_results(file_path):
+    """
+    Parse results from transyt.
+    :param file_path:
+    :return:
+    """
     results = {}
     with open(file_path, 'r') as file:
         lines = file.readlines()
@@ -92,6 +69,11 @@ def parse_results(file_path):
     return results
 
 def parse_method2(file_path):
+    """
+    Parse results from transyt with method 2.
+    :param file_path:
+    :return:
+    """
     genes = {}
     with open(file_path, 'r') as file:
         lines = file.readlines()
@@ -101,6 +83,11 @@ def parse_method2(file_path):
 
 
 def get_different_genes(case_study_results):
+    """
+    Get genes that are in transportdb but not in transyt and vice versa.
+    :param case_study_results:
+    :return:
+    """
     in_tdb_not_in_transyt = set(case_study_results[1].keys()) - set(case_study_results[2].keys())
     in_transyt_not_in_tdb = set(case_study_results[2].keys()) - set(case_study_results[1].keys())
     print(f"Number of genes in transportdb but not in transyt: {len(in_tdb_not_in_transyt)}")
@@ -109,6 +96,11 @@ def get_different_genes(case_study_results):
 
 
 def get_family_distribution(gene_family_dict:dict):
+    """
+    Get distribution of gene families.
+    :param gene_family_dict:
+    :return:
+    """
     family_distribution = {}
     for key, value in gene_family_dict.items():
         family = '.'.join(value.split(".")[:3])
@@ -123,6 +115,13 @@ def get_family_distribution(gene_family_dict:dict):
 
 
 def create_pie_chart(tdb_results, transyt_results, title):
+    """
+    Create pie chart from results.
+    :param tdb_results:
+    :param transyt_results:
+    :param title:
+    :return:
+    """
     # create pie char from dict
     tdb, transyt = {'other':0}, {'other':0}
     for key, value in tdb_results.items():
@@ -146,6 +145,13 @@ def create_pie_chart(tdb_results, transyt_results, title):
 
 
 def anaylise_substrates_missing(tdb_df, tdb_dict, transyt_dict):
+    """
+    Analyse substrates that are in transportdb but not in transyt.
+    :param tdb_df:
+    :param tdb_dict:
+    :param transyt_dict:
+    :return:
+    """
     diff = set(tdb_dict.keys()) - set(transyt_dict.keys())
     print(f"Number of substrates in transportdb but not in transyt: {len(diff)}")
     families = tdb_df["family"].loc[list(diff)].tolist()
@@ -162,6 +168,11 @@ def anaylise_substrates_missing(tdb_df, tdb_dict, transyt_dict):
     print(substrates_count)
 
 def case_study_analysis(case_study_results: list):
+    """
+    Analyse case study results.
+    :param case_study_results:
+    :return:
+    """
     different_genes = get_different_genes(case_study_results)
     print("Genes in transyt but not in transportdb:")
     print(different_genes[1])
@@ -176,6 +187,13 @@ def case_study_analysis(case_study_results: list):
 
 
 def venn_diagram(case_study_results, case_study, parameter_set):
+    """
+    Create venn diagram from case study results.
+    :param case_study_results:
+    :param case_study:
+    :param parameter_set:
+    :return:
+    """
     plt.clf()
     plt.figure(figsize=(2.3, 2.3))
     total = len(set(case_study_results[1].keys()).union(set(case_study_results[2].keys())))
@@ -197,7 +215,7 @@ if __name__ == '__main__':
     for case_study in case_studies:
         print(case_study)
         for parameter_set, name in parameter_sets.items():
-            transportdb_df, transportdb_dict = load_transportdb_results(rf'{case_study}/transaap.txt')
+            transportdb_df, transportdb_dict = load_transaap_results(rf'{case_study}/transaap.txt')
             transyt = load_transyt_results([rf'{case_study}/{parameter_set}/results/results/scoresMethod1.txt', rf'{case_study}/{parameter_set}/results/results/scoresMethod2.txt'])
             case_study_results_map[case_study] = [transportdb_df, transportdb_dict, transyt]
             case_study_analysis(case_study_results_map[case_study])
