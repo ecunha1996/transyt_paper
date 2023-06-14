@@ -197,8 +197,8 @@ def venn_diagram(case_study_results, case_study, parameter_set):
     plt.clf()
     plt.figure(figsize=(2.3, 2.3))
     total = len(set(case_study_results[1].keys()).union(set(case_study_results[2].keys())))
-    venn2([set(case_study_results[1].keys()), set(case_study_results[2].keys())], set_labels=('TransAAP', 'TranSyT'),
-          subset_label_formatter=lambda x: str(x) + "\n(" + f"{(x/total):1.0%}" + ")")
+    venn2([set(case_study_results[1].keys()), set(case_study_results[2].keys())], set_labels=('TransAAP', 'TranSyT'))
+          # subset_label_formatter=lambda x: str(x) + "\n(" + f"{(x/total):1.0%}" + ")")
     plt.title(case_study[0] + ". " + ''.join(case_study[1:]), fontstyle='italic', fontsize=10) # + " - " + parameter_set
     # set fontsize
     for text in plt.gca().texts:
