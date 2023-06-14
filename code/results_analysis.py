@@ -3,6 +3,7 @@ import os
 import pandas as pd
 from matplotlib import pyplot as plt
 from matplotlib_venn import venn2
+from uniprot import Uniprot
 
 ###  show all columns of a dataframe
 pd.set_option('display.max_columns', None)
@@ -110,7 +111,7 @@ def get_family_distribution(gene_family_dict:dict):
             family_distribution[family] = 1
     # sort dict
     family_distribution = {k: v for k, v in sorted(family_distribution.items(), key=lambda item: item[1], reverse=True)}
-    print(family_distribution)
+    # print(family_distribution)
     return family_distribution
 
 
@@ -174,16 +175,17 @@ def case_study_analysis(case_study_results: list):
     :return:
     """
     different_genes = get_different_genes(case_study_results)
-    print("Genes in transyt but not in transportdb:")
-    print(different_genes[1])
+    # print("Genes in transyt but not in transportdb:")
+    # print(different_genes[1])
     print("Genes in transportdb but not in transyt:")
     print(different_genes[0])
     print('Transyt family distribution:')
     familly_distribution_transyt = get_family_distribution(case_study_results[2])
-    print('Transportdb family distribution:')
+    # print('Transportdb family distribution:')
     familly_distribution_transportdb = get_family_distribution(case_study_results[1])
     create_pie_chart(familly_distribution_transportdb, familly_distribution_transyt, case_study)
     anaylise_substrates_missing(case_study_results[0], case_study_results[1], case_study_results[2])
+    return different_genes[0], different_genes[1]
 
 
 def venn_diagram(case_study_results, case_study, parameter_set):
@@ -207,16 +209,54 @@ def venn_diagram(case_study_results, case_study, parameter_set):
     plt.savefig(f"{case_study}/{parameter_set}.png", bbox_inches='tight')
 
 
+def search_at_uniprot(in_transyt_not_in_tdb):
+    statistics = {"Positive": 0, "Negative": 0, "Total": 0}
+    final_results = {}
+    uniprot = Uniprot()
+    for gene in in_transyt_not_in_tdb:
+        results = uniprot.search_by_accession(gene)
+        if len(results) > 0:
+            is_transporter = False
+            for keyword in results[0]['keywords']:
+                if 'category' in keyword.keys() and keyword['category'] == 'Biological process':
+                    if "transport" in keyword['name'].lower() or "import" in keyword['name'].lower() or "export" in keyword['name'].lower():
+                        is_transporter = True
+            for cross_ref in results[0]['uniProtKBCrossReferences']:
+                if cross_ref['database'] == 'TCDB':
+                    is_transporter = True
+                if cross_ref['database'] == 'GO':
+                    for prop in cross_ref['properties']:
+                        if "transport" in prop['value'].lower() or "import" in prop['value'].lower() or "export" in prop['value'].lower():
+                            is_transporter = True
+            final_results[gene] = is_transporter
+            statistics["Total"] += 1
+            if is_transporter:
+                statistics["Positive"] += 1
+            else:
+                statistics["Negative"] += 1
+    print(statistics)
+    print("No match:")
+    for key, value in final_results.items():
+        if not value:
+            print(key)
+    print("Positive match:")
+    for key, value in final_results.items():
+        if value:
+            print(key)
+
+
 if __name__ == '__main__':
     os.chdir("../case_study")
     case_studies = ["Scerevisiae", "Paeruginosa", "Olucimarinus"]  #, "Blongum"
-    parameter_sets = {"default": "default", "relaxed": "relaxed"} #"cov_60": "relaxed",
+    parameter_sets = {"default", "relaxed"} #"cov_60": "relaxed",
     case_study_results_map = {}
     for case_study in case_studies:
         print(case_study)
-        for parameter_set, name in parameter_sets.items():
+        for parameter_set in parameter_sets:
             transportdb_df, transportdb_dict = load_transaap_results(rf'{case_study}/transaap.txt')
             transyt = load_transyt_results([rf'{case_study}/{parameter_set}/results/results/scoresMethod1.txt', rf'{case_study}/{parameter_set}/results/results/scoresMethod2.txt'])
             case_study_results_map[case_study] = [transportdb_df, transportdb_dict, transyt]
-            case_study_analysis(case_study_results_map[case_study])
-            venn_diagram(case_study_results_map[case_study], case_study, name)
+            _ ,in_transyt_not_in_tdb = case_study_analysis(case_study_results_map[case_study])
+            venn_diagram(case_study_results_map[case_study], case_study, parameter_set)
+            search_at_uniprot(in_transyt_not_in_tdb)
+
